@@ -1,0 +1,1 @@
+{"name":"hilka-sviata","private":true,"type":"module","scripts":{"build":"node build.mjs","start":"npm run build && node server.mjs"},"dependencies":{"esbuild":"^0.28.2","react":"^19.3.1","react-dom":"^19.3.1"}}

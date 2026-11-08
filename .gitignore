@@ -1,0 +1,8 @@
+node_modules/
+build/
+dist/
+.sanity/
+catalog.sqlite*
+public/shop.js
+.env*
+
