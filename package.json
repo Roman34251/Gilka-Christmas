@@ -1,1 +1,21 @@
-{"name":"hilka-sviata","private":true,"type":"module","scripts":{"build":"node build.mjs","start":"npm run build && node server.mjs"},"dependencies":{"esbuild":"^0.28.2","react":"^19.3.1","react-dom":"^19.3.1"}}
+{
+  "name": "hilka-sviata",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "npm run build && wrangler dev --port 4173",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "wrangler": "^4.158.0"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

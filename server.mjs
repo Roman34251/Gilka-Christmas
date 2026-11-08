@@ -1,45 +1,94 @@
-import {render} from "./build/render.mjs"
-import {createServer} from 'node:http'
-import {readFileSync,existsSync} from 'node:fs'
-import {DatabaseSync} from 'node:sqlite'
-import {ornament} from './art.mjs'
-import {fileURLToPath} from 'node:url'
-import {loadEnvFile} from 'node:process'
-process.chdir(fileURLToPath(new URL('.',import.meta.url)))
-if (existsSync('.env')) loadEnvFile('.env')
-const db=new DatabaseSync('catalog.sqlite')
-db.exec('CREATE TABLE IF NOT EXISTS products (id TEXT PRIMARY KEY,name TEXT,category TEXT,price INTEGER,detail TEXT,image TEXT)')
-const seeds=[
- ['ruby','Куля «Гранат»','Кулі',290,'Рубінове скло з виразними рельєфними гранями. Діаметр 8 см.'],
- ['drop','Підвіска «Крапля»','Підвіски',340,'Золотиста підвіска видовженої форми. Висота 12 см.'],
- ['star','Зірка «Вечірня»','Зірки',260,'П’ятипроменева зірка кольору шампанського. Ширина 9 см.'],
- ['spruce','Підвіска «Смерека»','Підвіски',310,'Ялинка з хвилястим рельєфом у хвойному відтінку. Висота 10 см.']]
-seeds.forEach((p,i)=>db.prepare('INSERT OR IGNORE INTO products VALUES (?,?,?,?,?,?)').run(...p,'/art/'+i+'.svg'))
-async function products(){
- if(!process.env.SANITY_PROJECT_ID)return db.prepare('SELECT * FROM products ORDER BY rowid').all().map(p=>({...p,images:[p.image]}))
- const query='*[_type=="product" && defined(price) && defined(name)]|order(name){ "id":_id,name,category,price,detail,"images":gallery[].asset->url }'
- const url=new URL('https://'+process.env.SANITY_PROJECT_ID+'.api.sanity.io/v2025-02-19/data/query/'+(process.env.SANITY_DATASET||'production'))
- url.searchParams.set('query',query)
- url.searchParams.set('perspective','published')
- const r=await fetch(url,{signal:AbortSignal.timeout(6000)})
- if(!r.ok)throw Error('CMS')
- return (await r.json()).result.map(p=>({...p,image:p.images?.[0]||'/art/0.svg'}))
-}
-const files={'/style.css':'text/css','/shop.js':'text/javascript','/hero.jpg':'image/jpeg'}
-const template=readFileSync('public/index.html','utf8')
-const server=createServer(async(req,res)=>{
- const path=new URL(req.url,'http://localhost').pathname
- function send(status,type,body){res.writeHead(status,{'Content-Type':type,'X-Content-Type-Options':'nosniff'});res.end(body)}
- try{
- if(files[path]&&existsSync('public'+path))return send(200,files[path],readFileSync('public'+path))
- if(/^\/art\/[0-3]\.svg$/.test(path))return send(200,'image/svg+xml',ornament(Number(path[5])))
- if(path!=='/'&&path!=='/api/products')return send(404,'text/plain; charset=utf-8','Сторінку не знайдено')
- const items=await products()
- if(path==='/api/products')return send(200,'application/json',JSON.stringify(items))
- const data={items,email:process.env.ORDER_EMAIL||'',demo:!process.env.SANITY_PROJECT_ID}
- const model=JSON.stringify(data).replaceAll('<','\\u003c')
- send(200,'text/html; charset=utf-8',template.replace('<!--app-->',()=>render(data)).replace('/*model*/',()=>model))
- }catch(e){console.error(e.message);send(503,'text/plain; charset=utf-8','Каталог тимчасово недоступний. Оновіть сторінку.')}
-})
-server.listen(Number(process.env.PORT||4173),process.env.HOST||'127.0.0.1',()=>console.log('Гілка свята — порт '+server.address().port))
+import { render } from './render.jsx'
+import template from './public/index.html'
 
+const demoProducts = [
+  ['ruby', 'Куля «Гранат»', 'Кулі', 290, 'Рубінове скло з виразними рельєфними гранями. Діаметр 8 см.'],
+  ['drop', 'Підвіска «Крапля»', 'Підвіски', 340, 'Золотиста підвіска видовженої форми. Висота 12 см.'],
+  ['star', 'Зірка «Вечірня»', 'Зірки', 260, 'П’ятипроменева зірка кольору шампанського. Ширина 9 см.'],
+  ['spruce', 'Підвіска «Смерека»', 'Підвіски', 310, 'Ялинка з хвилястим рельєфом у хвойному відтінку. Висота 10 см.'],
+].map(([id, name, category, price, detail], index) => ({
+  id, name, category, price, detail,
+  image: '/art/' + index + '.svg',
+  images: ['/art/' + index + '.svg'],
+}))
+
+async function loadProducts(env) {
+  if (!env.SANITY_PROJECT_ID) return demoProducts
+
+  const dataset = env.SANITY_DATASET || 'production'
+  const url = new URL(
+    'https://' + env.SANITY_PROJECT_ID + '.api.sanity.io/v2025-02-19/data/query/' + dataset,
+  )
+  url.searchParams.set('query', [
+    '*[_type == "product" && defined(price) && defined(name)] | order(name) {',
+    '"id": _id, name, category, price, detail, "images": gallery[].asset->url',
+    '}',
+  ].join(' '))
+  url.searchParams.set('perspective', 'published')
+
+  const response = await fetch(url, { signal: AbortSignal.timeout(6000) })
+  if (!response.ok) throw new Error('Sanity returned ' + response.status)
+
+  const { result } = await response.json()
+  if (!Array.isArray(result)) throw new Error('Invalid Sanity catalogue response')
+
+  return result.map(product => {
+    const images = (product.images || []).filter(Boolean)
+    return { ...product, images, image: images[0] || '/art/0.svg' }
+  })
+}
+
+function reply(request, body, status, type, extraHeaders = {}) {
+  return new Response(request.method === 'HEAD' ? null : body, {
+    status,
+    headers: {
+      'Content-Type': type,
+      'X-Content-Type-Options': 'nosniff',
+      // Опубліковані в Sanity зміни підтягуються після оновлення сторінки.
+      'Cache-Control': 'no-store',
+      ...extraHeaders,
+    },
+  })
+}
+
+export default {
+  async fetch(request, env) {
+    if (request.method !== 'GET' && request.method !== 'HEAD') {
+      return reply(request, 'Method not allowed', 405, 'text/plain', { Allow: 'GET, HEAD' })
+    }
+
+    const path = new URL(request.url).pathname
+    if (path !== '/' && path !== '/api/products') {
+      const asset = await env.ASSETS.fetch(request)
+      if (asset.status !== 404) return asset
+      return reply(request, 'Сторінку не знайдено', 404, 'text/plain; charset=utf-8')
+    }
+
+    try {
+      const items = await loadProducts(env)
+      if (path === '/api/products') {
+        return reply(request, JSON.stringify(items), 200, 'application/json; charset=utf-8')
+      }
+
+      const data = {
+        items,
+        email: env.ORDER_EMAIL || '',
+        demo: !env.SANITY_PROJECT_ID,
+      }
+      // Екранування захищає JSON script від закриття текстом товару.
+      const model = JSON.stringify(data).replaceAll('<', '\\u003c')
+      const html = template
+        .replace('<!--app-->', () => render(data))
+        .replace('/*model*/', () => model)
+      return reply(request, html, 200, 'text/html; charset=utf-8')
+    } catch (error) {
+      console.error('Catalogue request failed:', error.message)
+      if (path === '/api/products') {
+        return reply(request, JSON.stringify({ error: 'Каталог тимчасово недоступний' }),
+          503, 'application/json; charset=utf-8', { 'Retry-After': '30' })
+      }
+      return reply(request, 'Каталог тимчасово недоступний. Оновіть сторінку.',
+        503, 'text/plain; charset=utf-8', { 'Retry-After': '30' })
+    }
+  },
+}

@@ -6,3 +6,6 @@ catalog.sqlite*
 public/shop.js
 .env*
 
+
+.dev.vars*
+.wrangler/
