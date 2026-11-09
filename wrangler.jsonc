@@ -7,12 +7,27 @@
   "assets": {
     "directory": "./dist/assets",
     "binding": "ASSETS",
-    "run_worker_first": ["/", "/api/*"],
+    "run_worker_first": [
+      "/",
+      "/api/*",
+      "/catalog",
+      "/catalog/*",
+      "/product/*",
+      "/cart",
+      "/checkout",
+      "/order",
+      "/delivery",
+      "/returns",
+      "/privacy",
+      "/contacts",
+      "/robots.txt",
+      "/sitemap.xml",
+    ],
     "html_handling": "none",
-    "not_found_handling": "none"
+    "not_found_handling": "none",
   },
   "vars": {
     "SANITY_PROJECT_ID": "fcl0yp5j",
-    "SANITY_DATASET": "production"
-  }
+    "SANITY_DATASET": "production",
+  },
 }
