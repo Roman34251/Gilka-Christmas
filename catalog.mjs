@@ -36,6 +36,29 @@ export const money = (value) =>
   " ₴";
 export const productUrl = (p) =>
   "/product/" + encodeURIComponent(p.slug || p.id);
+export function modelVariants(items, product) {
+  if (!product.modelCode) return [product];
+  return items
+    .filter((p) => p.modelCode === product.modelCode && p.category === product.category)
+    .sort((a, b) => (a.sizeMeters ?? Infinity) - (b.sizeMeters ?? Infinity) || a.id.localeCompare(b.id));
+}
+export function groupModels(items) {
+  const groups = new Map();
+  for (const p of items) {
+    const key = p.modelCode ? JSON.stringify([p.category, p.modelCode]) : p.id;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(p);
+  }
+  return [...groups.values()].map((members) => {
+    if (members.length === 1) return members[0];
+    const available = members.filter((p) => p.available !== false);
+    const cheapest = [...(available.length ? available : members)].sort((a,b)=>a.price-b.price || a.id.localeCompare(b.id))[0];
+    const photographed = members.find((p) => p.images?.length);
+    return {...cheapest, name: cheapest.modelName || cheapest.name, priceFrom: true,
+      oldPrice: undefined, available: available.length > 0, variants: members,
+      image: cheapest.images?.length ? cheapest.image : photographed?.image || cheapest.image};
+  });
+}
 export const demoProducts = [
   {
     id: "tree-forest",

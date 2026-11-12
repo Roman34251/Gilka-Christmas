@@ -34,6 +34,29 @@ const product = defineType({
     }),
     defineField({ name: "sku", title: "Артикул", type: "string" }),
     defineField({
+      name: "modelCode",
+      title: "Спільний код моделі",
+      type: "string",
+      description: "Однаковий для всіх розмірів однієї моделі та виконання. Артикул кожного розміру залишається окремим.",
+    }),
+    defineField({
+      name: "modelName",
+      title: "Назва моделі без розміру",
+      type: "string",
+    }),
+    defineField({
+      name: "sizeMeters",
+      title: "Розмір у метрах",
+      description: "Висота ялинки, довжина гірлянди або діаметр вінка.",
+      type: "number",
+      validation: (r) => r.positive(),
+    }),
+    defineField({
+      name: "sizeLabel",
+      title: "Розмір для показу на сайті",
+      type: "string",
+    }),
+    defineField({
       name: "price",
       title: "Ціна у гривнях",
       type: "number",

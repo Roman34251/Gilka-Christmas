@@ -1,0 +1,53 @@
+{
+  "shopName": "Гілка свята",
+  "company": "Гілка свята",
+  "siteUrl": "https://ukraine.gilka-christmas.pp.ua",
+  "defaultBrand": "Гілка свята",
+  "stockQuantity": 5,
+  "categories": {
+    "trees": {
+      "id": 1,
+      "name": "Штучні ялинки"
+    },
+    "wreaths": {
+      "id": 2,
+      "name": "Різдвяні вінки"
+    },
+    "decor": {
+      "id": 3,
+      "name": "Ялинкові прикраси"
+    },
+    "treats": {
+      "id": 4,
+      "name": "Новорічні смаколики"
+    }
+  },
+  "epicentr": {
+    "categories": {
+      "trees": {
+        "code": "11111",
+        "name": "Штучні ялинки"
+      },
+      "wreaths": {
+        "code": "33333",
+        "name": "Різдвяні вінки"
+      },
+      "decor": {
+        "code": "22222",
+        "name": "Ялинкові прикраси"
+      },
+      "treats": {
+        "code": "44444",
+        "name": "Новорічні смаколики"
+      }
+    }
+  },
+  "monomarket": {
+    "categories": {
+      "trees": "Штучні ялинки",
+      "wreaths": "Різдвяні вінки",
+      "decor": "Ялинкові прикраси",
+      "treats": "Новорічні смаколики"
+    }
+  }
+}

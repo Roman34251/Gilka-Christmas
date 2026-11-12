@@ -7,6 +7,7 @@ import {
   productUrl,
 } from "./catalog.mjs";
 import { orderApi, json } from "./commerce.mjs";
+import { carrierApi } from "./carriers.mjs";
 export async function loadProducts(env) {
   if (!env.SANITY_PROJECT_ID) return demoProducts;
   const url = new URL(
@@ -17,7 +18,7 @@ export async function loadProducts(env) {
   );
   url.searchParams.set(
     "query",
-    '*[_type == "product" && defined(price) && defined(name)] | order(name) {"id": _id, "slug": slug.current, name, category, price, oldPrice, detail, sku, available, specifications, "images": gallery[].asset->url}',
+    '*[_type == "product" && defined(price) && defined(name)] | order(name) {"id": _id, "slug": slug.current, name, modelCode, modelName, sizeMeters, sizeLabel, category, price, oldPrice, detail, sku, available, specifications, "images": gallery[].asset->url}',
   );
   url.searchParams.set("perspective", "published");
   const response = await fetch(url, { signal: AbortSignal.timeout(6000) });
@@ -73,6 +74,8 @@ export default {
       return orderApi(request, env, loadProducts);
     if (!["GET", "HEAD"].includes(request.method))
       return json({ error: "Метод не підтримується" }, 405);
+    if (path.startsWith("/api/np/") || path.startsWith("/api/ukr/"))
+      return carrierApi(url);
     if (path === "/robots.txt")
       return reply(
         request,
@@ -162,7 +165,7 @@ export default {
             "Різдвяна колекція") + " — Гілка свята";
       const description =
         product?.detail?.slice(0, 160) ||
-        "Ялинки, різдвяні прикраси, вінки та новорічні смаколики. Створіть своє свято з Гілкою свята. Доставка Новою поштою.";
+        "Ялинки, різдвяні прикраси, вінки та новорічні смаколики. Створіть своє свято з Гілкою свята. Доставка Новою поштою та Укрпоштою.";
       const model = JSON.stringify(data).replaceAll("<", "\\u003c");
       const html = template
         .replace("<!--app-->", () => render(data))

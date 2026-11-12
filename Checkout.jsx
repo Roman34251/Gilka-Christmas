@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { Icon } from "./Brand";
 import { money, productUrl } from "./catalog.mjs";
 export default function Checkout({
@@ -11,7 +11,8 @@ export default function Checkout({
   clear,
 }) {
   const [payment, setPayment] = useState("cod"),
-    [delivery, setDelivery] = useState("branch"),
+    [delivery, setDelivery] = useState("novaposhta"),
+    [point, setPoint] = useState(null),
     [busy, setBusy] = useState(false),
     [error, setError] = useState(""),
     [result, setResult] = useState(null),
@@ -55,6 +56,12 @@ export default function Checkout({
     setError("");
     try {
       const fields = Object.fromEntries(new FormData(e.currentTarget));
+      if (!point)
+        throw new Error(
+          delivery === "novaposhta"
+            ? "Оберіть місто й відділення Нової пошти зі списку."
+            : "Вкажіть індекс відділення Укрпошти — адреса підтягнеться автоматично.",
+        );
       const phoneDigits = String(fields.phone || "").replace(/[^0-9]/g, "");
       if (!/^(?:380\d{9}|0\d{9})$/.test(phoneDigits)) {
         form.current.elements.phone.focus();
@@ -78,8 +85,9 @@ export default function Checkout({
           customer: {
             name: fields.name,
             phone: fields.phone,
-            city: fields.city,
-            point: fields.point,
+            city: point.city,
+            point: point.label,
+            pointId: point.id,
             comment: fields.comment,
           },
           delivery,
@@ -248,59 +256,35 @@ export default function Checkout({
           </fieldset>
           <fieldset>
             <legend>
-              <span>02</span> Доставка Новою поштою
+              <span>02</span> Доставка у відділення
             </legend>
             <div className="radio-options">
-              <label>
-                <input
-                  type="radio"
-                  name="delivery"
-                  checked={delivery === "branch"}
-                  onChange={() => setDelivery("branch")}
-                />
-                У відділення
-              </label>
-              <label>
-                <input
-                  type="radio"
-                  name="delivery"
-                  disabled={hasFood}
-                  checked={delivery === "locker"}
-                  onChange={() => setDelivery("locker")}
-                />
-                У поштомат
-              </label>
+              {[
+                ["novaposhta", "Нова пошта"],
+                ["ukrposhta", "Укрпошта"],
+              ].map(([id, label]) => (
+                <label key={id}>
+                  <input
+                    type="radio"
+                    name="carrier"
+                    checked={delivery === id}
+                    onChange={() => {
+                      setDelivery(id);
+                      setPoint(null);
+                    }}
+                  />
+                  {label}
+                </label>
+              ))}
             </div>
-            <div className="form-grid">
-              <label>
-                Місто / населений пункт *
-                <input
-                  required
-                  name="city"
-                  minLength="2"
-                  maxLength="100"
-                  autoComplete="address-level2"
-                  placeholder="Наприклад, Київ"
-                />
-              </label>
-              <label>
-                {delivery === "locker"
-                  ? "Номер і адреса поштомата"
-                  : "Номер і адреса відділення"}{" "}
-                *
-                <input
-                  required
-                  name="point"
-                  minLength="1"
-                  maxLength="200"
-                  placeholder="№ та вулиця"
-                />
-              </label>
-            </div>
+            {delivery === "novaposhta" ? (
+              <NovaPoshta onChange={setPoint} />
+            ) : (
+              <Ukrposhta onChange={setPoint} />
+            )}
             <p className="muted">
-              Вкажіть дані точки отримання вручну. Перевіримо їх перед
-              відправленням. Доставка оплачується окремо за тарифами Нової
-              пошти.
+              Доставка оплачується окремо за тарифами{" "}
+              {delivery === "novaposhta" ? "Нової пошти" : "Укрпошти"}.
             </p>
             {hasFood && (
               <p className="notice">
@@ -429,5 +413,219 @@ export default function Checkout({
         </aside>
       </form>
     </section>
+  );
+}
+
+async function getJson(url) {
+  const r = await fetch(url);
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(data.error || "Сервіс тимчасово недоступний.");
+  return data;
+}
+function Suggest({
+  label,
+  placeholder,
+  value,
+  setValue,
+  options,
+  onPick,
+  hint,
+  disabled,
+}) {
+  const [open, setOpen] = useState(false);
+  return (
+    <label className="suggest">
+      {label} *
+      <input
+        value={value}
+        disabled={disabled}
+        placeholder={placeholder}
+        autoComplete="off"
+        role="combobox"
+        aria-expanded={open && options.length > 0}
+        onFocus={() => setOpen(true)}
+        onBlur={() => setTimeout(() => setOpen(false), 150)}
+        onChange={(e) => {
+          setValue(e.target.value);
+          setOpen(true);
+        }}
+      />
+      {open && options.length > 0 && (
+        <ul className="suggest-list" role="listbox">
+          {options.map((o) => (
+            <li
+              key={o.ref}
+              role="option"
+              onMouseDown={(e) => {
+                e.preventDefault();
+                onPick(o);
+                setOpen(false);
+              }}
+            >
+              {o.name}
+            </li>
+          ))}
+        </ul>
+      )}
+      {hint && <small>{hint}</small>}
+    </label>
+  );
+}
+function NovaPoshta({ onChange }) {
+  const [cityText, setCityText] = useState(""),
+    [cities, setCities] = useState([]),
+    [city, setCity] = useState(null),
+    [branches, setBranches] = useState([]),
+    [branchText, setBranchText] = useState(""),
+    [branch, setBranch] = useState(null),
+    [note, setNote] = useState("");
+  useEffect(() => {
+    if (city && cityText === city.name) return;
+    setCity(null);
+    if (cityText.trim().length < 2) {
+      setCities([]);
+      return;
+    }
+    const t = setTimeout(() => {
+      getJson("/api/np/cities?q=" + encodeURIComponent(cityText.trim()))
+        .then((list) => {
+          setCities(list);
+          setNote(list.length ? "" : "Населений пункт не знайдено.");
+        })
+        .catch((e) => setNote(e.message));
+    }, 300);
+    return () => clearTimeout(t);
+  }, [cityText]);
+  useEffect(() => {
+    setBranch(null);
+    setBranchText("");
+    setBranches([]);
+    if (!city) return;
+    setNote("Завантажуємо відділення…");
+    getJson("/api/np/branches?city=" + city.ref)
+      .then((list) => {
+        setBranches(list);
+        setNote(
+          list.length ? "" : "У цьому населеному пункті немає відділень.",
+        );
+      })
+      .catch((e) => setNote(e.message));
+  }, [city]);
+  useEffect(() => {
+    onChange(
+      city && branch
+        ? { city: city.name, label: branch.name, id: branch.ref }
+        : null,
+    );
+  }, [city, branch]);
+  const shown = useMemo(() => {
+    if (branch && branchText === branch.name) return [];
+    const q = branchText.trim().toLowerCase();
+    const digits = q.replace(/[^0-9]/g, "");
+    return branches
+      .filter(
+        (b) =>
+          !q ||
+          (digits && b.number === digits) ||
+          b.name.toLowerCase().includes(q),
+      )
+      .sort((a, b) => Number(b.number === digits) - Number(a.number === digits))
+      .slice(0, 40);
+  }, [branches, branchText, branch]);
+  return (
+    <div className="form-grid">
+      <Suggest
+        label="Місто / населений пункт"
+        placeholder="Почніть вводити, наприклад, Київ"
+        value={cityText}
+        setValue={setCityText}
+        options={city ? [] : cities}
+        onPick={(c) => {
+          setCity(c);
+          setCityText(c.name);
+        }}
+        hint={!city ? note : ""}
+      />
+      <Suggest
+        label="Відділення"
+        placeholder={city ? "Номер або вулиця" : "Спершу оберіть місто"}
+        disabled={!city || !branches.length}
+        value={branchText}
+        setValue={(v) => {
+          setBranchText(v);
+          if (branch && v !== branch.name) setBranch(null);
+        }}
+        options={shown}
+        onPick={(b) => {
+          setBranch(b);
+          setBranchText(b.name);
+        }}
+        hint={
+          city
+            ? note ||
+              (branches.length ? branches.length + " відділень у списку" : "")
+            : ""
+        }
+      />
+    </div>
+  );
+}
+function Ukrposhta({ onChange }) {
+  const [index, setIndex] = useState(""),
+    [office, setOffice] = useState(null),
+    [note, setNote] = useState("");
+  useEffect(() => {
+    setOffice(null);
+    onChange(null);
+    if (!/^\d{5}$/.test(index)) {
+      setNote(index ? "Індекс складається з 5 цифр." : "");
+      return;
+    }
+    setNote("Шукаємо відділення…");
+    let live = true;
+    getJson("/api/ukr/office?index=" + index)
+      .then((o) => {
+        if (!live) return;
+        setOffice(o);
+        setNote("");
+        onChange({
+          city: o.city,
+          label: o.index + " — " + o.name + ", " + o.address,
+          id: o.index,
+        });
+      })
+      .catch((e) => live && setNote(e.message));
+    return () => {
+      live = false;
+    };
+  }, [index]);
+  return (
+    <div className="form-grid">
+      <label>
+        Індекс відділення Укрпошти *
+        <input
+          inputMode="numeric"
+          maxLength="5"
+          placeholder="Наприклад, 79007"
+          value={index}
+          onChange={(e) => setIndex(e.target.value.replace(/[^0-9]/g, ""))}
+        />
+        <small>
+          {note || "Індекс є на сайті Укрпошти або на вивісці відділення"}
+        </small>
+      </label>
+      <div className="office-card" aria-live="polite">
+        {office ? (
+          <>
+            <strong>{office.name}</strong>
+            <span>
+              {office.city}, {office.address}
+            </span>
+          </>
+        ) : (
+          <span className="muted">Тут з’явиться адреса відділення</span>
+        )}
+      </div>
+    </div>
   );
 }

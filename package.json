@@ -5,8 +5,9 @@
   "scripts": {
     "build": "node build.mjs",
     "start": "npm run build && wrangler dev --port 4173",
-    "deploy": "npm run build && wrangler deploy",
-    "test": "node --test commerce.test.mjs",
+    "feeds": "node feeds/generate.mjs",
+    "deploy": "npm run feeds && npm run build && wrangler deploy",
+    "test": "node --test commerce.test.mjs catalog.test.mjs feeds/feeds.test.mjs",
     "format": "prettier --write *.jsx *.mjs public/style.css studio/sanity.config.js"
   },
   "dependencies": {

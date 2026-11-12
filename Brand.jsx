@@ -197,7 +197,7 @@ export function Footer() {
       <div className="wrap footer-bottom">
         <span>© {new Date().getFullYear()} Гілка свята</span>
         <span>Зроблено для теплих моментів</span>
-        <span>Нова пошта · monobank</span>
+        <span>Нова пошта · Укрпошта · monobank</span>
       </div>
     </footer>
   );

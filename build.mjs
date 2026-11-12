@@ -4,7 +4,12 @@ import { ornament } from "./art.mjs";
 import sharp from "sharp";
 
 await mkdir("dist/assets/art", { recursive: true });
+await mkdir("dist/assets/feeds", { recursive: true });
 await Promise.all([
+  // статичні фіди для маркетплейсів → /feeds/*.xml
+  ...(await readdir("feeds"))
+    .filter((name) => name.endsWith(".xml"))
+    .map((name) => copyFile("feeds/" + name, "dist/assets/feeds/" + name)),
   copyFile("public/style.css", "dist/assets/style.css"),
   ...(await readdir("public"))
     .filter((name) => /\.(jpg|png)$/.test(name))

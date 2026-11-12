@@ -1629,3 +1629,62 @@ textarea {
     aspect-ratio: 1.2;
   }
 }
+
+.size-picker {
+  display: grid;
+  gap: 8px;
+  margin: 20px 0;
+}
+.size-picker label {
+  font-weight: 600;
+}
+.size-picker select {
+  width: 100%;
+  max-width: 100%;
+  padding: 12px;
+  font: inherit;
+  color: inherit;
+  background: white;
+  border: 1px solid #b7c4b9;
+  border-radius: 6px;
+}
+
+.suggest {
+  position: relative;
+}
+.suggest-list {
+  position: absolute;
+  z-index: 20;
+  top: 100%;
+  left: 0;
+  right: 0;
+  max-height: 280px;
+  overflow-y: auto;
+  margin: 4px 0 0;
+  padding: 4px 0;
+  list-style: none;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.08);
+}
+.suggest-list li {
+  padding: 10px 14px;
+  font-size: 13px;
+  line-height: 1.35;
+  cursor: pointer;
+}
+.suggest-list li:hover {
+  background: #f0f3ed;
+}
+.office-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  min-height: 52px;
+  padding: 10px 14px;
+  border: 1px dashed var(--line);
+  border-radius: 3px;
+  font-size: 13px;
+}

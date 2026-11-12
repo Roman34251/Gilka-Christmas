@@ -1,6 +1,12 @@
 import React, { useEffect, useState } from "react";
 import { Header, Hero, Footer, Icon } from "./Brand";
-import { categories, money, productUrl } from "./catalog.mjs";
+import {
+  categories,
+  money,
+  productUrl,
+  groupModels,
+  modelVariants,
+} from "./catalog.mjs";
 import Checkout from "./Checkout";
 const categoryName = (id) =>
   categories.find((c) => c.id === id)?.name || "Різдвяні прикраси";
@@ -66,17 +72,30 @@ function ProductCard({ p, add }) {
       </h3>
       <div className="buy-line">
         <div>
-          <strong>{money(p.price)}</strong>
+          <strong>
+            {p.priceFrom ? "від " : ""}
+            {money(p.price)}
+          </strong>
           {p.oldPrice > p.price && <del>{money(p.oldPrice)}</del>}
         </div>
-        <button
-          disabled={p.available === false}
-          className="add-button"
-          onClick={() => add(p)}
-          aria-label={"Додати до кошика: " + p.name}
-        >
-          <Icon name="bag" />
-        </button>
+        {p.variants?.length > 1 ? (
+          <a
+            className="add-button"
+            href={productUrl(p)}
+            aria-label={"Обрати розмір: " + p.name}
+          >
+            <Icon name="arrow" />
+          </a>
+        ) : (
+          <button
+            disabled={p.available === false}
+            className="add-button"
+            onClick={() => add(p)}
+            aria-label={"Додати до кошика: " + p.name}
+          >
+            <Icon name="bag" />
+          </button>
+        )}
       </div>
     </article>
   );
@@ -85,7 +104,7 @@ function Benefits() {
   return (
     <div className="benefits wrap">
       {[
-        ["truck", "Доставка Новою поштою", "До відділення або поштомата"],
+        ["truck", "Доставка у відділення", "Нова пошта або Укрпошта"],
         ["shield", "Зручна оплата", "Онлайн або при отриманні"],
         ["heart", "Допомога з вибором", "Підберемо деталі до вашого свята"],
       ].map(([icon, title, text]) => (
@@ -109,7 +128,16 @@ function Breadcrumb({ children }) {
     </nav>
   );
 }
-function ProductPage({ p, items, add }) {
+function ProductPage({ p: initial, items, add }) {
+  const variants = modelVariants(items, initial);
+  const [selected, setSelected] = useState(initial.id);
+  const p = variants.find((v) => v.id === selected) || initial;
+  const related = groupModels(items).filter((v) =>
+    p.modelCode ? v.modelCode !== p.modelCode : v.id !== p.id,
+  );
+  const images = p.images?.length
+    ? p.images
+    : variants.find((v) => v.images?.length)?.images || [];
   const [photo, setPhoto] = useState(0),
     [quantity, setQuantity] = useState(1);
   return (
@@ -123,15 +151,15 @@ function ProductPage({ p, items, add }) {
         <div>
           <div className="gallery-main">
             <img
-              src={p.images[photo] || p.image}
+              src={images[photo] || images[0] || p.image}
               alt={p.name}
               width="800"
               height="900"
             />
           </div>
-          {p.images.length > 1 && (
+          {images.length > 1 && (
             <div className="thumbnails">
-              {p.images.map((src, i) => (
+              {images.map((src, i) => (
                 <button
                   key={i}
                   aria-label={"Фото " + (i + 1)}
@@ -146,7 +174,28 @@ function ProductPage({ p, items, add }) {
         </div>
         <div className="product-info">
           <p className="eyebrow">{categoryName(p.category)}</p>
-          <h1>{p.name}</h1>
+          <h1>{p.modelName || p.name}</h1>
+          {variants.length > 1 && (
+            <div className="size-picker">
+              <label htmlFor="product-size">Розмір</label>
+              <select
+                id="product-size"
+                value={p.id}
+                onChange={(e) => {
+                  setSelected(e.target.value);
+                  setPhoto(0);
+                  setQuantity(1);
+                }}
+              >
+                {variants.map((v) => (
+                  <option key={v.id} value={v.id}>
+                    {v.sizeLabel || v.sku || v.name} — {money(v.price)}
+                    {v.available === false ? " · немає в наявності" : ""}
+                  </option>
+                ))}
+              </select>
+            </div>
+          )}
           <p
             className={
               "availability " + (p.available === false ? "unavailable" : "")
@@ -179,9 +228,9 @@ function ProductPage({ p, items, add }) {
             <div>
               <Icon name="truck" />
               <div>
-                <strong>Нова пошта</strong>
+                <strong>Нова пошта · Укрпошта</strong>
                 <p>
-                  Відділення або поштомат. Вартість — за тарифами перевізника,
+                  Доставка у відділення. Вартість — за тарифами перевізника,
                   сплачується окремо. Термін відправлення підтвердимо після
                   замовлення.
                 </p>
@@ -231,7 +280,7 @@ function ProductPage({ p, items, add }) {
           </details>
         </div>
       </div>
-      {items.some((item) => item.id !== p.id) && (
+      {related.length > 0 && (
         <section className="section">
           <div className="section-head">
             <div>
@@ -243,12 +292,9 @@ function ProductPage({ p, items, add }) {
             </a>
           </div>
           <div className="product-grid">
-            {items
-              .filter((i) => i.id !== p.id)
-              .slice(0, 4)
-              .map((i) => (
-                <ProductCard key={i.id} p={i} add={add} />
-              ))}
+            {related.slice(0, 4).map((i) => (
+              <ProductCard key={i.id} p={i} add={add} />
+            ))}
           </div>
         </section>
       )}
@@ -260,14 +306,14 @@ const info = {
     title: "Доставка й оплата",
     body: (
       <>
-        <h2>Доставка Новою поштою</h2>
+        <h2>Доставка у відділення</h2>
         <p>
-          Оберіть відділення або поштомат і вкажіть місто та номер точки
-          отримання під час оформлення. Для великогабаритних ялинок доступність
-          поштомата уточнюється після перевірки розмірів пакування.
+          Доставляємо у відділення Нової пошти або Укрпошти. Під час оформлення
+          оберіть місто й відділення Нової пошти зі списку або вкажіть індекс
+          відділення Укрпошти — адреса підтягнеться автоматично.
         </p>
         <p>
-          Доставка оплачується окремо за тарифами Нової пошти. Вартість і термін
+          Доставка оплачується окремо за тарифами перевізника. Вартість і термін
           відправлення підтвердимо після перевірки замовлення.
         </p>
         <h2>Онлайн-оплата monobank</h2>
@@ -350,8 +396,8 @@ const info = {
           096 646 23 64
         </a>
         <p>
-          Доставка Новою поштою по Україні. Умови для вашого населеного пункту
-          уточнимо при підтвердженні.
+          Доставка Новою поштою та Укрпоштою по Україні. Умови для вашого
+          населеного пункту уточнимо при підтвердженні.
         </p>
       </>
     ),
@@ -364,6 +410,7 @@ export default function Shop({
   searchParams = {},
   commerce = {},
 }) {
+  const catalogue = groupModels(items);
   const [cart, setCart] = useState({}),
     [ready, setReady] = useState(false),
     [notice, setNotice] = useState(""),
@@ -415,7 +462,7 @@ export default function Shop({
     product = path.startsWith("/product/")
       ? items.find((p) => productUrl(p) === path)
       : null;
-  let visible = items.filter(
+  let visible = catalogue.filter(
     (p) =>
       (!current || p.category === current.id) &&
       (!query ||
@@ -510,9 +557,9 @@ export default function Shop({
                     Дивитися все <Icon name="arrow" />
                   </a>
                 </div>
-                {items.length ? (
+                {catalogue.length ? (
                   <div className="product-grid">
-                    {items.slice(0, 4).map((p) => (
+                    {catalogue.slice(0, 4).map((p) => (
                       <ProductCard key={p.id} p={p} add={add} />
                     ))}
                   </div>

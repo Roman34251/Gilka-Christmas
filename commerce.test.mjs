@@ -16,7 +16,7 @@ const products = [
 const body = () => ({
   consent: true,
   payment: "cod",
-  delivery: "branch",
+  delivery: "novaposhta",
   customer: {
     name: "Тест Покупець",
     phone: "0960000000",
@@ -78,7 +78,7 @@ test("rejects duplicate, fractional and unavailable items", () => {
   b.lines = [{ id: "p1", quantity: 1 }];
   assert.throws(() => validateOrder(b, [{ ...products[0], available: false }]));
 });
-test("rejects invalid contact, consent and food lockers", () => {
+test("rejects invalid contact, consent and delivery", () => {
   let b = body();
   b.customer.phone = "123";
   assert.throws(() => validateOrder(b, products));
@@ -86,9 +86,12 @@ test("rejects invalid contact, consent and food lockers", () => {
   b.consent = false;
   assert.throws(() => validateOrder(b, products));
   b = body();
-  b.lines = [{ id: "food", quantity: 1 }];
   b.delivery = "locker";
   assert.throws(() => validateOrder(b, products));
+  b = body();
+  b.delivery = "ukrposhta";
+  b.customer.point = "79007 — Львів 7, вул. Гребінки, 6";
+  assert.equal(validateOrder(b, products).delivery, "ukrposhta");
 });
 test("COD order persists; repeats are idempotent; changed payload conflicts", async () => {
   const e = env();

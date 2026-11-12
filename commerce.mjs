@@ -13,7 +13,7 @@ export function validateOrder(body, products) {
   if (!body || !body.consent) throw fail("Підтвердьте згоду на обробку даних.");
   if (
     !["cod", "mono"].includes(body.payment) ||
-    !["branch", "locker"].includes(body.delivery)
+    !["novaposhta", "ukrposhta"].includes(body.delivery)
   )
     throw fail("Оберіть спосіб оплати та доставки.");
   const c = body.customer || {};
@@ -23,6 +23,7 @@ export function validateOrder(body, products) {
     ["city", 2, 100],
     ["point", 1, 200],
     ["comment", 0, 1000],
+    ["pointId", 0, 64],
   ]) {
     if (typeof (c[key] ?? "") !== "string")
       throw fail("Перевірте контактні дані.");
@@ -66,10 +67,6 @@ export function validateOrder(body, products) {
       category: p.category,
     };
   });
-  if (body.delivery === "locker" && lines.some((p) => p.category === "treats"))
-    throw fail(
-      "Для харчових продуктів оберіть відділення й погодьте умови доставки.",
-    );
   const amount = lines.reduce((sum, p) => sum + p.price * p.quantity, 0);
   if (!Number.isSafeInteger(amount) || amount > 100000000)
     throw fail("Сума замовлення перевищує допустиму. Зателефонуйте нам.");
