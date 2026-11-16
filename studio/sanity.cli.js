@@ -5,4 +5,5 @@ export default defineCliConfig({
     dataset: process.env.SANITY_STUDIO_DATASET || 'production',
   },
   studioHost: 'yalynky-admin',
+  deployment: { appId: 'lanx1hp0s7qlerm5exq30v8f' },
 })

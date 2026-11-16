@@ -8,6 +8,8 @@ import {
 } from "./catalog.mjs";
 import { orderApi, json } from "./commerce.mjs";
 import { carrierApi } from "./carriers.mjs";
+import { monomarketPriceApi } from "./monomarket-price.mjs";
+import { pricesApi } from "./prices.mjs";
 export async function loadProducts(env) {
   if (!env.SANITY_PROJECT_ID) return demoProducts;
   const url = new URL(
@@ -74,6 +76,9 @@ export default {
       return orderApi(request, env, loadProducts);
     if (!["GET", "HEAD"].includes(request.method))
       return json({ error: "Метод не підтримується" }, 405);
+    if (path === "/api/monomarket-price")
+      return monomarketPriceApi(request, env);
+    if (path === "/api/prices") return pricesApi(request, env, loadProducts);
     if (path.startsWith("/api/np/") || path.startsWith("/api/ukr/"))
       return carrierApi(url);
     if (path === "/robots.txt")

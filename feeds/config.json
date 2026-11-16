@@ -48,6 +48,13 @@
       "wreaths": "Різдвяні вінки",
       "decor": "Ялинкові прикраси",
       "treats": "Новорічні смаколики"
+    },
+    "price": {
+      "warehouseId": "",
+      "warrantyType": "merchant",
+      "warrantyMonths": 12,
+      "maxPayInParts": 6,
+      "daysToDispatch": 14
     }
   }
 }

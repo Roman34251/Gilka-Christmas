@@ -3,6 +3,7 @@
 // Під час `npm run build` файли копіюються в dist/assets/feeds і віддаються як /feeds/*.xml
 import { readFile, writeFile } from "node:fs/promises";
 import { categoryId } from "../catalog.mjs";
+import { ensureDoorPhotos } from "./door-photos.mjs";
 
 const dir = new URL("./", import.meta.url);
 const config = JSON.parse(await readFile(new URL("config.json", dir), "utf8"));
@@ -15,7 +16,8 @@ export const esc = (v) =>
     .replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" })[c]);
 const cdata = (html) => "<![CDATA[" + String(html).replace(/\]\]>/g, "]]]]><![CDATA[>").replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g, "") + "]]>";
 export const price = (n) => String(Math.round(n * 100) / 100);
-export const offerId = (p) => String(p.id).replace(/[^A-Za-z0-9]/g, "");
+import { offerId } from "../monomarket-price.mjs";
+export { offerId };
 export function feedDate(now = new Date()) {
   const parts = Object.fromEntries(
     new Intl.DateTimeFormat("en-CA", {
@@ -172,6 +174,11 @@ export function monomarketFeed(items) {
 // ---------- запуск ----------
 if (process.argv[1]?.endsWith("generate.mjs")) {
   const items = await loadFromSanity();
+  // друге фото «на дверях» для товарів з одним фото (лише у фідах, на сайті не показується)
+  const doors = await ensureDoorPhotos(items, new URL("photos/", dir));
+  for (const p of items)
+    if (doors.has(p.id) && config.siteUrl)
+      p.images = [...p.images, config.siteUrl.replace(/\/$/, "") + "/feeds/photos/" + doors.get(p.id)];
   const files = { "rozetka.xml": rozetkaFeed(items), "epicentr.xml": epicentrFeed(items), "monomarket.xml": monomarketFeed(items) };
   for (const [name, xml] of Object.entries(files)) await writeFile(new URL(name, dir), xml, "utf8");
   const inStock = items.filter((p) => p.available).length;

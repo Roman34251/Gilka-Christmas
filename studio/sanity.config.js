@@ -37,7 +37,8 @@ const product = defineType({
       name: "modelCode",
       title: "Спільний код моделі",
       type: "string",
-      description: "Однаковий для всіх розмірів однієї моделі та виконання. Артикул кожного розміру залишається окремим.",
+      description:
+        "Однаковий для всіх розмірів однієї моделі та виконання. Артикул кожного розміру залишається окремим.",
     }),
     defineField({
       name: "modelName",
@@ -67,6 +68,12 @@ const product = defineType({
       title: "Попередня ціна (лише реальна)",
       type: "number",
       validation: (r) => r.positive().precision(2),
+    }),
+    defineField({
+      name: "priceAdjustment",
+      type: "string",
+      hidden: true,
+      readOnly: true,
     }),
     defineField({
       name: "available",
@@ -119,11 +126,46 @@ const product = defineType({
     select: { title: "name", subtitle: "category", media: "gallery.0" },
   },
 });
+const deliveryTier = defineType({
+  name: "deliveryTier",
+  title: "Доставка для Monomarket",
+  type: "document",
+  description:
+    "Додається до ціни ялинки лише в прайсі Monomarket. На сайті не показується. Якщо документів немає, діють стандартні значення.",
+  fields: [
+    defineField({
+      name: "maxMeters",
+      title: "Висота ялинки до (м, включно)",
+      type: "number",
+      validation: (r) => r.required().positive(),
+    }),
+    defineField({
+      name: "price",
+      title: "Доставка, грн",
+      type: "number",
+      validation: (r) => r.required().min(0),
+    }),
+  ],
+  orderings: [
+    {
+      title: "За висотою",
+      name: "byMeters",
+      by: [{ field: "maxMeters", direction: "asc" }],
+    },
+  ],
+  preview: {
+    select: { title: "maxMeters", subtitle: "price" },
+    prepare: ({ title, subtitle }) => ({
+      title: "до " + title + " м",
+      subtitle: subtitle + " грн",
+    }),
+  },
+});
 export default defineConfig({
   name: "shop",
   title: "Гілка свята",
   projectId: process.env.SANITY_STUDIO_PROJECT_ID,
   dataset: process.env.SANITY_STUDIO_DATASET || "production",
   plugins: [structureTool()],
-  schema: { types: [product] },
+  schema: { types: [product, deliveryTier] },
 });

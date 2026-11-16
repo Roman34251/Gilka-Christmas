@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 21:59">
+<yml_catalog date="2026-11-16 03:14">
 <shop>
 <name>Гілка свята</name>
 <company>Гілка свята</company>
@@ -13,10 +13,11 @@
 <offers>
 <offer id="supplier202637f0ff0172ba6b05f53a0cf9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-37f0ff0172ba6b05f53a0cf9</url>
-<price>485.76</price>
+<price>558.62</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/383da68b0d4a373b85034163424100ca92c1f514-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/383da68b0d4a373b-0_45m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-781-794-D</article>
 <stock_quantity>5</stock_quantity>
@@ -34,10 +35,11 @@
 </offer>
 <offer id="supplier20268f15e05b774a92b64f5b436b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8f15e05b774a92b64f5b436b</url>
-<price>789.36</price>
+<price>907.76</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b910753df32ae6ad4d5fd6606a7a8f9037f4be0e-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/b910753df32ae6ad-0_45m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-781-794-F</article>
 <stock_quantity>5</stock_quantity>
@@ -55,10 +57,11 @@
 </offer>
 <offer id="supplier2026483b763947967ecf43d51058" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-483b763947967ecf43d51058</url>
-<price>485.76</price>
+<price>558.62</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/2eba61e7ffe823ddf0ba75a9640c786366e09c1f-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/2eba61e7ffe823dd-0_45m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-781-794-B</article>
 <stock_quantity>5</stock_quantity>
@@ -76,10 +79,11 @@
 </offer>
 <offer id="supplier2026abf6f6b1c68c6ab22b58c11a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-abf6f6b1c68c6ab22b58c11a</url>
-<price>910.8</price>
+<price>1047.42</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/383da68b0d4a373b85034163424100ca92c1f514-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/383da68b0d4a373b-0_75m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-781-795-D</article>
 <stock_quantity>5</stock_quantity>
@@ -97,10 +101,11 @@
 </offer>
 <offer id="supplier2026117c93248246eb9be48e6959" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-117c93248246eb9be48e6959</url>
-<price>1275.12</price>
+<price>1466.39</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b910753df32ae6ad4d5fd6606a7a8f9037f4be0e-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/b910753df32ae6ad-0_75m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-781-795-F</article>
 <stock_quantity>5</stock_quantity>
@@ -118,10 +123,11 @@
 </offer>
 <offer id="supplier20267eb46b342c4e47f8a1648ece" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-7eb46b342c4e47f8a1648ece</url>
-<price>910.8</price>
+<price>1047.42</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/2eba61e7ffe823ddf0ba75a9640c786366e09c1f-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/2eba61e7ffe823dd-0_75m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-781-795-B</article>
 <stock_quantity>5</stock_quantity>
@@ -139,10 +145,11 @@
 </offer>
 <offer id="supplier2026503590ec0f3aab91c887f6d9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-503590ec0f3aab91c887f6d9</url>
-<price>485.76</price>
+<price>558.62</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/4b58493f7f2c758ace917ad69c5d944b7e501a87-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/4b58493f7f2c758a-0_45m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-684-720-D</article>
 <stock_quantity>5</stock_quantity>
@@ -160,10 +167,11 @@
 </offer>
 <offer id="supplier20269b55227dca7f6c6c5febfd5a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-9b55227dca7f6c6c5febfd5a</url>
-<price>789.36</price>
+<price>907.76</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/05b470d8bb93769433265391ac52f32b44bb43c2-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/05b470d8bb937694-0_45m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-684-720-F</article>
 <stock_quantity>5</stock_quantity>
@@ -181,10 +189,11 @@
 </offer>
 <offer id="supplier2026c43458e8b02b7be71198baa6" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c43458e8b02b7be71198baa6</url>
-<price>485.76</price>
+<price>558.62</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6d036238c64fa774514f333053531eb0734cb489-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/6d036238c64fa774-0_45m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-684-720-B</article>
 <stock_quantity>5</stock_quantity>
@@ -202,10 +211,11 @@
 </offer>
 <offer id="supplier202693c812d76c78083999066360" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-93c812d76c78083999066360</url>
-<price>910.8</price>
+<price>1047.42</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/4b58493f7f2c758ace917ad69c5d944b7e501a87-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/4b58493f7f2c758a-0_75m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-684-721-D</article>
 <stock_quantity>5</stock_quantity>
@@ -223,10 +233,11 @@
 </offer>
 <offer id="supplier20265e4ebf0f6d837bb1da09947f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-5e4ebf0f6d837bb1da09947f</url>
-<price>1275.12</price>
+<price>1466.39</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/05b470d8bb93769433265391ac52f32b44bb43c2-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/05b470d8bb937694-0_75m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-684-721-F</article>
 <stock_quantity>5</stock_quantity>
@@ -244,10 +255,11 @@
 </offer>
 <offer id="supplier2026cea4656f07836d89f3e01f5a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-cea4656f07836d89f3e01f5a</url>
-<price>910.8</price>
+<price>1047.42</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6d036238c64fa774514f333053531eb0734cb489-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/6d036238c64fa774-0_75m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-684-721-B</article>
 <stock_quantity>5</stock_quantity>
@@ -265,10 +277,11 @@
 </offer>
 <offer id="supplier2026f73e92dd2767d066f8738fc0" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f73e92dd2767d066f8738fc0</url>
-<price>1092.96</price>
+<price>1256.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/eaa37338de8d8afae7be0f55af0405248633fc90-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/eaa37338de8d8afa-2_5m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-576-612-D</article>
 <stock_quantity>5</stock_quantity>
@@ -287,10 +300,11 @@
 </offer>
 <offer id="supplier20267fcfe414c54eb24edf886bdc" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-7fcfe414c54eb24edf886bdc</url>
-<price>1639.44</price>
+<price>1885.36</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/46f0cc9bbe77b360249aea0ae361bafcf18cc2ea-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/46f0cc9bbe77b360-2_5m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-576-612-F</article>
 <stock_quantity>5</stock_quantity>
@@ -309,10 +323,11 @@
 </offer>
 <offer id="supplier202659249757a115b26f18b40690" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-59249757a115b26f18b40690</url>
-<price>1092.96</price>
+<price>1256.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f90f25d2fb0366add434caf35c3d9c5af4dc3376-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/f90f25d2fb0366ad-2_5m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-576-612-B</article>
 <stock_quantity>5</stock_quantity>
@@ -331,10 +346,11 @@
 </offer>
 <offer id="supplier20266b6f315b825cdf59850e9956" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-6b6f315b825cdf59850e9956</url>
-<price>1092.96</price>
+<price>1256.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/dcfbb22dc826c711839d29d0200199f65d1de60e-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/dcfbb22dc826c711-2_5m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-629-666-D</article>
 <stock_quantity>5</stock_quantity>
@@ -353,10 +369,11 @@
 </offer>
 <offer id="supplier2026eed6d50dfca2d9afa71c7478" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-eed6d50dfca2d9afa71c7478</url>
-<price>1639.44</price>
+<price>1885.36</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/cd3bdc17a32b4547020c9d1246e334c287e1fe4f-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/cd3bdc17a32b4547-2_5m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-629-666-F</article>
 <stock_quantity>5</stock_quantity>
@@ -375,10 +392,11 @@
 </offer>
 <offer id="supplier20268658d9ea53f760f7dd7d77df" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8658d9ea53f760f7dd7d77df</url>
-<price>1092.96</price>
+<price>1256.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/1761084d738752a5e86ff894d5648dd0c4aa9ad7-1200x1200.jpg</picture>
+<picture>https://ukraine.gilka-christmas.pp.ua/feeds/photos/1761084d738752a5-2_5m-door.jpg</picture>
 <vendor>SIGA GROUP</vendor>
 <article>SIGA-629-666-B</article>
 <stock_quantity>5</stock_quantity>
@@ -395,23 +413,9 @@
 <param name="Ширина">0,45 м</param>
 <param name="Кількість гілочок">99 шт.</param>
 </offer>
-<offer id="999b8feb8b4543a3bb1d837446b4d0fb" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/999b8feb-8b45-43a3-bb1d-837446b4d0fb</url>
-<price>550</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/04d53d381c94436a03e15bd10efb4ad509aac216-685x913.jpg</picture>
-<vendor>Гілка свята</vendor>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка &quot;Карпатська&quot;</name>
-<name_ua>Ялинка &quot;Карпатська&quot;</name_ua>
-<description><![CDATA[<p>Крута Ялинка</p>]]></description>
-<description_ua><![CDATA[<p>Крута Ялинка</p>]]></description_ua>
-<state>new</state>
-</offer>
 <offer id="zelene2026d34a2734da7c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-d34a2734da7c</url>
-<price>3654</price>
+<price>4202.1</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9e3d9ea1500798ed488c1f282080c9f8eebf6228-1200x1200.jpg</picture>
@@ -431,7 +435,7 @@
 </offer>
 <offer id="zelene202626be852b8b9c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-26be852b8b9c</url>
-<price>4851</price>
+<price>5578.65</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9e3d9ea1500798ed488c1f282080c9f8eebf6228-1200x1200.jpg</picture>
@@ -451,7 +455,7 @@
 </offer>
 <offer id="zelene20260a57139617e0" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-0a57139617e0</url>
-<price>7056</price>
+<price>8114.4</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9e3d9ea1500798ed488c1f282080c9f8eebf6228-1200x1200.jpg</picture>
@@ -471,7 +475,7 @@
 </offer>
 <offer id="zelene202607d13d999295" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-07d13d999295</url>
-<price>8316</price>
+<price>9563.4</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9e3d9ea1500798ed488c1f282080c9f8eebf6228-1200x1200.jpg</picture>
@@ -491,7 +495,7 @@
 </offer>
 <offer id="zelene2026126888573df9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-126888573df9</url>
-<price>11466</price>
+<price>13185.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9e3d9ea1500798ed488c1f282080c9f8eebf6228-1200x1200.jpg</picture>
@@ -511,7 +515,7 @@
 </offer>
 <offer id="zelene2026d0876d17efcb" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-d0876d17efcb</url>
-<price>3654</price>
+<price>4202.1</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/87afc7a9ffba0d2b394b9bbba994104465a9e7ea-1200x1200.jpg</picture>
@@ -531,7 +535,7 @@
 </offer>
 <offer id="zelene20262159f4313870" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-2159f4313870</url>
-<price>4851</price>
+<price>5578.65</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/87afc7a9ffba0d2b394b9bbba994104465a9e7ea-1200x1200.jpg</picture>
@@ -551,7 +555,7 @@
 </offer>
 <offer id="zelene20269cbee3954d0b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-9cbee3954d0b</url>
-<price>7056</price>
+<price>8114.4</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/87afc7a9ffba0d2b394b9bbba994104465a9e7ea-1200x1200.jpg</picture>
@@ -571,7 +575,7 @@
 </offer>
 <offer id="zelene202694bb4bd3b73a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-94bb4bd3b73a</url>
-<price>8316</price>
+<price>9563.4</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/87afc7a9ffba0d2b394b9bbba994104465a9e7ea-1200x1200.jpg</picture>
@@ -591,7 +595,7 @@
 </offer>
 <offer id="zelene2026f6ab660b2d54" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-f6ab660b2d54</url>
-<price>11466</price>
+<price>13185.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/87afc7a9ffba0d2b394b9bbba994104465a9e7ea-1200x1200.jpg</picture>
@@ -611,7 +615,7 @@
 </offer>
 <offer id="zelene20268a7480955afe" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-8a7480955afe</url>
-<price>1302</price>
+<price>1497.3</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b3e7e966e5859fdc3a343c037f368a7f7a03b8a4-1200x1200.jpg</picture>
@@ -631,7 +635,7 @@
 </offer>
 <offer id="zelene2026b811d4d76006" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-b811d4d76006</url>
-<price>1929.2</price>
+<price>2218.58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b3e7e966e5859fdc3a343c037f368a7f7a03b8a4-1200x1200.jpg</picture>
@@ -651,7 +655,7 @@
 </offer>
 <offer id="zelene2026b5d7adf44b53" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-b5d7adf44b53</url>
-<price>2244.2</price>
+<price>2580.83</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b3e7e966e5859fdc3a343c037f368a7f7a03b8a4-1200x1200.jpg</picture>
@@ -671,7 +675,7 @@
 </offer>
 <offer id="zelene2026583e4a7c14c6" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-583e4a7c14c6</url>
-<price>2567.6</price>
+<price>2952.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b3e7e966e5859fdc3a343c037f368a7f7a03b8a4-1200x1200.jpg</picture>
@@ -691,7 +695,7 @@
 </offer>
 <offer id="zelene20265b9d13507179" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-5b9d13507179</url>
-<price>3858.4</price>
+<price>4437.16</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b3e7e966e5859fdc3a343c037f368a7f7a03b8a4-1200x1200.jpg</picture>
@@ -709,30 +713,9 @@
 <param name="Висота">2,5 м</param>
 <param name="Матеріал">ПВХ</param>
 </offer>
-<offer id="zelene2026407e32c6903b" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-407e32c6903b</url>
-<price>546</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/59ecf5719c35c370b66287f2b8cf54350f58418a-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/9245fb4891e7061c0aedb467a7a116cc1c09f296-819x1024.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/03621508ba0ad86eea6b93854f6cd000739d944e-935x1400.jpg</picture>
-<vendor>ZELENE DEREVO</vendor>
-<article>401538</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка «КАЗКА» ZELENE DEREVO — 1 м</name>
-<name_ua>Ялинка «КАЗКА» ZELENE DEREVO — 1 м</name_ua>
-<description><![CDATA[<p>Ялинка «КАЗКА» від ZELENE DEREVO заввишки 1 м стане основою вашого святкового оформлення. Оберіть улюблені іграшки та гірлянду, щоб створити власну різдвяну композицію.</p><p>Хвоя з ПВХ.</p><ul><li>Модель: КАЗКА</li><li>Тип: Ялинки ПВХ</li><li>Висота: 1 м</li><li>Матеріал: ПВХ</li></ul>]]></description>
-<description_ua><![CDATA[<p>Ялинка «КАЗКА» від ZELENE DEREVO заввишки 1 м стане основою вашого святкового оформлення. Оберіть улюблені іграшки та гірлянду, щоб створити власну різдвяну композицію.</p><p>Хвоя з ПВХ.</p><ul><li>Модель: КАЗКА</li><li>Тип: Ялинки ПВХ</li><li>Висота: 1 м</li><li>Матеріал: ПВХ</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Модель">КАЗКА</param>
-<param name="Тип">Ялинки ПВХ</param>
-<param name="Висота">1 м</param>
-<param name="Матеріал">ПВХ</param>
-</offer>
 <offer id="zelene2026e690faf8982a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-e690faf8982a</url>
-<price>1022</price>
+<price>1175.3</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/59ecf5719c35c370b66287f2b8cf54350f58418a-1200x1200.jpg</picture>
@@ -753,7 +736,7 @@
 </offer>
 <offer id="zelene2026a5099d41d672" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-a5099d41d672</url>
-<price>1351</price>
+<price>1553.65</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/59ecf5719c35c370b66287f2b8cf54350f58418a-1200x1200.jpg</picture>
@@ -774,7 +757,7 @@
 </offer>
 <offer id="zelene2026b6f65ac01fed" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-b6f65ac01fed</url>
-<price>1568</price>
+<price>1803.2</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/59ecf5719c35c370b66287f2b8cf54350f58418a-1200x1200.jpg</picture>
@@ -795,7 +778,7 @@
 </offer>
 <offer id="zelene20266dc8c1201f67" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-6dc8c1201f67</url>
-<price>1834</price>
+<price>2109.1</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/59ecf5719c35c370b66287f2b8cf54350f58418a-1200x1200.jpg</picture>
@@ -816,7 +799,7 @@
 </offer>
 <offer id="zelene2026ebf1c7d60817" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-ebf1c7d60817</url>
-<price>2828</price>
+<price>3252.2</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/59ecf5719c35c370b66287f2b8cf54350f58418a-1200x1200.jpg</picture>
@@ -837,7 +820,7 @@
 </offer>
 <offer id="zelene2026d087922b0df9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-d087922b0df9</url>
-<price>1484</price>
+<price>1706.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -858,7 +841,7 @@
 </offer>
 <offer id="zelene2026dd00955045e2" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-dd00955045e2</url>
-<price>2007.6</price>
+<price>2308.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -879,7 +862,7 @@
 </offer>
 <offer id="zelene2026741c5b335a21" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-741c5b335a21</url>
-<price>2402.4</price>
+<price>2762.76</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -900,7 +883,7 @@
 </offer>
 <offer id="zelene2026d64434a3e2ef" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-d64434a3e2ef</url>
-<price>2842</price>
+<price>3268.3</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -921,7 +904,7 @@
 </offer>
 <offer id="zelene2026d4123faba150" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-d4123faba150</url>
-<price>4016.6</price>
+<price>4619.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -942,7 +925,7 @@
 </offer>
 <offer id="zelene2026be6a79d5a1b0" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-be6a79d5a1b0</url>
-<price>1484</price>
+<price>1706.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -963,7 +946,7 @@
 </offer>
 <offer id="zelene2026df391c74cd78" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-df391c74cd78</url>
-<price>2007.6</price>
+<price>2308.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -984,7 +967,7 @@
 </offer>
 <offer id="zelene202678e62e274dfd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-78e62e274dfd</url>
-<price>2402.4</price>
+<price>2762.76</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1005,7 +988,7 @@
 </offer>
 <offer id="zelene20267da674555dd6" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-7da674555dd6</url>
-<price>2842</price>
+<price>3268.3</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1026,7 +1009,7 @@
 </offer>
 <offer id="zelene2026493712999946" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-493712999946</url>
-<price>4016.6</price>
+<price>4619.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1045,30 +1028,9 @@
 <param name="Колір / виконання">срібні шишки, срібна калина</param>
 <param name="Матеріал">ПВХ</param>
 </offer>
-<offer id="zelene2026ff1d13c92457" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-ff1d13c92457</url>
-<price>630</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/08e701715dc556499ebdc3669dcbe137346db60f-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/c07e9eee7a6bae0bdebe7393353848fc7d6ee98b-819x1024.jpg</picture>
-<vendor>ZELENE DEREVO</vendor>
-<article>401239</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 1 м</name>
-<name_ua>Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 1 м</name_ua>
-<description><![CDATA[<p>Ялинка «КАРПАТСЬКА (Білі кінці)» від ZELENE DEREVO заввишки 1 м стане основою вашого святкового оформлення. Оберіть улюблені іграшки та гірлянду, щоб створити власну різдвяну композицію.</p><p>Хвоя з ПВХ.</p><p>Виконання: білі кінці.</p><ul><li>Модель: КАРПАТСЬКА (Білі кінці)</li><li>Тип: Ялинки ПВХ</li><li>Висота: 1 м</li><li>Колір / виконання: білі кінці</li><li>Матеріал: ПВХ</li></ul>]]></description>
-<description_ua><![CDATA[<p>Ялинка «КАРПАТСЬКА (Білі кінці)» від ZELENE DEREVO заввишки 1 м стане основою вашого святкового оформлення. Оберіть улюблені іграшки та гірлянду, щоб створити власну різдвяну композицію.</p><p>Хвоя з ПВХ.</p><p>Виконання: білі кінці.</p><ul><li>Модель: КАРПАТСЬКА (Білі кінці)</li><li>Тип: Ялинки ПВХ</li><li>Висота: 1 м</li><li>Колір / виконання: білі кінці</li><li>Матеріал: ПВХ</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Модель">КАРПАТСЬКА (Білі кінці)</param>
-<param name="Тип">Ялинки ПВХ</param>
-<param name="Висота">1 м</param>
-<param name="Колір / виконання">білі кінці</param>
-<param name="Матеріал">ПВХ</param>
-</offer>
 <offer id="zelene20266f743e49b989" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-6f743e49b989</url>
-<price>1099</price>
+<price>1263.85</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/08e701715dc556499ebdc3669dcbe137346db60f-1200x1200.jpg</picture>
@@ -1089,7 +1051,7 @@
 </offer>
 <offer id="zelene20267eb1fc6f1347" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-7eb1fc6f1347</url>
-<price>1496.6</price>
+<price>1721.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/08e701715dc556499ebdc3669dcbe137346db60f-1200x1200.jpg</picture>
@@ -1110,7 +1072,7 @@
 </offer>
 <offer id="zelene20261b51339ac1b8" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-1b51339ac1b8</url>
-<price>1792</price>
+<price>2060.8</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/08e701715dc556499ebdc3669dcbe137346db60f-1200x1200.jpg</picture>
@@ -1131,7 +1093,7 @@
 </offer>
 <offer id="zelene2026e749314ab93c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-e749314ab93c</url>
-<price>2114</price>
+<price>2431.1</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/08e701715dc556499ebdc3669dcbe137346db60f-1200x1200.jpg</picture>
@@ -1152,7 +1114,7 @@
 </offer>
 <offer id="zelene20268fd1e2863c69" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-8fd1e2863c69</url>
-<price>3308.2</price>
+<price>3804.43</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/08e701715dc556499ebdc3669dcbe137346db60f-1200x1200.jpg</picture>
@@ -1173,7 +1135,7 @@
 </offer>
 <offer id="zelene2026b82697a58c2c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-b82697a58c2c</url>
-<price>4922.4</price>
+<price>5660.76</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/08e701715dc556499ebdc3669dcbe137346db60f-1200x1200.jpg</picture>
@@ -1194,7 +1156,7 @@
 </offer>
 <offer id="zelene2026ca6e85e0b762" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-ca6e85e0b762</url>
-<price>3150</price>
+<price>3622.5</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/5ccc5225e77b9200b50ed497ca1900e531dbcacc-1200x1200.jpg</picture>
@@ -1214,7 +1176,7 @@
 </offer>
 <offer id="zelene2026395702676277" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-395702676277</url>
-<price>4410</price>
+<price>5071.5</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/5ccc5225e77b9200b50ed497ca1900e531dbcacc-1200x1200.jpg</picture>
@@ -1234,7 +1196,7 @@
 </offer>
 <offer id="zelene20266a599027e523" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-6a599027e523</url>
-<price>6300</price>
+<price>7245</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/5ccc5225e77b9200b50ed497ca1900e531dbcacc-1200x1200.jpg</picture>
@@ -1254,7 +1216,7 @@
 </offer>
 <offer id="zelene2026acadf315bf52" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-acadf315bf52</url>
-<price>7497</price>
+<price>8621.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/5ccc5225e77b9200b50ed497ca1900e531dbcacc-1200x1200.jpg</picture>
@@ -1274,7 +1236,7 @@
 </offer>
 <offer id="zelene2026541385e585c4" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-541385e585c4</url>
-<price>11277</price>
+<price>12968.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/5ccc5225e77b9200b50ed497ca1900e531dbcacc-1200x1200.jpg</picture>
@@ -1294,7 +1256,7 @@
 </offer>
 <offer id="zelene2026ac7152bfd27f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-ac7152bfd27f</url>
-<price>18837</price>
+<price>21662.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/5ccc5225e77b9200b50ed497ca1900e531dbcacc-1200x1200.jpg</picture>
@@ -1314,7 +1276,7 @@
 </offer>
 <offer id="zelene2026619f984045eb" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-619f984045eb</url>
-<price>3150</price>
+<price>3622.5</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b0dc94d9c4f4e390337ed565021c174472e7504c-1200x1200.jpg</picture>
@@ -1335,7 +1297,7 @@
 </offer>
 <offer id="zelene20260ccd13904d1d" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-0ccd13904d1d</url>
-<price>4410</price>
+<price>5071.5</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b0dc94d9c4f4e390337ed565021c174472e7504c-1200x1200.jpg</picture>
@@ -1356,7 +1318,7 @@
 </offer>
 <offer id="zelene2026dc32aeebacdf" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-dc32aeebacdf</url>
-<price>6300</price>
+<price>7245</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b0dc94d9c4f4e390337ed565021c174472e7504c-1200x1200.jpg</picture>
@@ -1377,7 +1339,7 @@
 </offer>
 <offer id="zelene2026fe583b0c2a60" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-fe583b0c2a60</url>
-<price>7497</price>
+<price>8621.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b0dc94d9c4f4e390337ed565021c174472e7504c-1200x1200.jpg</picture>
@@ -1398,7 +1360,7 @@
 </offer>
 <offer id="zelene2026548dd8432c12" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-548dd8432c12</url>
-<price>11277</price>
+<price>12968.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b0dc94d9c4f4e390337ed565021c174472e7504c-1200x1200.jpg</picture>
@@ -1419,7 +1381,7 @@
 </offer>
 <offer id="zelene2026981e8707f069" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-981e8707f069</url>
-<price>18837</price>
+<price>21662.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/b0dc94d9c4f4e390337ed565021c174472e7504c-1200x1200.jpg</picture>
@@ -1440,7 +1402,7 @@
 </offer>
 <offer id="zelene2026acd736369ad5" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-acd736369ad5</url>
-<price>2520</price>
+<price>2898</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/651e03248a86fc2e35965262006854496eab050d-1200x1200.jpg</picture>
@@ -1459,7 +1421,7 @@
 </offer>
 <offer id="zelene2026108fe516bc92" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-108fe516bc92</url>
-<price>3024</price>
+<price>3477.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/651e03248a86fc2e35965262006854496eab050d-1200x1200.jpg</picture>
@@ -1478,7 +1440,7 @@
 </offer>
 <offer id="zelene2026e202c89a0b7a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-e202c89a0b7a</url>
-<price>4977</price>
+<price>5723.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/651e03248a86fc2e35965262006854496eab050d-1200x1200.jpg</picture>
@@ -1497,7 +1459,7 @@
 </offer>
 <offer id="zelene2026ef275a9106e8" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-ef275a9106e8</url>
-<price>6867</price>
+<price>7897.05</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/651e03248a86fc2e35965262006854496eab050d-1200x1200.jpg</picture>
@@ -1516,7 +1478,7 @@
 </offer>
 <offer id="zelene202648a69fde53a4" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-48a69fde53a4</url>
-<price>9954</price>
+<price>11447.1</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/651e03248a86fc2e35965262006854496eab050d-1200x1200.jpg</picture>
@@ -1535,7 +1497,7 @@
 </offer>
 <offer id="zelene2026a98dc9f6d28c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-a98dc9f6d28c</url>
-<price>1484</price>
+<price>1706.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1556,7 +1518,7 @@
 </offer>
 <offer id="zelene202623e0a64ede17" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-23e0a64ede17</url>
-<price>2007.6</price>
+<price>2308.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1577,7 +1539,7 @@
 </offer>
 <offer id="zelene202668b8b3a6e242" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-68b8b3a6e242</url>
-<price>2402.4</price>
+<price>2762.76</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1598,7 +1560,7 @@
 </offer>
 <offer id="zelene2026e040fcd1e1b0" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-e040fcd1e1b0</url>
-<price>2842</price>
+<price>3268.3</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1619,7 +1581,7 @@
 </offer>
 <offer id="zelene2026326d8f2a7234" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/zelene-2026-326d8f2a7234</url>
-<price>4016.6</price>
+<price>4619.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/3802301210e68edf2e49ec41229bebc24548ef76-1200x1200.jpg</picture>
@@ -1640,7 +1602,7 @@
 </offer>
 <offer id="supplier20266c2b6edbe88c622a57bbeb16" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-6c2b6edbe88c622a57bbeb16</url>
-<price>6497.04</price>
+<price>7471.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1664,7 +1626,7 @@
 </offer>
 <offer id="supplier20261b8ee9d04a331512d96682c1" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-1b8ee9d04a331512d96682c1</url>
-<price>5889.84</price>
+<price>6773.32</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1688,7 +1650,7 @@
 </offer>
 <offer id="supplier20263d604f935715f2738cd9158a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-3d604f935715f2738cd9158a</url>
-<price>5100.48</price>
+<price>5865.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1712,7 +1674,7 @@
 </offer>
 <offer id="supplier2026a2149490a5db3ec65af82784" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a2149490a5db3ec65af82784</url>
-<price>4554</price>
+<price>5237.1</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1736,7 +1698,7 @@
 </offer>
 <offer id="supplier2026a909ddbdaff1034ca161f477" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a909ddbdaff1034ca161f477</url>
-<price>9168.72</price>
+<price>10544.03</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1760,7 +1722,7 @@
 </offer>
 <offer id="supplier20264d11c6d3688cbce868cd308d" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4d11c6d3688cbce868cd308d</url>
-<price>8500.8</price>
+<price>9775.92</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1784,7 +1746,7 @@
 </offer>
 <offer id="supplier202671141562700c53f1267f39cb" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-71141562700c53f1267f39cb</url>
-<price>7104.24</price>
+<price>8169.88</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1808,7 +1770,7 @@
 </offer>
 <offer id="supplier20263bd958dd5451281b4b65212e" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-3bd958dd5451281b4b65212e</url>
-<price>6497.04</price>
+<price>7471.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1832,7 +1794,7 @@
 </offer>
 <offer id="supplier2026af3fff2361bd4b4a802d1a91" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-af3fff2361bd4b4a802d1a91</url>
-<price>11840.4</price>
+<price>13616.46</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1856,7 +1818,7 @@
 </offer>
 <offer id="supplier2026c4230be9bebefc6fd717adcb" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c4230be9bebefc6fd717adcb</url>
-<price>11111.76</price>
+<price>12778.52</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1880,7 +1842,7 @@
 </offer>
 <offer id="supplier20264e6f8249743b0ca6135bf561" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4e6f8249743b0ca6135bf561</url>
-<price>9168.72</price>
+<price>10544.03</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1904,7 +1866,7 @@
 </offer>
 <offer id="supplier202670f14a9592922e9be1dbb6a6" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-70f14a9592922e9be1dbb6a6</url>
-<price>8440.08</price>
+<price>9706.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1928,7 +1890,7 @@
 </offer>
 <offer id="supplier202675910f7ff141caaf54a67467" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-75910f7ff141caaf54a67467</url>
-<price>15058.56</price>
+<price>17317.34</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1952,7 +1914,7 @@
 </offer>
 <offer id="supplier2026fd12dfe5e8a103c0308bc6df" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-fd12dfe5e8a103c0308bc6df</url>
-<price>14329.92</price>
+<price>16479.41</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -1976,7 +1938,7 @@
 </offer>
 <offer id="supplier2026bcb317baa9c2f0b7d7330eb3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-bcb317baa9c2f0b7d7330eb3</url>
-<price>11658.24</price>
+<price>13406.98</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2000,7 +1962,7 @@
 </offer>
 <offer id="supplier202671750b0d8adef9e605e621ef" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-71750b0d8adef9e605e621ef</url>
-<price>10868.88</price>
+<price>12499.21</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2024,7 +1986,7 @@
 </offer>
 <offer id="supplier2026e96c1563ea3db8ad66e3596d" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-e96c1563ea3db8ad66e3596d</url>
-<price>19248.24</price>
+<price>22135.48</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2048,7 +2010,7 @@
 </offer>
 <offer id="supplier20265ea7e2b48291e081cb20ccbd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-5ea7e2b48291e081cb20ccbd</url>
-<price>18398.16</price>
+<price>21157.88</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2072,7 +2034,7 @@
 </offer>
 <offer id="supplier2026021c4e5740e7a7d0affd2974" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-021c4e5740e7a7d0affd2974</url>
-<price>14937.12</price>
+<price>17177.69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2096,7 +2058,7 @@
 </offer>
 <offer id="supplier2026aa2ea86581c2491a65fe0305" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-aa2ea86581c2491a65fe0305</url>
-<price>14147.76</price>
+<price>16269.92</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2120,7 +2082,7 @@
 </offer>
 <offer id="supplier2026763053f5ded80c2fbb269dbc" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-763053f5ded80c2fbb269dbc</url>
-<price>27931.2</price>
+<price>32120.88</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2144,7 +2106,7 @@
 </offer>
 <offer id="supplier2026d87821fadb193d05dd072a3a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d87821fadb193d05dd072a3a</url>
-<price>26959.68</price>
+<price>31003.63</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2168,7 +2130,7 @@
 </offer>
 <offer id="supplier20268f47b9bda4172fceec1300cb" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8f47b9bda4172fceec1300cb</url>
-<price>22284.24</price>
+<price>25626.88</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2192,7 +2154,7 @@
 </offer>
 <offer id="supplier2026abd6df6531af3d451107c61f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-abd6df6531af3d451107c61f</url>
-<price>21252</price>
+<price>24439.8</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/d202e7a3661b4dd268c2756ead7db7c16b9809b9-1200x1200.jpg</picture>
@@ -2216,7 +2178,7 @@
 </offer>
 <offer id="supplier20268cc3ec11a7d4a8b893ce4c96" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8cc3ec11a7d4a8b893ce4c96</url>
-<price>5404.08</price>
+<price>6214.69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2239,7 +2201,7 @@
 </offer>
 <offer id="supplier20262194cfbdb26c05d4ab6869e8" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-2194cfbdb26c05d4ab6869e8</url>
-<price>4796.88</price>
+<price>5516.41</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2262,7 +2224,7 @@
 </offer>
 <offer id="supplier2026546845e08c0ad879ab93bb5f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-546845e08c0ad879ab93bb5f</url>
-<price>8440.08</price>
+<price>9706.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -2285,7 +2247,7 @@
 </offer>
 <offer id="supplier2026e02653e7856eb77a11c914a9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-e02653e7856eb77a11c914a9</url>
-<price>7893.6</price>
+<price>9077.64</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -2308,7 +2270,7 @@
 </offer>
 <offer id="supplier2026964ca2085a20d08ef49f0efa" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-964ca2085a20d08ef49f0efa</url>
-<price>6861.36</price>
+<price>7890.56</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -2331,7 +2293,7 @@
 </offer>
 <offer id="supplier2026c6a258a6fd1987276e7ec104" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c6a258a6fd1987276e7ec104</url>
-<price>6254.16</price>
+<price>7192.28</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -2354,7 +2316,7 @@
 </offer>
 <offer id="supplier20262fc346496d7e19d5e0bbd1f7" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-2fc346496d7e19d5e0bbd1f7</url>
-<price>6982.8</price>
+<price>8030.22</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -2377,7 +2339,7 @@
 </offer>
 <offer id="supplier20264c414326165ed144aff76da4" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4c414326165ed144aff76da4</url>
-<price>6375.6</price>
+<price>7331.94</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -2400,7 +2362,7 @@
 </offer>
 <offer id="supplier20268c9060520491eab76422b669" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8c9060520491eab76422b669</url>
-<price>5404.08</price>
+<price>6214.69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -2424,7 +2386,7 @@
 </offer>
 <offer id="supplier20268815bc95261785fca09b97c5" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8815bc95261785fca09b97c5</url>
-<price>4796.88</price>
+<price>5516.41</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -2448,7 +2410,7 @@
 </offer>
 <offer id="supplier2026d308d9275cb4fbeb4e4d143e" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d308d9275cb4fbeb4e4d143e</url>
-<price>7043.52</price>
+<price>8100.05</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2471,7 +2433,7 @@
 </offer>
 <offer id="supplier20265cfc7a68f8965b42f4385468" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-5cfc7a68f8965b42f4385468</url>
-<price>6375.6</price>
+<price>7331.94</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2494,7 +2456,7 @@
 </offer>
 <offer id="supplier202627057545e49a0fba51858ccb" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-27057545e49a0fba51858ccb</url>
-<price>11293.92</price>
+<price>12988.01</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -2517,7 +2479,7 @@
 </offer>
 <offer id="supplier2026f4778eaf339f72a49f4e1031" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f4778eaf339f72a49f4e1031</url>
-<price>10686.72</price>
+<price>12289.73</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -2540,7 +2502,7 @@
 </offer>
 <offer id="supplier2026a81a0a2fd5c36a8d42565bb3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a81a0a2fd5c36a8d42565bb3</url>
-<price>9108</price>
+<price>10474.2</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -2563,7 +2525,7 @@
 </offer>
 <offer id="supplier202681c461ac190081c4ae1edfd5" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-81c461ac190081c4ae1edfd5</url>
-<price>8440.08</price>
+<price>9706.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -2586,7 +2548,7 @@
 </offer>
 <offer id="supplier2026db6bf8ffc129b21b5d4a059a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-db6bf8ffc129b21b5d4a059a</url>
-<price>9290.16</price>
+<price>10683.68</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -2609,7 +2571,7 @@
 </offer>
 <offer id="supplier202665fa7ee98879ad8bfc945578" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-65fa7ee98879ad8bfc945578</url>
-<price>8622.24</price>
+<price>9915.58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -2632,7 +2594,7 @@
 </offer>
 <offer id="supplier2026f93041637aaef0bf7afe3016" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f93041637aaef0bf7afe3016</url>
-<price>7043.52</price>
+<price>8100.05</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -2656,7 +2618,7 @@
 </offer>
 <offer id="supplier2026a624335c067a2b9915bb68cd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a624335c067a2b9915bb68cd</url>
-<price>6375.6</price>
+<price>7331.94</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -2680,7 +2642,7 @@
 </offer>
 <offer id="supplier202646123b0da2a1725948834fe4" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-46123b0da2a1725948834fe4</url>
-<price>9350.88</price>
+<price>10753.51</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2703,7 +2665,7 @@
 </offer>
 <offer id="supplier20260e1a32abf6494dd6b4c0459a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-0e1a32abf6494dd6b4c0459a</url>
-<price>8622.24</price>
+<price>9915.58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2726,7 +2688,7 @@
 </offer>
 <offer id="supplier2026334a27ee2f6cfd69745b1912" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-334a27ee2f6cfd69745b1912</url>
-<price>14633.52</price>
+<price>16828.55</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -2749,7 +2711,7 @@
 </offer>
 <offer id="supplier2026c5d0235c703225e4b8d6fd84" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c5d0235c703225e4b8d6fd84</url>
-<price>13904.88</price>
+<price>15990.61</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -2772,7 +2734,7 @@
 </offer>
 <offer id="supplier202648c238256192f8f28fc9d1f2" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-48c238256192f8f28fc9d1f2</url>
-<price>11901.12</price>
+<price>13686.29</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -2795,7 +2757,7 @@
 </offer>
 <offer id="supplier2026560b229b5f8b2a79ad72706a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-560b229b5f8b2a79ad72706a</url>
-<price>11172.48</price>
+<price>12848.35</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -2818,7 +2780,7 @@
 </offer>
 <offer id="supplier2026c8e463fe30a017495f3b76aa" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c8e463fe30a017495f3b76aa</url>
-<price>12083.28</price>
+<price>13895.77</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -2841,7 +2803,7 @@
 </offer>
 <offer id="supplier20264a4df140668f54a9f1d87ac1" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4a4df140668f54a9f1d87ac1</url>
-<price>11354.64</price>
+<price>13057.84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -2864,7 +2826,7 @@
 </offer>
 <offer id="supplier2026f3efb49c62a192cc3cc0567e" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f3efb49c62a192cc3cc0567e</url>
-<price>9350.88</price>
+<price>10753.51</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -2888,7 +2850,7 @@
 </offer>
 <offer id="supplier202672be92d3bb3bfc1772a3a604" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-72be92d3bb3bfc1772a3a604</url>
-<price>8622.24</price>
+<price>9915.58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -2912,7 +2874,7 @@
 </offer>
 <offer id="supplier2026406020b1e494b1b96c0d55bd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-406020b1e494b1b96c0d55bd</url>
-<price>11658.24</price>
+<price>13406.98</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2935,7 +2897,7 @@
 </offer>
 <offer id="supplier2026f77ab6070a5a463a35bc209d" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f77ab6070a5a463a35bc209d</url>
-<price>10868.88</price>
+<price>12499.21</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -2958,7 +2920,7 @@
 </offer>
 <offer id="supplier202633bc95856a2d115d326f698b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-33bc95856a2d115d326f698b</url>
-<price>18155.28</price>
+<price>20878.57</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -2981,7 +2943,7 @@
 </offer>
 <offer id="supplier20265ec8fb3627c09bfb5ee0f0b2" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-5ec8fb3627c09bfb5ee0f0b2</url>
-<price>17365.92</price>
+<price>19970.81</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -3004,7 +2966,7 @@
 </offer>
 <offer id="supplier2026a3159c01f1cb35d01113eb2c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a3159c01f1cb35d01113eb2c</url>
-<price>14815.68</price>
+<price>17038.03</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -3027,7 +2989,7 @@
 </offer>
 <offer id="supplier20264b14ff14fa9169371941e17b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4b14ff14fa9169371941e17b</url>
-<price>14026.32</price>
+<price>16130.27</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -3050,7 +3012,7 @@
 </offer>
 <offer id="supplier2026d9c08c7565f3a7bfef9bb310" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d9c08c7565f3a7bfef9bb310</url>
-<price>14937.12</price>
+<price>17177.69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -3073,7 +3035,7 @@
 </offer>
 <offer id="supplier202613a563e084cad63a4cce02b9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-13a563e084cad63a4cce02b9</url>
-<price>14208.48</price>
+<price>16339.75</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -3096,7 +3058,7 @@
 </offer>
 <offer id="supplier202692b860484622f1834b73c9bd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-92b860484622f1834b73c9bd</url>
-<price>11658.24</price>
+<price>13406.98</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -3120,7 +3082,7 @@
 </offer>
 <offer id="supplier2026c0f849577656f123b45f4bf7" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c0f849577656f123b45f4bf7</url>
-<price>10868.88</price>
+<price>12499.21</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -3144,7 +3106,7 @@
 </offer>
 <offer id="supplier2026857c1ce4e6c1a7d1564b79e2" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-857c1ce4e6c1a7d1564b79e2</url>
-<price>15180</price>
+<price>17457</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -3167,7 +3129,7 @@
 </offer>
 <offer id="supplier202647877d6ad8b591b5babddf7a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-47877d6ad8b591b5babddf7a</url>
-<price>14390.64</price>
+<price>16549.24</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -3190,7 +3152,7 @@
 </offer>
 <offer id="supplier2026fd815acf1b31c9cb4c48253f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-fd815acf1b31c9cb4c48253f</url>
-<price>23620.08</price>
+<price>27163.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -3213,7 +3175,7 @@
 </offer>
 <offer id="supplier202635de80c8628eb6f11193cdc2" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-35de80c8628eb6f11193cdc2</url>
-<price>22770</price>
+<price>26185.5</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -3236,7 +3198,7 @@
 </offer>
 <offer id="supplier20264db0fc6498e0a41e5f0e6586" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4db0fc6498e0a41e5f0e6586</url>
-<price>19794.72</price>
+<price>22763.93</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -3259,7 +3221,7 @@
 </offer>
 <offer id="supplier20269b354ecb231014b82321bfe1" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-9b354ecb231014b82321bfe1</url>
-<price>18944.64</price>
+<price>21786.34</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -3282,7 +3244,7 @@
 </offer>
 <offer id="supplier2026d18a8f6247324c410109d1e3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d18a8f6247324c410109d1e3</url>
-<price>19005.36</price>
+<price>21856.16</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -3305,7 +3267,7 @@
 </offer>
 <offer id="supplier2026ecfa8e042697a58fdda4e226" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-ecfa8e042697a58fdda4e226</url>
-<price>18216</price>
+<price>20948.4</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -3328,7 +3290,7 @@
 </offer>
 <offer id="supplier20267fe454fbe4a62a0d910905f4" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-7fe454fbe4a62a0d910905f4</url>
-<price>15180</price>
+<price>17457</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -3352,7 +3314,7 @@
 </offer>
 <offer id="supplier2026477b1bfec18a0111e035fe49" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-477b1bfec18a0111e035fe49</url>
-<price>14390.64</price>
+<price>16549.24</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -3376,7 +3338,7 @@
 </offer>
 <offer id="supplier2026ef2be21d5e7fa4c57628ee8c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-ef2be21d5e7fa4c57628ee8c</url>
-<price>22709.28</price>
+<price>26115.67</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -3399,7 +3361,7 @@
 </offer>
 <offer id="supplier2026681ccc88863f66b7577f4c9a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-681ccc88863f66b7577f4c9a</url>
-<price>21677.04</price>
+<price>24928.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/7efaa2de2713968fea438e97ddb1650b8f271a20-1200x1200.jpg</picture>
@@ -3422,7 +3384,7 @@
 </offer>
 <offer id="supplier20264b199104c57f4afa2c924a90" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4b199104c57f4afa2c924a90</url>
-<price>33881.76</price>
+<price>38964.02</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -3445,7 +3407,7 @@
 </offer>
 <offer id="supplier20268fb9b5ef429a009b64dc459b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8fb9b5ef429a009b64dc459b</url>
-<price>32849.52</price>
+<price>37776.95</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/f96cd3fc9184ae57dd377b84c2487cab248186ff-1200x1200.jpg</picture>
@@ -3468,7 +3430,7 @@
 </offer>
 <offer id="supplier2026074aee4a708e254d3c6d5609" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-074aee4a708e254d3c6d5609</url>
-<price>28781.28</price>
+<price>33098.47</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -3491,7 +3453,7 @@
 </offer>
 <offer id="supplier2026e8c2526dca3c1f27643871ec" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-e8c2526dca3c1f27643871ec</url>
-<price>27749.04</price>
+<price>31911.4</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/0f2857b0496199cd5909d2df3f7814c83b2fa11f-1200x1200.jpg</picture>
@@ -3514,7 +3476,7 @@
 </offer>
 <offer id="supplier202685ced668eae575390e4c68f7" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-85ced668eae575390e4c68f7</url>
-<price>27809.76</price>
+<price>31981.22</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -3537,7 +3499,7 @@
 </offer>
 <offer id="supplier2026c291e6a152f916b21ade317a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c291e6a152f916b21ade317a</url>
-<price>26777.52</price>
+<price>30794.15</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ad8e63be11f118100bd0d5f5ff7e86212e0d3c41-1200x1200.jpg</picture>
@@ -3560,7 +3522,7 @@
 </offer>
 <offer id="supplier20264b20ddfa5235af6bdfaf821f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4b20ddfa5235af6bdfaf821f</url>
-<price>22709.28</price>
+<price>26115.67</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -3584,7 +3546,7 @@
 </offer>
 <offer id="supplier202655f00439a12148b554b78625" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-55f00439a12148b554b78625</url>
-<price>21677.04</price>
+<price>24928.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/03034002953dc33b5705bfbe14e3b14ae801ddfa-1200x1200.jpg</picture>
@@ -3608,7 +3570,7 @@
 </offer>
 <offer id="supplier20268e86cd497a2733715f3534f4" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8e86cd497a2733715f3534f4</url>
-<price>3946.8</price>
+<price>4538.82</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9d662b1cecec4e481e96592fe1fd133b363f1c81-1200x1200.jpg</picture>
@@ -3632,7 +3594,7 @@
 </offer>
 <offer id="supplier20265b876e6f0ff5623715bfe0dd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-5b876e6f0ff5623715bfe0dd</url>
-<price>2550.24</price>
+<price>2932.78</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/163b3f2f5cd7cb221d6adb45c8e92418e1396b80-1200x1200.jpg</picture>
@@ -3656,7 +3618,7 @@
 </offer>
 <offer id="supplier202633ff796e1bd975b48f46d990" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-33ff796e1bd975b48f46d990</url>
-<price>5586.24</price>
+<price>6424.18</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9d662b1cecec4e481e96592fe1fd133b363f1c81-1200x1200.jpg</picture>
@@ -3680,7 +3642,7 @@
 </offer>
 <offer id="supplier20266a789f0c5d9963f321efa8c7" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-6a789f0c5d9963f321efa8c7</url>
-<price>3703.92</price>
+<price>4259.51</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/163b3f2f5cd7cb221d6adb45c8e92418e1396b80-1200x1200.jpg</picture>
@@ -3704,7 +3666,7 @@
 </offer>
 <offer id="supplier202672aed7f21dd63c6920287dab" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-72aed7f21dd63c6920287dab</url>
-<price>7286.4</price>
+<price>8379.36</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9d662b1cecec4e481e96592fe1fd133b363f1c81-1200x1200.jpg</picture>
@@ -3728,7 +3690,7 @@
 </offer>
 <offer id="supplier202677fba61b535b2fbf53ce69b2" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-77fba61b535b2fbf53ce69b2</url>
-<price>4979.04</price>
+<price>5725.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/163b3f2f5cd7cb221d6adb45c8e92418e1396b80-1200x1200.jpg</picture>
@@ -3752,7 +3714,7 @@
 </offer>
 <offer id="supplier2026049d034a2d9a9ee95c4a57c6" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-049d034a2d9a9ee95c4a57c6</url>
-<price>9229.44</price>
+<price>10613.86</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9d662b1cecec4e481e96592fe1fd133b363f1c81-1200x1200.jpg</picture>
@@ -3776,7 +3738,7 @@
 </offer>
 <offer id="supplier20265ed0e212415f9dd46dcd390b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-5ed0e212415f9dd46dcd390b</url>
-<price>6497.04</price>
+<price>7471.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/163b3f2f5cd7cb221d6adb45c8e92418e1396b80-1200x1200.jpg</picture>
@@ -3800,7 +3762,7 @@
 </offer>
 <offer id="supplier2026c2165713c92a7e07fc7e3fba" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c2165713c92a7e07fc7e3fba</url>
-<price>13115.52</price>
+<price>15082.85</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9d662b1cecec4e481e96592fe1fd133b363f1c81-1200x1200.jpg</picture>
@@ -3824,7 +3786,7 @@
 </offer>
 <offer id="supplier2026833868e23fba3df5b7b4c41f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-833868e23fba3df5b7b4c41f</url>
-<price>8925.84</price>
+<price>10264.72</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/163b3f2f5cd7cb221d6adb45c8e92418e1396b80-1200x1200.jpg</picture>
@@ -3848,7 +3810,7 @@
 </offer>
 <offer id="supplier2026f51158a0004b7f1f33f015b1" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f51158a0004b7f1f33f015b1</url>
-<price>18337.44</price>
+<price>21088.06</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/9d662b1cecec4e481e96592fe1fd133b363f1c81-1200x1200.jpg</picture>
@@ -3872,7 +3834,7 @@
 </offer>
 <offer id="supplier202685714fa07d89c34dc8583c45" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-85714fa07d89c34dc8583c45</url>
-<price>12751.2</price>
+<price>14663.88</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/163b3f2f5cd7cb221d6adb45c8e92418e1396b80-1200x1200.jpg</picture>
@@ -3896,7 +3858,7 @@
 </offer>
 <offer id="supplier202688cdedc041705886e9398846" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-88cdedc041705886e9398846</url>
-<price>2671.68</price>
+<price>3072.43</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ced72945b3a2bceafca0d5f705e64c9aee2a95af-1200x1200.jpg</picture>
@@ -3920,7 +3882,7 @@
 </offer>
 <offer id="supplier2026338e5d10c090a4cdb531b6bf" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-338e5d10c090a4cdb531b6bf</url>
-<price>6072</price>
+<price>6982.8</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/eba69134d93b6359005544e3c6de449aeca530d1-1200x1200.jpg</picture>
@@ -3944,7 +3906,7 @@
 </offer>
 <offer id="supplier202666e9930be0c84a877d1ac1cb" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-66e9930be0c84a877d1ac1cb</url>
-<price>4007.52</price>
+<price>4608.65</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/bedcd9ca0cf74afa5bcc5ca3144e54795ef4b9e7-1200x1200.jpg</picture>
@@ -3968,7 +3930,7 @@
 </offer>
 <offer id="supplier2026194208b6fd458f2f71fadfb3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-194208b6fd458f2f71fadfb3</url>
-<price>4614.72</price>
+<price>5306.93</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6fc0dde178dfc0b34fb499108e28271c52976ff0-1200x1200.jpg</picture>
@@ -3992,7 +3954,7 @@
 </offer>
 <offer id="supplier20261900139b709af01e99febf90" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-1900139b709af01e99febf90</url>
-<price>4128.96</price>
+<price>4748.3</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ced72945b3a2bceafca0d5f705e64c9aee2a95af-1200x1200.jpg</picture>
@@ -4016,7 +3978,7 @@
 </offer>
 <offer id="supplier2026a610ff61ad4eb7930ee4db7c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a610ff61ad4eb7930ee4db7c</url>
-<price>8440.08</price>
+<price>9706.09</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/eba69134d93b6359005544e3c6de449aeca530d1-1200x1200.jpg</picture>
@@ -4040,7 +4002,7 @@
 </offer>
 <offer id="supplier202658a94cc53b5c45f6566b755f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-58a94cc53b5c45f6566b755f</url>
-<price>5950.56</price>
+<price>6843.14</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/bedcd9ca0cf74afa5bcc5ca3144e54795ef4b9e7-1200x1200.jpg</picture>
@@ -4064,7 +4026,7 @@
 </offer>
 <offer id="supplier20266493050004401253c6f3664b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-6493050004401253c6f3664b</url>
-<price>6497.04</price>
+<price>7471.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6fc0dde178dfc0b34fb499108e28271c52976ff0-1200x1200.jpg</picture>
@@ -4088,7 +4050,7 @@
 </offer>
 <offer id="supplier202674f660f9178840cca0a96072" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-74f660f9178840cca0a96072</url>
-<price>5404.08</price>
+<price>6214.69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ced72945b3a2bceafca0d5f705e64c9aee2a95af-1200x1200.jpg</picture>
@@ -4112,7 +4074,7 @@
 </offer>
 <offer id="supplier202601b9c471c597507af2cd3e67" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-01b9c471c597507af2cd3e67</url>
-<price>10686.72</price>
+<price>12289.73</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/eba69134d93b6359005544e3c6de449aeca530d1-1200x1200.jpg</picture>
@@ -4136,7 +4098,7 @@
 </offer>
 <offer id="supplier2026de683d05a00966bf166a33e0" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-de683d05a00966bf166a33e0</url>
-<price>7650.72</price>
+<price>8798.33</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/bedcd9ca0cf74afa5bcc5ca3144e54795ef4b9e7-1200x1200.jpg</picture>
@@ -4160,7 +4122,7 @@
 </offer>
 <offer id="supplier2026e72e16f90d3b9d219d34f536" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-e72e16f90d3b9d219d34f536</url>
-<price>8136.48</price>
+<price>9356.95</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6fc0dde178dfc0b34fb499108e28271c52976ff0-1200x1200.jpg</picture>
@@ -4184,7 +4146,7 @@
 </offer>
 <offer id="supplier202602fe96573cdc5dc3fa200f04" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-02fe96573cdc5dc3fa200f04</url>
-<price>6739.92</price>
+<price>7750.91</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ced72945b3a2bceafca0d5f705e64c9aee2a95af-1200x1200.jpg</picture>
@@ -4208,7 +4170,7 @@
 </offer>
 <offer id="supplier2026f644fd4fbcbfa3dcc6f7a998" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f644fd4fbcbfa3dcc6f7a998</url>
-<price>12690.48</price>
+<price>14594.05</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/eba69134d93b6359005544e3c6de449aeca530d1-1200x1200.jpg</picture>
@@ -4232,7 +4194,7 @@
 </offer>
 <offer id="supplier202686054fce57039574a28cb735" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-86054fce57039574a28cb735</url>
-<price>9533.04</price>
+<price>10963</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/bedcd9ca0cf74afa5bcc5ca3144e54795ef4b9e7-1200x1200.jpg</picture>
@@ -4256,7 +4218,7 @@
 </offer>
 <offer id="supplier2026fac06f9c9d75212a47c71f0f" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-fac06f9c9d75212a47c71f0f</url>
-<price>9715.2</price>
+<price>11172.48</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6fc0dde178dfc0b34fb499108e28271c52976ff0-1200x1200.jpg</picture>
@@ -4280,7 +4242,7 @@
 </offer>
 <offer id="supplier202649aff5200d31250fc45dc09a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-49aff5200d31250fc45dc09a</url>
-<price>8379.36</price>
+<price>9636.26</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ced72945b3a2bceafca0d5f705e64c9aee2a95af-1200x1200.jpg</picture>
@@ -4304,7 +4266,7 @@
 </offer>
 <offer id="supplier2026621542d24332bb7f5162eb6d" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-621542d24332bb7f5162eb6d</url>
-<price>16272.96</price>
+<price>18713.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/eba69134d93b6359005544e3c6de449aeca530d1-1200x1200.jpg</picture>
@@ -4328,7 +4290,7 @@
 </offer>
 <offer id="supplier2026a98bdb3b0f3d22ba889a3009" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a98bdb3b0f3d22ba889a3009</url>
-<price>12447.6</price>
+<price>14314.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/bedcd9ca0cf74afa5bcc5ca3144e54795ef4b9e7-1200x1200.jpg</picture>
@@ -4352,7 +4314,7 @@
 </offer>
 <offer id="supplier2026f67a7aa24af2db030fcdcb39" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f67a7aa24af2db030fcdcb39</url>
-<price>11961.84</price>
+<price>13756.12</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6fc0dde178dfc0b34fb499108e28271c52976ff0-1200x1200.jpg</picture>
@@ -4376,7 +4338,7 @@
 </offer>
 <offer id="supplier202657fab5f45a6266b8a472afde" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-57fab5f45a6266b8a472afde</url>
-<price>11840.4</price>
+<price>13616.46</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ced72945b3a2bceafca0d5f705e64c9aee2a95af-1200x1200.jpg</picture>
@@ -4400,7 +4362,7 @@
 </offer>
 <offer id="supplier2026dbc99232ef7765a57e5acbe1" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-dbc99232ef7765a57e5acbe1</url>
-<price>22952.16</price>
+<price>26394.98</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/eba69134d93b6359005544e3c6de449aeca530d1-1200x1200.jpg</picture>
@@ -4424,7 +4386,7 @@
 </offer>
 <offer id="supplier2026467acb8be5fd52246c995534" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-467acb8be5fd52246c995534</url>
-<price>17305.2</price>
+<price>19900.98</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/bedcd9ca0cf74afa5bcc5ca3144e54795ef4b9e7-1200x1200.jpg</picture>
@@ -4448,7 +4410,7 @@
 </offer>
 <offer id="supplier20267bee221d51cc813a8973e9a1" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-7bee221d51cc813a8973e9a1</url>
-<price>17123.04</price>
+<price>19691.5</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/6fc0dde178dfc0b34fb499108e28271c52976ff0-1200x1200.jpg</picture>
@@ -4472,7 +4434,7 @@
 </offer>
 <offer id="supplier2026d6d261b3dc2738a08a5094b3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d6d261b3dc2738a08a5094b3</url>
-<price>3461.04</price>
+<price>3980.2</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4495,7 +4457,7 @@
 </offer>
 <offer id="supplier2026fa9ceacf392e21174b959d8e" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-fa9ceacf392e21174b959d8e</url>
-<price>2914.56</price>
+<price>3351.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4518,7 +4480,7 @@
 </offer>
 <offer id="supplier202603de1bd26ec8adf16f1e0bca" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-03de1bd26ec8adf16f1e0bca</url>
-<price>4675.44</price>
+<price>5376.76</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4541,7 +4503,7 @@
 </offer>
 <offer id="supplier202625a9e1f1f6e9daa97671c0e9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-25a9e1f1f6e9daa97671c0e9</url>
-<price>4128.96</price>
+<price>4748.3</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4564,7 +4526,7 @@
 </offer>
 <offer id="supplier202637ed5385e3e25883735f3300" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-37ed5385e3e25883735f3300</url>
-<price>3461.04</price>
+<price>3980.2</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4587,7 +4549,7 @@
 </offer>
 <offer id="supplier202627fe59dee4b751e7f933ca2c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-27fe59dee4b751e7f933ca2c</url>
-<price>2914.56</price>
+<price>3351.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4610,7 +4572,7 @@
 </offer>
 <offer id="supplier2026379518cefe572f21e2b5db01" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-379518cefe572f21e2b5db01</url>
-<price>4918.32</price>
+<price>5656.07</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4633,7 +4595,7 @@
 </offer>
 <offer id="supplier20266abea3c628fa3a7eadc93e06" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-6abea3c628fa3a7eadc93e06</url>
-<price>4311.12</price>
+<price>4957.79</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4656,7 +4618,7 @@
 </offer>
 <offer id="supplier2026bf3facb3ef1ffa3b5a05a29a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-bf3facb3ef1ffa3b5a05a29a</url>
-<price>6861.36</price>
+<price>7890.56</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4679,7 +4641,7 @@
 </offer>
 <offer id="supplier2026f3272e51a95216da3b81bc5c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f3272e51a95216da3b81bc5c</url>
-<price>6193.44</price>
+<price>7122.46</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4702,7 +4664,7 @@
 </offer>
 <offer id="supplier20269c05bb901dc832434def7cc7" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-9c05bb901dc832434def7cc7</url>
-<price>4918.32</price>
+<price>5656.07</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4725,7 +4687,7 @@
 </offer>
 <offer id="supplier202686c5423e4423cb614bd2d6cd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-86c5423e4423cb614bd2d6cd</url>
-<price>4311.12</price>
+<price>4957.79</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4748,7 +4710,7 @@
 </offer>
 <offer id="supplier20262d3bde4f595d242647afb8d2" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-2d3bde4f595d242647afb8d2</url>
-<price>6497.04</price>
+<price>7471.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4771,7 +4733,7 @@
 </offer>
 <offer id="supplier202642ff595095eccd3740c0247c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-42ff595095eccd3740c0247c</url>
-<price>5768.4</price>
+<price>6633.66</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4794,7 +4756,7 @@
 </offer>
 <offer id="supplier2026e7b9efa0a618d64c5669b330" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-e7b9efa0a618d64c5669b330</url>
-<price>8925.84</price>
+<price>10264.72</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4817,7 +4779,7 @@
 </offer>
 <offer id="supplier202696a2727034bf720ab0cdf7c1" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-96a2727034bf720ab0cdf7c1</url>
-<price>8257.92</price>
+<price>9496.61</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4840,7 +4802,7 @@
 </offer>
 <offer id="supplier20268bd1b1e636c1cd7bf0770e8c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-8bd1b1e636c1cd7bf0770e8c</url>
-<price>6497.04</price>
+<price>7471.6</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4863,7 +4825,7 @@
 </offer>
 <offer id="supplier2026962dbd9ec5a50d21d3b6666a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-962dbd9ec5a50d21d3b6666a</url>
-<price>5768.4</price>
+<price>6633.66</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4886,7 +4848,7 @@
 </offer>
 <offer id="supplier202670ff8dcf0f0e33c77283fbfd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-70ff8dcf0f0e33c77283fbfd</url>
-<price>8197.2</price>
+<price>9426.78</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4909,7 +4871,7 @@
 </offer>
 <offer id="supplier2026d1caf02c91d10e1ef9f30677" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d1caf02c91d10e1ef9f30677</url>
-<price>7407.84</price>
+<price>8519.02</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -4932,7 +4894,7 @@
 </offer>
 <offer id="supplier20267af835e59633c959d58cb4ed" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-7af835e59633c959d58cb4ed</url>
-<price>11354.64</price>
+<price>13057.84</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4955,7 +4917,7 @@
 </offer>
 <offer id="supplier2026fc38a5d0007fb2720395835b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-fc38a5d0007fb2720395835b</url>
-<price>10626</price>
+<price>12219.9</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -4978,7 +4940,7 @@
 </offer>
 <offer id="supplier2026f72285f963bace763456c641" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-f72285f963bace763456c641</url>
-<price>8197.2</price>
+<price>9426.78</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5001,7 +4963,7 @@
 </offer>
 <offer id="supplier20266ff0513bb2547be97bd10e7b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-6ff0513bb2547be97bd10e7b</url>
-<price>7407.84</price>
+<price>8519.02</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5024,7 +4986,7 @@
 </offer>
 <offer id="supplier20263dea34d46bef432a6a816446" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-3dea34d46bef432a6a816446</url>
-<price>10140.24</price>
+<price>11661.28</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -5047,7 +5009,7 @@
 </offer>
 <offer id="supplier2026d4e782361581947476245594" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d4e782361581947476245594</url>
-<price>9350.88</price>
+<price>10753.51</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -5070,7 +5032,7 @@
 </offer>
 <offer id="supplier2026d8ab173318430388b1b66bd4" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-d8ab173318430388b1b66bd4</url>
-<price>14208.48</price>
+<price>16339.75</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5093,7 +5055,7 @@
 </offer>
 <offer id="supplier2026a2aeb85d6724f3b959700d20" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a2aeb85d6724f3b959700d20</url>
-<price>13358.4</price>
+<price>15362.16</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5116,7 +5078,7 @@
 </offer>
 <offer id="supplier20263d7bfef5fe7623f9e375a5ec" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-3d7bfef5fe7623f9e375a5ec</url>
-<price>10140.24</price>
+<price>11661.28</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5139,7 +5101,7 @@
 </offer>
 <offer id="supplier20260ad78f51920e62882fd472d3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-0ad78f51920e62882fd472d3</url>
-<price>9350.88</price>
+<price>10753.51</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5162,7 +5124,7 @@
 </offer>
 <offer id="supplier2026b7d3b20bc7dfe0cd4fc023ae" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-b7d3b20bc7dfe0cd4fc023ae</url>
-<price>15119.28</price>
+<price>17387.17</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -5185,7 +5147,7 @@
 </offer>
 <offer id="supplier2026eba0c24d69bde8ad89887194" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-eba0c24d69bde8ad89887194</url>
-<price>14147.76</price>
+<price>16269.92</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/210f6cd072c72798a6974dad8e1e73978fc31d32-1200x1200.jpg</picture>
@@ -5208,7 +5170,7 @@
 </offer>
 <offer id="supplier2026515c5dd3c9c5759bd065730a" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-515c5dd3c9c5759bd065730a</url>
-<price>20401.92</price>
+<price>23462.21</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5231,7 +5193,7 @@
 </offer>
 <offer id="supplier20266a01550178b0c29817eb2b57" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-6a01550178b0c29817eb2b57</url>
-<price>19430.4</price>
+<price>22344.96</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5254,7 +5216,7 @@
 </offer>
 <offer id="supplier2026a6ecaf493080e422d3acfe9e" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-a6ecaf493080e422d3acfe9e</url>
-<price>15119.28</price>
+<price>17387.17</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5277,7 +5239,7 @@
 </offer>
 <offer id="supplier2026447672d56c91afefff1d0c3c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-447672d56c91afefff1d0c3c</url>
-<price>14147.76</price>
+<price>16269.92</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/86f418096c40f5fd51cc0eed2da60151bf53097f-1200x1200.jpg</picture>
@@ -5298,141 +5260,9 @@
 <param name="Діаметр нижнього ряду">1,85 м</param>
 <param name="Кількість гілочок">1805 шт.</param>
 </offer>
-<offer id="supplier202635ff7ccd2ceb4a1b6fc19fd7" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-35ff7ccd2ceb4a1b6fc19fd7</url>
-<price>850.08</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/b619efdf831487060558d6e035398fad90a9fdd7-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/6f39e1694f374c6c83d126c48f67cdf0c38abdc3-933x1400.jpg</picture>
-<vendor>SIGA GROUP</vendor>
-<article>SIGA-447-485-D</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,7 м, блакитна, примотування</name>
-<name_ua>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,7 м, блакитна, примотування</name_ua>
-<description><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,7 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Блакитна. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,45 м.</p><ul><li>Висота: 0,7 м</li><li>Варіант: Блакитна</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,45 м</li></ul>]]></description>
-<description_ua><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,7 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Блакитна. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,45 м.</p><ul><li>Висота: 0,7 м</li><li>Варіант: Блакитна</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,45 м</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Висота">0,7 м</param>
-<param name="Варіант">Блакитна</param>
-<param name="Матеріал хвої">Поліетилен (PE)</param>
-<param name="Технологія складання">примотування</param>
-<param name="Виробник">SIGA GROUP</param>
-<param name="Діаметр нижнього ряду">0,45 м</param>
-</offer>
-<offer id="supplier20260608ccb8b844d9c858361eb0" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-0608ccb8b844d9c858361eb0</url>
-<price>1578.72</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/086bc6b586fb125144469eaa8983439fb395a24e-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/c89ee8b678a6833f4a4c79796f5bcba2907364de-933x1400.jpg</picture>
-<vendor>SIGA GROUP</vendor>
-<article>SIGA-447-485-H</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,7 м, засніжена, примотування</name>
-<name_ua>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,7 м, засніжена, примотування</name_ua>
-<description><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,7 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Засніжена. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,45 м. Засніжене виконання підтримує зимову палітру декору.</p><ul><li>Висота: 0,7 м</li><li>Варіант: Засніжена</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,45 м</li></ul>]]></description>
-<description_ua><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,7 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Засніжена. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,45 м. Засніжене виконання підтримує зимову палітру декору.</p><ul><li>Висота: 0,7 м</li><li>Варіант: Засніжена</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,45 м</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Висота">0,7 м</param>
-<param name="Варіант">Засніжена</param>
-<param name="Матеріал хвої">Поліетилен (PE)</param>
-<param name="Технологія складання">примотування</param>
-<param name="Виробник">SIGA GROUP</param>
-<param name="Діаметр нижнього ряду">0,45 м</param>
-</offer>
-<offer id="supplier20267255609de24c7ba338e4e760" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-7255609de24c7ba338e4e760</url>
-<price>1153.68</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/b619efdf831487060558d6e035398fad90a9fdd7-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/6f39e1694f374c6c83d126c48f67cdf0c38abdc3-933x1400.jpg</picture>
-<vendor>SIGA GROUP</vendor>
-<article>SIGA-447-486-D</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,9 м, блакитна, примотування</name>
-<name_ua>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,9 м, блакитна, примотування</name_ua>
-<description><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,9 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Блакитна. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,5 м.</p><ul><li>Висота: 0,9 м</li><li>Варіант: Блакитна</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,5 м</li></ul>]]></description>
-<description_ua><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,9 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Блакитна. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,5 м.</p><ul><li>Висота: 0,9 м</li><li>Варіант: Блакитна</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,5 м</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Висота">0,9 м</param>
-<param name="Варіант">Блакитна</param>
-<param name="Матеріал хвої">Поліетилен (PE)</param>
-<param name="Технологія складання">примотування</param>
-<param name="Виробник">SIGA GROUP</param>
-<param name="Діаметр нижнього ряду">0,5 м</param>
-</offer>
-<offer id="supplier20261dd9bcfe9422391ca79ffc5e" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-1dd9bcfe9422391ca79ffc5e</url>
-<price>1943.04</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/086bc6b586fb125144469eaa8983439fb395a24e-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/c89ee8b678a6833f4a4c79796f5bcba2907364de-933x1400.jpg</picture>
-<vendor>SIGA GROUP</vendor>
-<article>SIGA-447-486-H</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,9 м, засніжена, примотування</name>
-<name_ua>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 0,9 м, засніжена, примотування</name_ua>
-<description><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,9 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Засніжена. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,5 м. Засніжене виконання підтримує зимову палітру декору.</p><ul><li>Висота: 0,9 м</li><li>Варіант: Засніжена</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,5 м</li></ul>]]></description>
-<description_ua><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 0,9 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Засніжена. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,5 м. Засніжене виконання підтримує зимову палітру декору.</p><ul><li>Висота: 0,9 м</li><li>Варіант: Засніжена</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,5 м</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Висота">0,9 м</param>
-<param name="Варіант">Засніжена</param>
-<param name="Матеріал хвої">Поліетилен (PE)</param>
-<param name="Технологія складання">примотування</param>
-<param name="Виробник">SIGA GROUP</param>
-<param name="Діаметр нижнього ряду">0,5 м</param>
-</offer>
-<offer id="supplier20264408240106168d3135065f9c" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4408240106168d3135065f9c</url>
-<price>1578.72</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/b619efdf831487060558d6e035398fad90a9fdd7-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/6f39e1694f374c6c83d126c48f67cdf0c38abdc3-933x1400.jpg</picture>
-<vendor>SIGA GROUP</vendor>
-<article>SIGA-447-487-D</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 1,1 м, блакитна, примотування</name>
-<name_ua>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 1,1 м, блакитна, примотування</name_ua>
-<description><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 1,1 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Блакитна. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,6 м.</p><ul><li>Висота: 1,1 м</li><li>Варіант: Блакитна</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,6 м</li></ul>]]></description>
-<description_ua><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 1,1 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Блакитна. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,6 м.</p><ul><li>Висота: 1,1 м</li><li>Варіант: Блакитна</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,6 м</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Висота">1,1 м</param>
-<param name="Варіант">Блакитна</param>
-<param name="Матеріал хвої">Поліетилен (PE)</param>
-<param name="Технологія складання">примотування</param>
-<param name="Виробник">SIGA GROUP</param>
-<param name="Діаметр нижнього ряду">0,6 м</param>
-</offer>
-<offer id="supplier2026b1942a7caf217517747503bd" available="true">
-<url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-b1942a7caf217517747503bd</url>
-<price>2307.36</price>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/086bc6b586fb125144469eaa8983439fb395a24e-1200x1200.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/c89ee8b678a6833f4a4c79796f5bcba2907364de-933x1400.jpg</picture>
-<vendor>SIGA GROUP</vendor>
-<article>SIGA-447-487-H</article>
-<stock_quantity>5</stock_quantity>
-<name>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 1,1 м, засніжена, примотування</name>
-<name_ua>Ялинка лита &quot;Лапландська&quot; в горщику SIGA GROUP — 1,1 м, засніжена, примотування</name_ua>
-<description><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 1,1 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Засніжена. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,6 м. Засніжене виконання підтримує зимову палітру декору.</p><ul><li>Висота: 1,1 м</li><li>Варіант: Засніжена</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,6 м</li></ul>]]></description>
-<description_ua><![CDATA[<p>Додайте оселі різдвяного настрою з моделлю лита &quot;Лапландська&quot; в горщику SIGA GROUP. Висота 1,1 м допоможе обрати ялинку під ваш простір і задум святкового оформлення.</p><p>Варіант: Засніжена. Матеріал хвої: Поліетилен (PE). Технологія складання: примотування. Діаметр нижнього ряду: 0,6 м. Засніжене виконання підтримує зимову палітру декору.</p><ul><li>Висота: 1,1 м</li><li>Варіант: Засніжена</li><li>Матеріал хвої: Поліетилен (PE)</li><li>Технологія складання: примотування</li><li>Виробник: SIGA GROUP</li><li>Діаметр нижнього ряду: 0,6 м</li></ul>]]></description_ua>
-<state>new</state>
-<param name="Висота">1,1 м</param>
-<param name="Варіант">Засніжена</param>
-<param name="Матеріал хвої">Поліетилен (PE)</param>
-<param name="Технологія складання">примотування</param>
-<param name="Виробник">SIGA GROUP</param>
-<param name="Діаметр нижнього ряду">0,6 м</param>
-</offer>
 <offer id="supplier202644dcd792478fdb7db1ce62f0" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-44dcd792478fdb7db1ce62f0</url>
-<price>5039.76</price>
+<price>5795.72</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5455,7 +5285,7 @@
 </offer>
 <offer id="supplier20260db72bf3812239b8f03c91e9" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-0db72bf3812239b8f03c91e9</url>
-<price>4493.28</price>
+<price>5167.27</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5478,7 +5308,7 @@
 </offer>
 <offer id="supplier2026c2dab2b0255e4758e93c236e" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c2dab2b0255e4758e93c236e</url>
-<price>3703.92</price>
+<price>4259.51</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5501,7 +5331,7 @@
 </offer>
 <offer id="supplier202662d2447de24138309f719599" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-62d2447de24138309f719599</url>
-<price>3157.44</price>
+<price>3631.06</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5524,7 +5354,7 @@
 </offer>
 <offer id="supplier20262ed4f2fd606293320d5f14a0" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-2ed4f2fd606293320d5f14a0</url>
-<price>7407.84</price>
+<price>8519.02</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5547,7 +5377,7 @@
 </offer>
 <offer id="supplier2026cf04b7e8b3c6cccf5a941f59" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-cf04b7e8b3c6cccf5a941f59</url>
-<price>6861.36</price>
+<price>7890.56</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5570,7 +5400,7 @@
 </offer>
 <offer id="supplier20265764ba6498a97d062ea2780b" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-5764ba6498a97d062ea2780b</url>
-<price>5404.08</price>
+<price>6214.69</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5593,7 +5423,7 @@
 </offer>
 <offer id="supplier20260bde5ac293dea9204364a5e7" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-0bde5ac293dea9204364a5e7</url>
-<price>4736.16</price>
+<price>5446.58</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5616,7 +5446,7 @@
 </offer>
 <offer id="supplier20267df4adf319fef808be6c77d3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-7df4adf319fef808be6c77d3</url>
-<price>9897.36</price>
+<price>11381.96</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5639,7 +5469,7 @@
 </offer>
 <offer id="supplier20261fdaf56650b5ead82ecca615" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-1fdaf56650b5ead82ecca615</url>
-<price>9229.44</price>
+<price>10613.86</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5662,7 +5492,7 @@
 </offer>
 <offer id="supplier2026823a7845128cce717fed84e5" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-823a7845128cce717fed84e5</url>
-<price>7104.24</price>
+<price>8169.88</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5685,7 +5515,7 @@
 </offer>
 <offer id="supplier20264a1a8ede1914ce6a242fa28c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4a1a8ede1914ce6a242fa28c</url>
-<price>6375.6</price>
+<price>7331.94</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5708,7 +5538,7 @@
 </offer>
 <offer id="supplier20261ace411978f033cd5a13960c" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-1ace411978f033cd5a13960c</url>
-<price>12508.32</price>
+<price>14384.57</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5731,7 +5561,7 @@
 </offer>
 <offer id="supplier202642b3a9245c8eb2cd8c678b99" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-42b3a9245c8eb2cd8c678b99</url>
-<price>11779.68</price>
+<price>13546.63</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5754,7 +5584,7 @@
 </offer>
 <offer id="supplier2026c65dae68758897c958b6b7e6" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-c65dae68758897c958b6b7e6</url>
-<price>8865.12</price>
+<price>10194.89</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5777,7 +5607,7 @@
 </offer>
 <offer id="supplier2026534371deb0100a1d2cc2db73" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-534371deb0100a1d2cc2db73</url>
-<price>8136.48</price>
+<price>9356.95</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5800,7 +5630,7 @@
 </offer>
 <offer id="supplier20262621df02bce45265855ec7cf" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-2621df02bce45265855ec7cf</url>
-<price>15240.72</price>
+<price>17526.83</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5823,7 +5653,7 @@
 </offer>
 <offer id="supplier20261bdfac9de7b3720522026b37" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-1bdfac9de7b3720522026b37</url>
-<price>14390.64</price>
+<price>16549.24</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5846,7 +5676,7 @@
 </offer>
 <offer id="supplier2026b9d52c955a1ff0263adb91dd" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-b9d52c955a1ff0263adb91dd</url>
-<price>11172.48</price>
+<price>12848.35</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5869,7 +5699,7 @@
 </offer>
 <offer id="supplier20264609caa3c7533004bbed58e3" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-4609caa3c7533004bbed58e3</url>
-<price>10383.12</price>
+<price>11940.59</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5892,7 +5722,7 @@
 </offer>
 <offer id="supplier2026fcd1c11308ec661c52366e09" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-fcd1c11308ec661c52366e09</url>
-<price>21980.64</price>
+<price>25277.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5915,7 +5745,7 @@
 </offer>
 <offer id="supplier2026fba009db1d9c0c0ab054b108" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-fba009db1d9c0c0ab054b108</url>
-<price>20887.68</price>
+<price>24020.83</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5938,7 +5768,7 @@
 </offer>
 <offer id="supplier2026b92d5604d788359d2c90fc37" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-b92d5604d788359d2c90fc37</url>
-<price>15787.2</price>
+<price>18155.28</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
@@ -5961,7 +5791,7 @@
 </offer>
 <offer id="supplier2026b7000532fd0f78ebe3d77aea" available="true">
 <url>https://ukraine.gilka-christmas.pp.ua/product/supplier-2026-b7000532fd0f78ebe3d77aea</url>
-<price>14754.96</price>
+<price>16968.2</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://cdn.sanity.io/images/fcl0yp5j/production/ec7733b8af7bef8abb3e23dc38272c1e1edcf519-1200x1200.jpg</picture>
