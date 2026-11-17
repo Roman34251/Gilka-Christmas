@@ -121,6 +121,13 @@ const product = defineType({
       of: [{ type: "image", options: { hotspot: true } }],
       validation: (r) => r.required().min(1),
     }),
+    defineField({
+      name: "marketplaceGallery",
+      title: "Додаткові фото для маркетплейсів",
+      description: "Зберігаються в Sanity та додаються до товарних фідів. Галерея сайту використовує поле вище.",
+      type: "array",
+      of: [{ type: "image" }],
+    }),
   ],
   preview: {
     select: { title: "name", subtitle: "category", media: "gallery.0" },

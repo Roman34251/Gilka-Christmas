@@ -5,3 +5,9 @@ dist/
 .env.monomarket*
 .dev.vars*
 .wrangler/
+
+feeds/audit-products.json
+feeds/repair-backup-*.json
+.monomarket-secrets.json
+
+feeds/photos/

@@ -3,7 +3,7 @@
   "company": "Гілка свята",
   "siteUrl": "https://ukraine.gilka-christmas.pp.ua",
   "defaultBrand": "Гілка свята",
-  "stockQuantity": 5,
+  "stockQuantity": 10,
   "categories": {
     "trees": {
       "id": 1,

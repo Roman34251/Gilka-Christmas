@@ -122,6 +122,21 @@ test("авторизація токеном", () => {
   );
 });
 
+test("офіційні сервери Monomarket мають доступ; сторонні адреси й forwarded-заголовки — ні", () => {
+  const req = (headers) => new Request("https://x/api/monomarket-price", { headers });
+  assert.equal(authorize(req({ "cf-connecting-ip": "13.53.52.37" }), {}).ok, true);
+  assert.equal(authorize(req({ "cf-connecting-ip": "192.0.2.1" }), { MONOMARKET_FEED_TOKEN: "t" }).status, 401);
+  assert.equal(authorize(req({ "x-forwarded-for": "13.53.52.37" }), { MONOMARKET_FEED_TOKEN: "t" }).status, 401);
+});
+
+test("ціни Monomarket — цілі гривні, доставка врахована, значення бази не змінюються", () => {
+  const product = tree(1.8, { price: 1150.75, oldPrice: 1400.25 });
+  const row = renderPriceList([product]).data[0];
+  assert.equal(row.price, 1651);
+  assert.equal(row.old_price, 1900);
+  assert.equal(product.price, 1150.75);
+});
+
 test("endpoint читає поточні ціни й доставку з бази без повторної націнки", async (t) => {
   let basePrice = 1150.35;
   let shipping = 550;
@@ -159,7 +174,7 @@ test("endpoint читає поточні ціни й доставку з баз�
   assert.equal(response.headers.get("cache-control"), "no-store");
   let json = await response.json();
   assert.equal(json.total, 2);
-  assert.equal(json.data[0].price, 1700.35);
+  assert.equal(json.data[0].price, 1700);
   assert.equal(json.data[0].code, offerId(tree(1.8)));
   assert.equal(json.data[1].price, 345);
   assert.equal(json.data[1].stock, 0);
@@ -167,7 +182,7 @@ test("endpoint читає поточні ціни й доставку з баз�
   basePrice = 1200.25;
   shipping = 600;
   json = await (await monomarketPriceApi(request(), env)).json();
-  assert.equal(json.data[0].price, 1800.25);
+  assert.equal(json.data[0].price, 1800);
   response = await monomarketPriceApi(request("HEAD"), env);
   assert.equal(response.status, 200);
   assert.equal(await response.text(), "");

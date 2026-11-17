@@ -39,8 +39,9 @@ export function deliveryFor(product, tiers = DEFAULT_TIERS) {
   return tier.price;
 }
 
+// Monomarket вимагає цілу ціну в гривнях. Ціни в базі залишаються з копійками.
 const withDelivery = (price, delivery) =>
-  (Math.round(price * 100) + Math.round(delivery * 100)) / 100;
+  Math.round((Math.round(price * 100) + Math.round(delivery * 100)) / 100);
 
 export function renderPriceList(
   items,
@@ -85,7 +86,15 @@ function safeEqual(a, b) {
 }
 
 // Bearer-токен (секрет MONOMARKET_FEED_TOKEN). Без нього endpoint віддає 503.
+export const MONOMARKET_IPS = new Set([
+  "13.53.52.37", "16.16.42.238", "13.50.222.109", "16.171.78.185",
+  "13.48.150.45", "185.13.251.125", "95.109.141.57", "94.232.209.34", "176.36.20.82",
+]);
+
 export function authorize(request, env) {
+  // Cloudflare встановлює цей заголовок з адреси з'єднання, а не від клієнта.
+  // Список: офіційна довідка Monomarket, «Вимоги до прайс-листа» (16.11.2026).
+  if (MONOMARKET_IPS.has(request.headers.get("cf-connecting-ip"))) return { ok: true };
   if (!env.MONOMARKET_FEED_TOKEN) return { ok: false, status: 503 };
   const bearer = (request.headers.get("authorization") || "").replace(
     /^Bearer\s+/i,

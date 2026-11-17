@@ -3,7 +3,6 @@
 // Під час `npm run build` файли копіюються в dist/assets/feeds і віддаються як /feeds/*.xml
 import { readFile, writeFile } from "node:fs/promises";
 import { categoryId } from "../catalog.mjs";
-import { ensureDoorPhotos } from "./door-photos.mjs";
 
 const dir = new URL("./", import.meta.url);
 const config = JSON.parse(await readFile(new URL("config.json", dir), "utf8"));
@@ -73,7 +72,7 @@ export async function loadFromSanity() {
   if (!projectId) throw new Error("Не задано SANITY_PROJECT_ID");
   const url = new URL(`https://${projectId}.api.sanity.io/v2025-02-19/data/query/${dataset}`);
   url.searchParams.set("query",
-    '*[_type == "product" && defined(price) && defined(name)] | order(name) {"id": _id, "slug": slug.current, name, modelCode, modelName, sizeMeters, sizeLabel, category, price, oldPrice, detail, sku, available, specifications, "images": gallery[].asset->url}');
+    '*[_type == "product" && defined(price) && defined(name)] | order(name) {"id": _id, "slug": slug.current, name, modelCode, modelName, sizeMeters, sizeLabel, category, price, oldPrice, detail, sku, available, specifications, "images": gallery[].asset->url, "marketplaceImages": marketplaceGallery[].asset->url}');
   url.searchParams.set("perspective", "published");
   const res = await fetch(url, { signal: AbortSignal.timeout(20000) });
   if (!res.ok) throw new Error("Sanity: HTTP " + res.status);
@@ -82,7 +81,7 @@ export async function loadFromSanity() {
   return result
     .filter((p) => typeof p.name === "string" && Number.isFinite(p.price) && p.price > 0)
     .map((p) => ({ ...p, category: categoryId(p.category), available: p.available !== false,
-      images: (p.images || []).filter((u) => typeof u === "string") }));
+      images: [...new Set([...(p.images || []), ...(p.marketplaceImages || [])])].filter((u) => typeof u === "string") }));
 }
 
 // ---------- Rozetka ----------
@@ -174,11 +173,7 @@ export function monomarketFeed(items) {
 // ---------- запуск ----------
 if (process.argv[1]?.endsWith("generate.mjs")) {
   const items = await loadFromSanity();
-  // друге фото «на дверях» для товарів з одним фото (лише у фідах, на сайті не показується)
-  const doors = await ensureDoorPhotos(items, new URL("photos/", dir));
-  for (const p of items)
-    if (doors.has(p.id) && config.siteUrl)
-      p.images = [...p.images, config.siteUrl.replace(/\/$/, "") + "/feeds/photos/" + doors.get(p.id)];
+  // Додаткові фото зберігаються в Sanity, разом із посиланнями в товарах.
   const files = { "rozetka.xml": rozetkaFeed(items), "epicentr.xml": epicentrFeed(items), "monomarket.xml": monomarketFeed(items) };
   for (const [name, xml] of Object.entries(files)) await writeFile(new URL(name, dir), xml, "utf8");
   const inStock = items.filter((p) => p.available).length;
