@@ -50,7 +50,7 @@
       "treats": "Новорічні смаколики"
     },
     "price": {
-      "warehouseId": "",
+      "warehouseId": "10002",
       "warrantyType": "merchant",
       "warrantyMonths": 12,
       "maxPayInParts": 6,

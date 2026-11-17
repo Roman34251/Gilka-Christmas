@@ -204,3 +204,9 @@ test("недоступна база повертає 503 замість поро
   assert.equal(response.status, 503);
   assert.deepEqual(await response.json(), { error: "source unavailable" });
 });
+
+test("warehouses завжди: склад 10002 і залишок 10", () => {
+  const { data } = renderPriceList([{ id: "w1", category: "wreaths", sizeMeters: 0.45, price: 500, available: true }]);
+  assert.deepEqual(data[0].warehouses, [{ id: "10002", stock: 10 }]);
+  assert.equal(data[0].stock, 10);
+});

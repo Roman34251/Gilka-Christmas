@@ -50,7 +50,8 @@ export function renderPriceList(
   now = new Date(),
 ) {
   const cfg = config.monomarket.price;
-  const warehouseId = env.MONOMARKET_WAREHOUSE_ID || cfg.warehouseId;
+  // склад відправки в кабінеті Monomarket; блок warehouses передається завжди
+  const warehouseId = String(env.MONOMARKET_WAREHOUSE_ID || cfg.warehouseId || "10002");
   return {
     updatedAt: now.toISOString().replace(/\.\d{3}Z$/, "Z"),
     total: items.length,
@@ -64,7 +65,7 @@ export function renderPriceList(
           p.oldPrice > p.price ? withDelivery(p.oldPrice, delivery) : null,
         availability: !!p.available,
         stock,
-        warehouses: warehouseId ? [{ id: warehouseId, stock }] : [],
+        warehouses: [{ id: warehouseId, stock }],
         warranty_type: cfg.warrantyType,
         warranty_period: cfg.warrantyMonths,
         max_pay_in_parts: cfg.maxPayInParts,
