@@ -79,10 +79,10 @@ test("доставка ялинок за розміром", () => {
   );
   assert.deepEqual(got, [300, 300, 500, 600, 700, 700, 1000, 1300, 1500]);
 });
-test("вінки й прикраси без доставки; невідомий розмір ялинки потребує уточнення", () => {
-  assert.equal(deliveryFor({ category: "wreaths", sizeMeters: 0.45 }), 0);
+test("вінки +200, прикраси без доставки; невідомий розмір ялинки потребує уточнення", () => {
+  assert.equal(deliveryFor({ category: "wreaths", sizeMeters: 0.45 }), 200);
   assert.equal(deliveryFor({ category: "decor", sizeMeters: 2.5 }), 0);
-  assert.throws(() => deliveryFor(tree(null)), /Missing tree size/);
+  assert.throws(() => deliveryFor(tree(null)), /Missing size/);
   assert.throws(() => deliveryFor(tree(4)), /No delivery tier/);
   assert.throws(
     () => deliveryFor(tree(2), [{ maxMeters: 3, price: -1 }]),
@@ -209,4 +209,14 @@ test("warehouses завжди: склад 10002 і залишок 10", () => {
   const { data } = renderPriceList([{ id: "w1", category: "wreaths", sizeMeters: 0.45, price: 500, available: true }]);
   assert.deepEqual(data[0].warehouses, [{ id: "10002", stock: 10 }]);
   assert.equal(data[0].stock, 10);
+});
+
+test("вінки +200 з таблиці, ялинки за розміром, прикраси без доставки", () => {
+  const tiers = [{ maxMeters: 2.3, price: 1000 }, { category: "wreaths", price: 200 }];
+  assert.equal(deliveryFor({ category: "wreaths", sizeMeters: 0.45 }, tiers), 200);
+  assert.equal(deliveryFor({ category: "wreaths", sizeMeters: 1.2 }, tiers), 200);
+  assert.equal(deliveryFor({ category: "trees", sizeMeters: 2.3 }, tiers), 1000);
+  assert.equal(deliveryFor({ category: "decor", sizeMeters: 2.5 }, tiers), 0);
+  const { data } = renderPriceList([{ id: "w", category: "wreaths", sizeMeters: 0.45, price: 558.62, available: true }], tiers);
+  assert.equal(data[0].price, 759);
 });

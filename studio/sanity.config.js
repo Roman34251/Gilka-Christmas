@@ -138,13 +138,25 @@ const deliveryTier = defineType({
   title: "Доставка для Monomarket",
   type: "document",
   description:
-    "Додається до ціни ялинки лише в прайсі Monomarket. На сайті не показується. Якщо документів немає, діють стандартні значення.",
+    "Додається до ціни лише в прайсі Monomarket. На сайті не показується. Якщо документів немає, діють стандартні значення.",
   fields: [
     defineField({
+      name: "category",
+      title: "Категорія",
+      type: "string",
+      description: "Порожньо — ялинки.",
+      options: { list: [
+        { title: "Ялинки", value: "trees" },
+        { title: "Вінки", value: "wreaths" },
+        { title: "Різдвяні прикраси", value: "decor" },
+      ] },
+    }),
+    defineField({
       name: "maxMeters",
-      title: "Висота ялинки до (м, включно)",
+      title: "Розмір до (м, включно)",
+      description: "Порожньо — одна ціна доставки для всієї категорії.",
       type: "number",
-      validation: (r) => r.required().positive(),
+      validation: (r) => r.positive(),
     }),
     defineField({
       name: "price",
@@ -161,9 +173,9 @@ const deliveryTier = defineType({
     },
   ],
   preview: {
-    select: { title: "maxMeters", subtitle: "price" },
-    prepare: ({ title, subtitle }) => ({
-      title: "до " + title + " м",
+    select: { title: "maxMeters", subtitle: "price", category: "category" },
+    prepare: ({ title, subtitle, category }) => ({
+      title: ({ wreaths: "Вінки", decor: "Прикраси" }[category] || "Ялинки") + (title ? " до " + title + " м" : " — усі розміри"),
       subtitle: subtitle + " грн",
     }),
   },

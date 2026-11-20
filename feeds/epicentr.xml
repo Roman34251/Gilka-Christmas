@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 10:55">
+<yml_catalog date="2026-11-20 07:53">
 <offers>
 <offer id="supplier202637f0ff0172ba6b05f53a0cf9" available="true">
-<price>558.62</price>
+<price>860.27</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Альпійський&quot; SIGA GROUP — 0,45 м, блакитний, примотування</name>
@@ -21,7 +21,7 @@
 <param name="Кількість гілочок">50 шт.</param>
 </offer>
 <offer id="supplier20268f15e05b774a92b64f5b436b" available="true">
-<price>907.76</price>
+<price>1397.96</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Альпійський&quot; SIGA GROUP — 0,45 м, засніжений, примотування</name>
@@ -40,7 +40,7 @@
 <param name="Кількість гілочок">50 шт.</param>
 </offer>
 <offer id="supplier2026483b763947967ecf43d51058" available="true">
-<price>558.62</price>
+<price>860.27</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Альпійський&quot; SIGA GROUP — 0,45 м, зелений, примотування</name>
@@ -59,7 +59,7 @@
 <param name="Кількість гілочок">50 шт.</param>
 </offer>
 <offer id="supplier2026abf6f6b1c68c6ab22b58c11a" available="true">
-<price>1047.42</price>
+<price>1613.02</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Альпійський&quot; SIGA GROUP — 0,75 м, блакитний, примотування</name>
@@ -78,7 +78,7 @@
 <param name="Кількість гілочок">100 шт.</param>
 </offer>
 <offer id="supplier2026117c93248246eb9be48e6959" available="true">
-<price>1466.39</price>
+<price>2258.24</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Альпійський&quot; SIGA GROUP — 0,75 м, засніжений, примотування</name>
@@ -97,7 +97,7 @@
 <param name="Кількість гілочок">100 шт.</param>
 </offer>
 <offer id="supplier20267eb46b342c4e47f8a1648ece" available="true">
-<price>1047.42</price>
+<price>1613.02</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Альпійський&quot; SIGA GROUP — 0,75 м, зелений, примотування</name>
@@ -116,7 +116,7 @@
 <param name="Кількість гілочок">100 шт.</param>
 </offer>
 <offer id="supplier2026503590ec0f3aab91c887f6d9" available="true">
-<price>558.62</price>
+<price>860.27</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Віденський&quot; SIGA GROUP — 0,45 м, блакитний, примотування</name>
@@ -135,7 +135,7 @@
 <param name="Кількість гілочок">50 шт.</param>
 </offer>
 <offer id="supplier20269b55227dca7f6c6c5febfd5a" available="true">
-<price>907.76</price>
+<price>1397.96</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Віденський&quot; SIGA GROUP — 0,45 м, засніжений, примотування</name>
@@ -154,7 +154,7 @@
 <param name="Кількість гілочок">50 шт.</param>
 </offer>
 <offer id="supplier2026c43458e8b02b7be71198baa6" available="true">
-<price>558.62</price>
+<price>860.27</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Віденський&quot; SIGA GROUP — 0,45 м, зелений, примотування</name>
@@ -173,7 +173,7 @@
 <param name="Кількість гілочок">50 шт.</param>
 </offer>
 <offer id="supplier202693c812d76c78083999066360" available="true">
-<price>1047.42</price>
+<price>1613.02</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Віденський&quot; SIGA GROUP — 0,75 м, блакитний, примотування</name>
@@ -192,7 +192,7 @@
 <param name="Кількість гілочок">100 шт.</param>
 </offer>
 <offer id="supplier20265e4ebf0f6d837bb1da09947f" available="true">
-<price>1466.39</price>
+<price>2258.24</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Віденський&quot; SIGA GROUP — 0,75 м, засніжений, примотування</name>
@@ -211,7 +211,7 @@
 <param name="Кількість гілочок">100 шт.</param>
 </offer>
 <offer id="supplier2026cea4656f07836d89f3e01f5a" available="true">
-<price>1047.42</price>
+<price>1613.02</price>
 <category code="33333">Різдвяні вінки</category>
 <attribute_set code="33333">Різдвяні вінки</attribute_set>
 <name lang="ua">Вінок литий &quot;Віденський&quot; SIGA GROUP — 0,75 м, зелений, примотування</name>
@@ -350,7 +350,7 @@
 <param name="Кількість гілочок">99 шт.</param>
 </offer>
 <offer id="zelene2026d34a2734da7c" available="true">
-<price>4202.1</price>
+<price>4622.31</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (білі кінці) — 1,5 м</name>
@@ -367,7 +367,7 @@
 <param name="Колір / виконання">білі кінці</param>
 </offer>
 <offer id="zelene202626be852b8b9c" available="true">
-<price>5578.65</price>
+<price>6136.52</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (білі кінці) — 1,8 м</name>
@@ -384,7 +384,7 @@
 <param name="Колір / виконання">білі кінці</param>
 </offer>
 <offer id="zelene20260a57139617e0" available="true">
-<price>8114.4</price>
+<price>8925.84</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (білі кінці) — 2,1 м</name>
@@ -401,7 +401,7 @@
 <param name="Колір / виконання">білі кінці</param>
 </offer>
 <offer id="zelene202607d13d999295" available="true">
-<price>9563.4</price>
+<price>10519.74</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (білі кінці) — 2,3 м</name>
@@ -418,7 +418,7 @@
 <param name="Колір / виконання">білі кінці</param>
 </offer>
 <offer id="zelene2026126888573df9" available="true">
-<price>13185.9</price>
+<price>14504.49</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (білі кінці) — 2,5 м</name>
@@ -435,7 +435,7 @@
 <param name="Колір / виконання">білі кінці</param>
 </offer>
 <offer id="zelene2026d0876d17efcb" available="true">
-<price>4202.1</price>
+<price>4622.31</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (салатові кінці) — 1,5 м</name>
@@ -452,7 +452,7 @@
 <param name="Колір / виконання">салатові кінці</param>
 </offer>
 <offer id="zelene20262159f4313870" available="true">
-<price>5578.65</price>
+<price>6136.52</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (салатові кінці) — 1,8 м</name>
@@ -469,7 +469,7 @@
 <param name="Колір / виконання">салатові кінці</param>
 </offer>
 <offer id="zelene20269cbee3954d0b" available="true">
-<price>8114.4</price>
+<price>8925.84</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (салатові кінці) — 2,1 м</name>
@@ -486,7 +486,7 @@
 <param name="Колір / виконання">салатові кінці</param>
 </offer>
 <offer id="zelene202694bb4bd3b73a" available="true">
-<price>9563.4</price>
+<price>10519.74</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (салатові кінці) — 2,3 м</name>
@@ -503,7 +503,7 @@
 <param name="Колір / виконання">салатові кінці</param>
 </offer>
 <offer id="zelene2026f6ab660b2d54" available="true">
-<price>13185.9</price>
+<price>14504.49</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «БЕЛЬГІЙСЬКА» ZELENE DEREVO (салатові кінці) — 2,5 м</name>
@@ -520,7 +520,7 @@
 <param name="Колір / виконання">салатові кінці</param>
 </offer>
 <offer id="zelene20268a7480955afe" available="true">
-<price>1497.3</price>
+<price>1647.03</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «ЕЛІТНА» ZELENE DEREVO — 1,5 м</name>
@@ -537,7 +537,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026b811d4d76006" available="true">
-<price>2218.58</price>
+<price>2440.44</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «ЕЛІТНА» ZELENE DEREVO — 1,8 м</name>
@@ -554,7 +554,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026b5d7adf44b53" available="true">
-<price>2580.83</price>
+<price>2838.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «ЕЛІТНА» ZELENE DEREVO — 2 м</name>
@@ -571,7 +571,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026583e4a7c14c6" available="true">
-<price>2952.74</price>
+<price>3248.01</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «ЕЛІТНА» ZELENE DEREVO — 2,2 м</name>
@@ -588,7 +588,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene20265b9d13507179" available="true">
-<price>4437.16</price>
+<price>4880.88</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «ЕЛІТНА» ZELENE DEREVO — 2,5 м</name>
@@ -605,7 +605,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026e690faf8982a" available="true">
-<price>1175.3</price>
+<price>1292.83</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАЗКА» ZELENE DEREVO — 1,5 м</name>
@@ -623,7 +623,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026a5099d41d672" available="true">
-<price>1553.65</price>
+<price>1709.02</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАЗКА» ZELENE DEREVO — 1,8 м</name>
@@ -641,7 +641,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026b6f65ac01fed" available="true">
-<price>1803.2</price>
+<price>1983.52</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАЗКА» ZELENE DEREVO — 2 м</name>
@@ -659,7 +659,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene20266dc8c1201f67" available="true">
-<price>2109.1</price>
+<price>2320.01</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАЗКА» ZELENE DEREVO — 2,2 м</name>
@@ -677,7 +677,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026ebf1c7d60817" available="true">
-<price>3252.2</price>
+<price>3577.42</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАЗКА» ZELENE DEREVO — 2,5 м</name>
@@ -695,7 +695,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026d087922b0df9" available="true">
-<price>1706.6</price>
+<price>1877.26</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН ЗОЛОТО» ZELENE DEREVO (золоті шишки, золота калина) — 1,5 м</name>
@@ -713,7 +713,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026dd00955045e2" available="true">
-<price>2308.74</price>
+<price>2539.61</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН ЗОЛОТО» ZELENE DEREVO (золоті шишки, золота калина) — 1,8 м</name>
@@ -731,7 +731,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026741c5b335a21" available="true">
-<price>2762.76</price>
+<price>3039.04</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН ЗОЛОТО» ZELENE DEREVO (золоті шишки, золота калина) — 2 м</name>
@@ -749,7 +749,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026d64434a3e2ef" available="true">
-<price>3268.3</price>
+<price>3595.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН ЗОЛОТО» ZELENE DEREVO (золоті шишки, золота калина) — 2,2 м</name>
@@ -767,7 +767,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026d4123faba150" available="true">
-<price>4619.09</price>
+<price>5081</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН ЗОЛОТО» ZELENE DEREVO (золоті шишки, золота калина) — 2,5 м</name>
@@ -785,7 +785,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026be6a79d5a1b0" available="true">
-<price>1706.6</price>
+<price>1877.26</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН СРІБЛО» ZELENE DEREVO (срібні шишки, срібна калина) — 1,5 м</name>
@@ -803,7 +803,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026df391c74cd78" available="true">
-<price>2308.74</price>
+<price>2539.61</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН СРІБЛО» ZELENE DEREVO (срібні шишки, срібна калина) — 1,8 м</name>
@@ -821,7 +821,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene202678e62e274dfd" available="true">
-<price>2762.76</price>
+<price>3039.04</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН СРІБЛО» ZELENE DEREVO (срібні шишки, срібна калина) — 2 м</name>
@@ -839,7 +839,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene20267da674555dd6" available="true">
-<price>3268.3</price>
+<price>3595.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН СРІБЛО» ZELENE DEREVO (срібні шишки, срібна калина) — 2,2 м</name>
@@ -857,7 +857,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026493712999946" available="true">
-<price>4619.09</price>
+<price>5081</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРМЕН СРІБЛО» ZELENE DEREVO (срібні шишки, срібна калина) — 2,5 м</name>
@@ -875,7 +875,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene20266f743e49b989" available="true">
-<price>1263.85</price>
+<price>1390.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 1,5 м</name>
@@ -893,7 +893,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene20267eb1fc6f1347" available="true">
-<price>1721.09</price>
+<price>1893.2</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 1,8 м</name>
@@ -911,7 +911,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene20261b51339ac1b8" available="true">
-<price>2060.8</price>
+<price>2266.88</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 2 м</name>
@@ -929,7 +929,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026e749314ab93c" available="true">
-<price>2431.1</price>
+<price>2674.21</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 2,2 м</name>
@@ -947,7 +947,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene20268fd1e2863c69" available="true">
-<price>3804.43</price>
+<price>4184.87</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 2,5 м</name>
@@ -965,7 +965,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026b82697a58c2c" available="true">
-<price>5660.76</price>
+<price>6226.84</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «КАРПАТСЬКА (Білі кінці)» ZELENE DEREVO (білі кінці) — 3 м</name>
@@ -983,7 +983,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026ca6e85e0b762" available="true">
-<price>3622.5</price>
+<price>3984.75</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (голуба) — 1,5 м</name>
@@ -1000,7 +1000,7 @@
 <param name="Колір / виконання">голуба</param>
 </offer>
 <offer id="zelene2026395702676277" available="true">
-<price>5071.5</price>
+<price>5578.65</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (голуба) — 1,8 м</name>
@@ -1017,7 +1017,7 @@
 <param name="Колір / виконання">голуба</param>
 </offer>
 <offer id="zelene20266a599027e523" available="true">
-<price>7245</price>
+<price>7969.5</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (голуба) — 2,1 м</name>
@@ -1034,7 +1034,7 @@
 <param name="Колір / виконання">голуба</param>
 </offer>
 <offer id="zelene2026acadf315bf52" available="true">
-<price>8621.55</price>
+<price>9483.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (голуба) — 2,3 м</name>
@@ -1051,7 +1051,7 @@
 <param name="Колір / виконання">голуба</param>
 </offer>
 <offer id="zelene2026541385e585c4" available="true">
-<price>12968.55</price>
+<price>14265.41</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (голуба) — 2,5 м</name>
@@ -1068,7 +1068,7 @@
 <param name="Колір / виконання">голуба</param>
 </offer>
 <offer id="zelene2026ac7152bfd27f" available="true">
-<price>21662.55</price>
+<price>23828.81</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (голуба) — 3 м</name>
@@ -1085,7 +1085,7 @@
 <param name="Колір / виконання">голуба</param>
 </offer>
 <offer id="zelene2026619f984045eb" available="true">
-<price>3622.5</price>
+<price>3984.75</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (зелена) — 1,5 м</name>
@@ -1103,7 +1103,7 @@
 <param name="Колір / виконання">зелена</param>
 </offer>
 <offer id="zelene20260ccd13904d1d" available="true">
-<price>5071.5</price>
+<price>5578.65</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (зелена) — 1,8 м</name>
@@ -1121,7 +1121,7 @@
 <param name="Колір / виконання">зелена</param>
 </offer>
 <offer id="zelene2026dc32aeebacdf" available="true">
-<price>7245</price>
+<price>7969.5</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (зелена) — 2,1 м</name>
@@ -1139,7 +1139,7 @@
 <param name="Колір / виконання">зелена</param>
 </offer>
 <offer id="zelene2026fe583b0c2a60" available="true">
-<price>8621.55</price>
+<price>9483.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (зелена) — 2,3 м</name>
@@ -1157,7 +1157,7 @@
 <param name="Колір / виконання">зелена</param>
 </offer>
 <offer id="zelene2026548dd8432c12" available="true">
-<price>12968.55</price>
+<price>14265.41</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (зелена) — 2,5 м</name>
@@ -1175,7 +1175,7 @@
 <param name="Колір / виконання">зелена</param>
 </offer>
 <offer id="zelene2026981e8707f069" available="true">
-<price>21662.55</price>
+<price>23828.81</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «РОЯЛ 16/18» ZELENE DEREVO (зелена) — 3 м</name>
@@ -1193,7 +1193,7 @@
 <param name="Колір / виконання">зелена</param>
 </offer>
 <offer id="zelene2026acd736369ad5" available="true">
-<price>2898</price>
+<price>3187.8</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СМЕРЕКА» ZELENE DEREVO — 1,5 м</name>
@@ -1209,7 +1209,7 @@
 <param name="Висота">1,5 м</param>
 </offer>
 <offer id="zelene2026108fe516bc92" available="true">
-<price>3477.6</price>
+<price>3825.36</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СМЕРЕКА» ZELENE DEREVO — 1,8 м</name>
@@ -1225,7 +1225,7 @@
 <param name="Висота">1,8 м</param>
 </offer>
 <offer id="zelene2026e202c89a0b7a" available="true">
-<price>5723.55</price>
+<price>6295.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СМЕРЕКА» ZELENE DEREVO — 2,1 м</name>
@@ -1241,7 +1241,7 @@
 <param name="Висота">2,1 м</param>
 </offer>
 <offer id="zelene2026ef275a9106e8" available="true">
-<price>7897.05</price>
+<price>8686.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СМЕРЕКА» ZELENE DEREVO — 2,3 м</name>
@@ -1257,7 +1257,7 @@
 <param name="Висота">2,3 м</param>
 </offer>
 <offer id="zelene202648a69fde53a4" available="true">
-<price>11447.1</price>
+<price>12591.81</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СМЕРЕКА» ZELENE DEREVO — 2,5 м</name>
@@ -1273,7 +1273,7 @@
 <param name="Висота">2,5 м</param>
 </offer>
 <offer id="zelene2026a98dc9f6d28c" available="true">
-<price>1706.6</price>
+<price>1877.26</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СОФІЯ» ZELENE DEREVO (червоні шишки, червона калина) — 1,5 м</name>
@@ -1291,7 +1291,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene202623e0a64ede17" available="true">
-<price>2308.74</price>
+<price>2539.61</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СОФІЯ» ZELENE DEREVO (червоні шишки, червона калина) — 1,8 м</name>
@@ -1309,7 +1309,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene202668b8b3a6e242" available="true">
-<price>2762.76</price>
+<price>3039.04</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СОФІЯ» ZELENE DEREVO (червоні шишки, червона калина) — 2 м</name>
@@ -1327,7 +1327,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026e040fcd1e1b0" available="true">
-<price>3268.3</price>
+<price>3595.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СОФІЯ» ZELENE DEREVO (червоні шишки, червона калина) — 2,2 м</name>
@@ -1345,7 +1345,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="zelene2026326d8f2a7234" available="true">
-<price>4619.09</price>
+<price>5081</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка «СОФІЯ» ZELENE DEREVO (червоні шишки, червона калина) — 2,5 м</name>
@@ -1363,7 +1363,7 @@
 <param name="Матеріал">ПВХ</param>
 </offer>
 <offer id="supplier20266c2b6edbe88c622a57bbeb16" available="true">
-<price>7471.6</price>
+<price>8218.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,5 м, засніжена led, парасолька</name>
@@ -1384,7 +1384,7 @@
 <param name="Кількість гілочок">505 шт.</param>
 </offer>
 <offer id="supplier20261b8ee9d04a331512d96682c1" available="true">
-<price>6773.32</price>
+<price>7450.65</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,5 м, засніжена led, примотування</name>
@@ -1405,7 +1405,7 @@
 <param name="Кількість гілочок">505 шт.</param>
 </offer>
 <offer id="supplier20263d604f935715f2738cd9158a" available="true">
-<price>5865.55</price>
+<price>6452.11</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,5 м, засніжена, парасолька</name>
@@ -1426,7 +1426,7 @@
 <param name="Кількість гілочок">505 шт.</param>
 </offer>
 <offer id="supplier2026a2149490a5db3ec65af82784" available="true">
-<price>5237.1</price>
+<price>5760.81</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,5 м, засніжена, примотування</name>
@@ -1447,7 +1447,7 @@
 <param name="Кількість гілочок">505 шт.</param>
 </offer>
 <offer id="supplier2026a909ddbdaff1034ca161f477" available="true">
-<price>10544.03</price>
+<price>11598.43</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,8 м, засніжена led, парасолька</name>
@@ -1468,7 +1468,7 @@
 <param name="Кількість гілочок">771 шт.</param>
 </offer>
 <offer id="supplier20264d11c6d3688cbce868cd308d" available="true">
-<price>9775.92</price>
+<price>10753.51</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,8 м, засніжена led, примотування</name>
@@ -1489,7 +1489,7 @@
 <param name="Кількість гілочок">771 шт.</param>
 </offer>
 <offer id="supplier202671141562700c53f1267f39cb" available="true">
-<price>8169.88</price>
+<price>8986.87</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,8 м, засніжена, парасолька</name>
@@ -1510,7 +1510,7 @@
 <param name="Кількість гілочок">771 шт.</param>
 </offer>
 <offer id="supplier20263bd958dd5451281b4b65212e" available="true">
-<price>7471.6</price>
+<price>8218.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 1,8 м, засніжена, примотування</name>
@@ -1531,7 +1531,7 @@
 <param name="Кількість гілочок">771 шт.</param>
 </offer>
 <offer id="supplier2026af3fff2361bd4b4a802d1a91" available="true">
-<price>13616.46</price>
+<price>14978.11</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,1 м, засніжена led, парасолька</name>
@@ -1552,7 +1552,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier2026c4230be9bebefc6fd717adcb" available="true">
-<price>12778.52</price>
+<price>14056.37</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,1 м, засніжена led, примотування</name>
@@ -1573,7 +1573,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier20264e6f8249743b0ca6135bf561" available="true">
-<price>10544.03</price>
+<price>11598.43</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,1 м, засніжена, парасолька</name>
@@ -1594,7 +1594,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier202670f14a9592922e9be1dbb6a6" available="true">
-<price>9706.09</price>
+<price>10676.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,1 м, засніжена, примотування</name>
@@ -1615,7 +1615,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier202675910f7ff141caaf54a67467" available="true">
-<price>17317.34</price>
+<price>19049.07</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,3 м, засніжена led, парасолька</name>
@@ -1636,7 +1636,7 @@
 <param name="Кількість гілочок">1323 шт.</param>
 </offer>
 <offer id="supplier2026fd12dfe5e8a103c0308bc6df" available="true">
-<price>16479.41</price>
+<price>18127.35</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,3 м, засніжена led, примотування</name>
@@ -1657,7 +1657,7 @@
 <param name="Кількість гілочок">1323 шт.</param>
 </offer>
 <offer id="supplier2026bcb317baa9c2f0b7d7330eb3" available="true">
-<price>13406.98</price>
+<price>14747.68</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,3 м, засніжена, парасолька</name>
@@ -1678,7 +1678,7 @@
 <param name="Кількість гілочок">1323 шт.</param>
 </offer>
 <offer id="supplier202671750b0d8adef9e605e621ef" available="true">
-<price>12499.21</price>
+<price>13749.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,3 м, засніжена, примотування</name>
@@ -1699,7 +1699,7 @@
 <param name="Кількість гілочок">1323 шт.</param>
 </offer>
 <offer id="supplier2026e96c1563ea3db8ad66e3596d" available="true">
-<price>22135.48</price>
+<price>24349.03</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,5 м, засніжена led, парасолька</name>
@@ -1720,7 +1720,7 @@
 <param name="Кількість гілочок">1647 шт.</param>
 </offer>
 <offer id="supplier20265ea7e2b48291e081cb20ccbd" available="true">
-<price>21157.88</price>
+<price>23273.67</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,5 м, засніжена led, примотування</name>
@@ -1741,7 +1741,7 @@
 <param name="Кількість гілочок">1647 шт.</param>
 </offer>
 <offer id="supplier2026021c4e5740e7a7d0affd2974" available="true">
-<price>17177.69</price>
+<price>18895.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,5 м, засніжена, парасолька</name>
@@ -1762,7 +1762,7 @@
 <param name="Кількість гілочок">1647 шт.</param>
 </offer>
 <offer id="supplier2026aa2ea86581c2491a65fe0305" available="true">
-<price>16269.92</price>
+<price>17896.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 2,5 м, засніжена, примотування</name>
@@ -1783,7 +1783,7 @@
 <param name="Кількість гілочок">1647 шт.</param>
 </offer>
 <offer id="supplier2026763053f5ded80c2fbb269dbc" available="true">
-<price>32120.88</price>
+<price>35332.97</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 3 м, засніжена led, парасолька</name>
@@ -1804,7 +1804,7 @@
 <param name="Кількість гілочок">2169 шт.</param>
 </offer>
 <offer id="supplier2026d87821fadb193d05dd072a3a" available="true">
-<price>31003.63</price>
+<price>34103.99</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 3 м, засніжена led, примотування</name>
@@ -1825,7 +1825,7 @@
 <param name="Кількість гілочок">2169 шт.</param>
 </offer>
 <offer id="supplier20268f47b9bda4172fceec1300cb" available="true">
-<price>25626.88</price>
+<price>28189.57</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 3 м, засніжена, парасолька</name>
@@ -1846,7 +1846,7 @@
 <param name="Кількість гілочок">2169 шт.</param>
 </offer>
 <offer id="supplier2026abd6df6531af3d451107c61f" available="true">
-<price>24439.8</price>
+<price>26883.78</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Альпійська&quot; SIGA GROUP — 3 м, засніжена, примотування</name>
@@ -1867,7 +1867,7 @@
 <param name="Кількість гілочок">2169 шт.</param>
 </offer>
 <offer id="supplier20268cc3ec11a7d4a8b893ce4c96" available="true">
-<price>6214.69</price>
+<price>6836.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, блакитна, парасолька</name>
@@ -1887,7 +1887,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier20262194cfbdb26c05d4ab6869e8" available="true">
-<price>5516.41</price>
+<price>6068.05</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, блакитна, примотування</name>
@@ -1907,7 +1907,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier2026546845e08c0ad879ab93bb5f" available="true">
-<price>9706.09</price>
+<price>10676.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, засніжена led, парасолька</name>
@@ -1927,7 +1927,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier2026e02653e7856eb77a11c914a9" available="true">
-<price>9077.64</price>
+<price>9985.4</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, засніжена led, примотування</name>
@@ -1947,7 +1947,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier2026964ca2085a20d08ef49f0efa" available="true">
-<price>7890.56</price>
+<price>8679.62</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, засніжена, парасолька</name>
@@ -1967,7 +1967,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier2026c6a258a6fd1987276e7ec104" available="true">
-<price>7192.28</price>
+<price>7911.51</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, засніжена, примотування</name>
@@ -1987,7 +1987,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier20262fc346496d7e19d5e0bbd1f7" available="true">
-<price>8030.22</price>
+<price>8833.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, зелена led, парасолька</name>
@@ -2007,7 +2007,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier20264c414326165ed144aff76da4" available="true">
-<price>7331.94</price>
+<price>8065.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, зелена led, примотування</name>
@@ -2027,7 +2027,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier20268c9060520491eab76422b669" available="true">
-<price>6214.69</price>
+<price>6836.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, зелена, парасолька</name>
@@ -2048,7 +2048,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier20268815bc95261785fca09b97c5" available="true">
-<price>5516.41</price>
+<price>6068.05</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,5 м, зелена, примотування</name>
@@ -2069,7 +2069,7 @@
 <param name="Кількість гілочок">656 шт.</param>
 </offer>
 <offer id="supplier2026d308d9275cb4fbeb4e4d143e" available="true">
-<price>8100.05</price>
+<price>8910.06</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, блакитна, парасолька</name>
@@ -2089,7 +2089,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier20265cfc7a68f8965b42f4385468" available="true">
-<price>7331.94</price>
+<price>8065.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, блакитна, примотування</name>
@@ -2109,7 +2109,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier202627057545e49a0fba51858ccb" available="true">
-<price>12988.01</price>
+<price>14286.81</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, засніжена led, парасолька</name>
@@ -2129,7 +2129,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier2026f4778eaf339f72a49f4e1031" available="true">
-<price>12289.73</price>
+<price>13518.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, засніжена led, примотування</name>
@@ -2149,7 +2149,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier2026a81a0a2fd5c36a8d42565bb3" available="true">
-<price>10474.2</price>
+<price>11521.62</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, засніжена, парасолька</name>
@@ -2169,7 +2169,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier202681c461ac190081c4ae1edfd5" available="true">
-<price>9706.09</price>
+<price>10676.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, засніжена, примотування</name>
@@ -2189,7 +2189,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier2026db6bf8ffc129b21b5d4a059a" available="true">
-<price>10683.68</price>
+<price>11752.05</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, зелена led, парасолька</name>
@@ -2209,7 +2209,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier202665fa7ee98879ad8bfc945578" available="true">
-<price>9915.58</price>
+<price>10907.14</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, зелена led, примотування</name>
@@ -2229,7 +2229,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier2026f93041637aaef0bf7afe3016" available="true">
-<price>8100.05</price>
+<price>8910.06</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, зелена, парасолька</name>
@@ -2250,7 +2250,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier2026a624335c067a2b9915bb68cd" available="true">
-<price>7331.94</price>
+<price>8065.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 1,8 м, зелена, примотування</name>
@@ -2271,7 +2271,7 @@
 <param name="Кількість гілочок">912 шт.</param>
 </offer>
 <offer id="supplier202646123b0da2a1725948834fe4" available="true">
-<price>10753.51</price>
+<price>11828.86</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, блакитна, парасолька</name>
@@ -2291,7 +2291,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier20260e1a32abf6494dd6b4c0459a" available="true">
-<price>9915.58</price>
+<price>10907.14</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, блакитна, примотування</name>
@@ -2311,7 +2311,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier2026334a27ee2f6cfd69745b1912" available="true">
-<price>16828.55</price>
+<price>18511.41</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, засніжена led, парасолька</name>
@@ -2331,7 +2331,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier2026c5d0235c703225e4b8d6fd84" available="true">
-<price>15990.61</price>
+<price>17589.67</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, засніжена led, примотування</name>
@@ -2351,7 +2351,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier202648c238256192f8f28fc9d1f2" available="true">
-<price>13686.29</price>
+<price>15054.92</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, засніжена, парасолька</name>
@@ -2371,7 +2371,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier2026560b229b5f8b2a79ad72706a" available="true">
-<price>12848.35</price>
+<price>14133.19</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, засніжена, примотування</name>
@@ -2391,7 +2391,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier2026c8e463fe30a017495f3b76aa" available="true">
-<price>13895.77</price>
+<price>15285.35</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, зелена led, парасолька</name>
@@ -2411,7 +2411,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier20264a4df140668f54a9f1d87ac1" available="true">
-<price>13057.84</price>
+<price>14363.62</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, зелена led, примотування</name>
@@ -2431,7 +2431,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier2026f3efb49c62a192cc3cc0567e" available="true">
-<price>10753.51</price>
+<price>11828.86</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, зелена, парасолька</name>
@@ -2452,7 +2452,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier202672be92d3bb3bfc1772a3a604" available="true">
-<price>9915.58</price>
+<price>10907.14</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,1 м, зелена, примотування</name>
@@ -2473,7 +2473,7 @@
 <param name="Кількість гілочок">1219 шт.</param>
 </offer>
 <offer id="supplier2026406020b1e494b1b96c0d55bd" available="true">
-<price>13406.98</price>
+<price>14747.68</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, блакитна, парасолька</name>
@@ -2493,7 +2493,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier2026f77ab6070a5a463a35bc209d" available="true">
-<price>12499.21</price>
+<price>13749.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, блакитна, примотування</name>
@@ -2513,7 +2513,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier202633bc95856a2d115d326f698b" available="true">
-<price>20878.57</price>
+<price>22966.43</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, засніжена led, парасолька</name>
@@ -2533,7 +2533,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier20265ec8fb3627c09bfb5ee0f0b2" available="true">
-<price>19970.81</price>
+<price>21967.89</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, засніжена led, примотування</name>
@@ -2553,7 +2553,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier2026a3159c01f1cb35d01113eb2c" available="true">
-<price>17038.03</price>
+<price>18741.83</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, засніжена, парасолька</name>
@@ -2573,7 +2573,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier20264b14ff14fa9169371941e17b" available="true">
-<price>16130.27</price>
+<price>17743.3</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, засніжена, примотування</name>
@@ -2593,7 +2593,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier2026d9c08c7565f3a7bfef9bb310" available="true">
-<price>17177.69</price>
+<price>18895.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, зелена led, парасолька</name>
@@ -2613,7 +2613,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier202613a563e084cad63a4cce02b9" available="true">
-<price>16339.75</price>
+<price>17973.73</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, зелена led, примотування</name>
@@ -2633,7 +2633,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier202692b860484622f1834b73c9bd" available="true">
-<price>13406.98</price>
+<price>14747.68</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, зелена, парасолька</name>
@@ -2654,7 +2654,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier2026c0f849577656f123b45f4bf7" available="true">
-<price>12499.21</price>
+<price>13749.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,3 м, зелена, примотування</name>
@@ -2675,7 +2675,7 @@
 <param name="Кількість гілочок">1579 шт.</param>
 </offer>
 <offer id="supplier2026857c1ce4e6c1a7d1564b79e2" available="true">
-<price>17457</price>
+<price>19202.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, блакитна, парасолька</name>
@@ -2695,7 +2695,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier202647877d6ad8b591b5babddf7a" available="true">
-<price>16549.24</price>
+<price>18204.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, блакитна, примотування</name>
@@ -2715,7 +2715,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier2026fd815acf1b31c9cb4c48253f" available="true">
-<price>27163.09</price>
+<price>29879.4</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, засніжена led, парасолька</name>
@@ -2735,7 +2735,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier202635de80c8628eb6f11193cdc2" available="true">
-<price>26185.5</price>
+<price>28804.05</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, засніжена led, примотування</name>
@@ -2755,7 +2755,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier20264db0fc6498e0a41e5f0e6586" available="true">
-<price>22763.93</price>
+<price>25040.32</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, засніжена, парасолька</name>
@@ -2775,7 +2775,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier20269b354ecb231014b82321bfe1" available="true">
-<price>21786.34</price>
+<price>23964.97</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, засніжена, примотування</name>
@@ -2795,7 +2795,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier2026d18a8f6247324c410109d1e3" available="true">
-<price>21856.16</price>
+<price>24041.78</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, зелена led, парасолька</name>
@@ -2815,7 +2815,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier2026ecfa8e042697a58fdda4e226" available="true">
-<price>20948.4</price>
+<price>23043.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, зелена led, примотування</name>
@@ -2835,7 +2835,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier20267fe454fbe4a62a0d910905f4" available="true">
-<price>17457</price>
+<price>19202.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, зелена, парасолька</name>
@@ -2856,7 +2856,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier2026477b1bfec18a0111e035fe49" available="true">
-<price>16549.24</price>
+<price>18204.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 2,5 м, зелена, примотування</name>
@@ -2877,7 +2877,7 @@
 <param name="Кількість гілочок">2019 шт.</param>
 </offer>
 <offer id="supplier2026ef2be21d5e7fa4c57628ee8c" available="true">
-<price>26115.67</price>
+<price>28727.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, блакитна, парасолька</name>
@@ -2897,7 +2897,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier2026681ccc88863f66b7577f4c9a" available="true">
-<price>24928.6</price>
+<price>27421.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, блакитна, примотування</name>
@@ -2917,7 +2917,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier20264b199104c57f4afa2c924a90" available="true">
-<price>38964.02</price>
+<price>42860.42</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, засніжена led, парасолька</name>
@@ -2937,7 +2937,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier20268fb9b5ef429a009b64dc459b" available="true">
-<price>37776.95</price>
+<price>41554.64</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, засніжена led, примотування</name>
@@ -2957,7 +2957,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier2026074aee4a708e254d3c6d5609" available="true">
-<price>33098.47</price>
+<price>36408.32</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, засніжена, парасолька</name>
@@ -2977,7 +2977,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier2026e8c2526dca3c1f27643871ec" available="true">
-<price>31911.4</price>
+<price>35102.54</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, засніжена, примотування</name>
@@ -2997,7 +2997,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier202685ced668eae575390e4c68f7" available="true">
-<price>31981.22</price>
+<price>35179.34</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, зелена led, парасолька</name>
@@ -3017,7 +3017,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier2026c291e6a152f916b21ade317a" available="true">
-<price>30794.15</price>
+<price>33873.57</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, зелена led, примотування</name>
@@ -3037,7 +3037,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier20264b20ddfa5235af6bdfaf821f" available="true">
-<price>26115.67</price>
+<price>28727.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, зелена, парасолька</name>
@@ -3058,7 +3058,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier202655f00439a12148b554b78625" available="true">
-<price>24928.6</price>
+<price>27421.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Версальська&quot; SIGA GROUP — 3 м, зелена, примотування</name>
@@ -3079,7 +3079,7 @@
 <param name="Кількість гілочок">3079 шт.</param>
 </offer>
 <offer id="supplier20268e86cd497a2733715f3534f4" available="true">
-<price>4538.82</price>
+<price>4992.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 1,5 м, засніжена, примотування</name>
@@ -3100,7 +3100,7 @@
 <param name="Кількість гілочок">360 шт.</param>
 </offer>
 <offer id="supplier20265b876e6f0ff5623715bfe0dd" available="true">
-<price>2932.78</price>
+<price>3226.06</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 1,5 м, зелена, примотування</name>
@@ -3121,7 +3121,7 @@
 <param name="Кількість гілочок">360 шт.</param>
 </offer>
 <offer id="supplier202633ff796e1bd975b48f46d990" available="true">
-<price>6424.18</price>
+<price>7066.6</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 1,8 м, засніжена, примотування</name>
@@ -3142,7 +3142,7 @@
 <param name="Кількість гілочок">586 шт.</param>
 </offer>
 <offer id="supplier20266a789f0c5d9963f321efa8c7" available="true">
-<price>4259.51</price>
+<price>4685.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 1,8 м, зелена, примотування</name>
@@ -3163,7 +3163,7 @@
 <param name="Кількість гілочок">586 шт.</param>
 </offer>
 <offer id="supplier202672aed7f21dd63c6920287dab" available="true">
-<price>8379.36</price>
+<price>9217.3</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 2,1 м, засніжена, примотування</name>
@@ -3184,7 +3184,7 @@
 <param name="Кількість гілочок">772 шт.</param>
 </offer>
 <offer id="supplier202677fba61b535b2fbf53ce69b2" available="true">
-<price>5725.9</price>
+<price>6298.49</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 2,1 м, зелена, примотування</name>
@@ -3205,7 +3205,7 @@
 <param name="Кількість гілочок">772 шт.</param>
 </offer>
 <offer id="supplier2026049d034a2d9a9ee95c4a57c6" available="true">
-<price>10613.86</price>
+<price>11675.25</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 2,3 м, засніжена, примотування</name>
@@ -3226,7 +3226,7 @@
 <param name="Кількість гілочок">997 шт.</param>
 </offer>
 <offer id="supplier20265ed0e212415f9dd46dcd390b" available="true">
-<price>7471.6</price>
+<price>8218.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 2,3 м, зелена, примотування</name>
@@ -3247,7 +3247,7 @@
 <param name="Кількість гілочок">997 шт.</param>
 </offer>
 <offer id="supplier2026c2165713c92a7e07fc7e3fba" available="true">
-<price>15082.85</price>
+<price>16591.14</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 2,5 м, засніжена, примотування</name>
@@ -3268,7 +3268,7 @@
 <param name="Кількість гілочок">1240 шт.</param>
 </offer>
 <offer id="supplier2026833868e23fba3df5b7b4c41f" available="true">
-<price>10264.72</price>
+<price>11291.19</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 2,5 м, зелена, примотування</name>
@@ -3289,7 +3289,7 @@
 <param name="Кількість гілочок">1240 шт.</param>
 </offer>
 <offer id="supplier2026f51158a0004b7f1f33f015b1" available="true">
-<price>21088.06</price>
+<price>23196.87</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 3 м, засніжена, примотування</name>
@@ -3310,7 +3310,7 @@
 <param name="Кількість гілочок">1672 шт.</param>
 </offer>
 <offer id="supplier202685714fa07d89c34dc8583c45" available="true">
-<price>14663.88</price>
+<price>16130.27</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Віденська&quot; SIGA GROUP — 3 м, зелена, примотування</name>
@@ -3331,7 +3331,7 @@
 <param name="Кількість гілочок">1672 шт.</param>
 </offer>
 <offer id="supplier202688cdedc041705886e9398846" available="true">
-<price>3072.43</price>
+<price>3379.67</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,5 м, блакитна, примотування</name>
@@ -3352,7 +3352,7 @@
 <param name="Кількість гілочок">237 шт.</param>
 </offer>
 <offer id="supplier2026338e5d10c090a4cdb531b6bf" available="true">
-<price>6982.8</price>
+<price>7681.08</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,5 м, засніжена led, примотування</name>
@@ -3373,7 +3373,7 @@
 <param name="Кількість гілочок">237 шт.</param>
 </offer>
 <offer id="supplier202666e9930be0c84a877d1ac1cb" available="true">
-<price>4608.65</price>
+<price>5069.51</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,5 м, засніжена, примотування</name>
@@ -3394,7 +3394,7 @@
 <param name="Кількість гілочок">237 шт.</param>
 </offer>
 <offer id="supplier2026194208b6fd458f2f71fadfb3" available="true">
-<price>5306.93</price>
+<price>5837.62</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,5 м, зелена led, примотування</name>
@@ -3415,7 +3415,7 @@
 <param name="Кількість гілочок">237 шт.</param>
 </offer>
 <offer id="supplier20261900139b709af01e99febf90" available="true">
-<price>4748.3</price>
+<price>5223.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,8 м, блакитна, примотування</name>
@@ -3436,7 +3436,7 @@
 <param name="Кількість гілочок">365 шт.</param>
 </offer>
 <offer id="supplier2026a610ff61ad4eb7930ee4db7c" available="true">
-<price>9706.09</price>
+<price>10676.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,8 м, засніжена led, примотування</name>
@@ -3457,7 +3457,7 @@
 <param name="Кількість гілочок">365 шт.</param>
 </offer>
 <offer id="supplier202658a94cc53b5c45f6566b755f" available="true">
-<price>6843.14</price>
+<price>7527.45</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,8 м, засніжена, примотування</name>
@@ -3478,7 +3478,7 @@
 <param name="Кількість гілочок">365 шт.</param>
 </offer>
 <offer id="supplier20266493050004401253c6f3664b" available="true">
-<price>7471.6</price>
+<price>8218.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 1,8 м, зелена led, примотування</name>
@@ -3499,7 +3499,7 @@
 <param name="Кількість гілочок">365 шт.</param>
 </offer>
 <offer id="supplier202674f660f9178840cca0a96072" available="true">
-<price>6214.69</price>
+<price>6836.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,1 м, блакитна, примотування</name>
@@ -3520,7 +3520,7 @@
 <param name="Кількість гілочок">484 шт.</param>
 </offer>
 <offer id="supplier202601b9c471c597507af2cd3e67" available="true">
-<price>12289.73</price>
+<price>13518.7</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,1 м, засніжена led, примотування</name>
@@ -3541,7 +3541,7 @@
 <param name="Кількість гілочок">484 шт.</param>
 </offer>
 <offer id="supplier2026de683d05a00966bf166a33e0" available="true">
-<price>8798.33</price>
+<price>9678.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,1 м, засніжена, примотування</name>
@@ -3562,7 +3562,7 @@
 <param name="Кількість гілочок">484 шт.</param>
 </offer>
 <offer id="supplier2026e72e16f90d3b9d219d34f536" available="true">
-<price>9356.95</price>
+<price>10292.65</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,1 м, зелена led, примотування</name>
@@ -3583,7 +3583,7 @@
 <param name="Кількість гілочок">484 шт.</param>
 </offer>
 <offer id="supplier202602fe96573cdc5dc3fa200f04" available="true">
-<price>7750.91</price>
+<price>8526</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,3 м, блакитна, примотування</name>
@@ -3604,7 +3604,7 @@
 <param name="Кількість гілочок">610 шт.</param>
 </offer>
 <offer id="supplier2026f644fd4fbcbfa3dcc6f7a998" available="true">
-<price>14594.05</price>
+<price>16053.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,3 м, засніжена led, примотування</name>
@@ -3625,7 +3625,7 @@
 <param name="Кількість гілочок">610 шт.</param>
 </offer>
 <offer id="supplier202686054fce57039574a28cb735" available="true">
-<price>10963</price>
+<price>12059.3</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,3 м, засніжена, примотування</name>
@@ -3646,7 +3646,7 @@
 <param name="Кількість гілочок">610 шт.</param>
 </offer>
 <offer id="supplier2026fac06f9c9d75212a47c71f0f" available="true">
-<price>11172.48</price>
+<price>12289.73</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,3 м, зелена led, примотування</name>
@@ -3667,7 +3667,7 @@
 <param name="Кількість гілочок">610 шт.</param>
 </offer>
 <offer id="supplier202649aff5200d31250fc45dc09a" available="true">
-<price>9636.26</price>
+<price>10599.89</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,5 м, блакитна, примотування</name>
@@ -3688,7 +3688,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier2026621542d24332bb7f5162eb6d" available="true">
-<price>18713.9</price>
+<price>20585.29</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,5 м, засніжена led, примотування</name>
@@ -3709,7 +3709,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier2026a98bdb3b0f3d22ba889a3009" available="true">
-<price>14314.74</price>
+<price>15746.21</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,5 м, засніжена, примотування</name>
@@ -3730,7 +3730,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier2026f67a7aa24af2db030fcdcb39" available="true">
-<price>13756.12</price>
+<price>15131.73</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 2,5 м, зелена led, примотування</name>
@@ -3751,7 +3751,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier202657fab5f45a6266b8a472afde" available="true">
-<price>13616.46</price>
+<price>14978.11</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 3 м, блакитна, примотування</name>
@@ -3772,7 +3772,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier2026dbc99232ef7765a57e5acbe1" available="true">
-<price>26394.98</price>
+<price>29034.48</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 3 м, засніжена led, примотування</name>
@@ -3793,7 +3793,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier2026467acb8be5fd52246c995534" available="true">
-<price>19900.98</price>
+<price>21891.08</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 3 м, засніжена, примотування</name>
@@ -3814,7 +3814,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier20267bee221d51cc813a8973e9a1" available="true">
-<price>19691.5</price>
+<price>21660.65</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Ковалівська&quot; SIGA GROUP — 3 м, зелена led, примотування</name>
@@ -3835,7 +3835,7 @@
 <param name="Кількість гілочок">1026 шт.</param>
 </offer>
 <offer id="supplier2026d6d261b3dc2738a08a5094b3" available="true">
-<price>3980.2</price>
+<price>4378.22</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,5 м, блакитна, парасолька</name>
@@ -3855,7 +3855,7 @@
 <param name="Кількість гілочок">405 шт.</param>
 </offer>
 <offer id="supplier2026fa9ceacf392e21174b959d8e" available="true">
-<price>3351.74</price>
+<price>3686.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,5 м, блакитна, примотування</name>
@@ -3875,7 +3875,7 @@
 <param name="Кількість гілочок">405 шт.</param>
 </offer>
 <offer id="supplier202603de1bd26ec8adf16f1e0bca" available="true">
-<price>5376.76</price>
+<price>5914.44</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,5 м, зелена led, парасолька</name>
@@ -3895,7 +3895,7 @@
 <param name="Кількість гілочок">405 шт.</param>
 </offer>
 <offer id="supplier202625a9e1f1f6e9daa97671c0e9" available="true">
-<price>4748.3</price>
+<price>5223.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,5 м, зелена led, примотування</name>
@@ -3915,7 +3915,7 @@
 <param name="Кількість гілочок">405 шт.</param>
 </offer>
 <offer id="supplier202637ed5385e3e25883735f3300" available="true">
-<price>3980.2</price>
+<price>4378.22</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,5 м, зелена, парасолька</name>
@@ -3935,7 +3935,7 @@
 <param name="Кількість гілочок">405 шт.</param>
 </offer>
 <offer id="supplier202627fe59dee4b751e7f933ca2c" available="true">
-<price>3351.74</price>
+<price>3686.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,5 м, зелена, примотування</name>
@@ -3955,7 +3955,7 @@
 <param name="Кількість гілочок">405 шт.</param>
 </offer>
 <offer id="supplier2026379518cefe572f21e2b5db01" available="true">
-<price>5656.07</price>
+<price>6221.68</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,8 м, блакитна, парасолька</name>
@@ -3975,7 +3975,7 @@
 <param name="Кількість гілочок">629 шт.</param>
 </offer>
 <offer id="supplier20266abea3c628fa3a7eadc93e06" available="true">
-<price>4957.79</price>
+<price>5453.57</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,8 м, блакитна, примотування</name>
@@ -3995,7 +3995,7 @@
 <param name="Кількість гілочок">629 шт.</param>
 </offer>
 <offer id="supplier2026bf3facb3ef1ffa3b5a05a29a" available="true">
-<price>7890.56</price>
+<price>8679.62</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,8 м, зелена led, парасолька</name>
@@ -4015,7 +4015,7 @@
 <param name="Кількість гілочок">629 шт.</param>
 </offer>
 <offer id="supplier2026f3272e51a95216da3b81bc5c" available="true">
-<price>7122.46</price>
+<price>7834.71</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,8 м, зелена led, примотування</name>
@@ -4035,7 +4035,7 @@
 <param name="Кількість гілочок">629 шт.</param>
 </offer>
 <offer id="supplier20269c05bb901dc832434def7cc7" available="true">
-<price>5656.07</price>
+<price>6221.68</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,8 м, зелена, парасолька</name>
@@ -4055,7 +4055,7 @@
 <param name="Кількість гілочок">629 шт.</param>
 </offer>
 <offer id="supplier202686c5423e4423cb614bd2d6cd" available="true">
-<price>4957.79</price>
+<price>5453.57</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 1,8 м, зелена, примотування</name>
@@ -4075,7 +4075,7 @@
 <param name="Кількість гілочок">629 шт.</param>
 </offer>
 <offer id="supplier20262d3bde4f595d242647afb8d2" available="true">
-<price>7471.6</price>
+<price>8218.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,1 м, блакитна, парасолька</name>
@@ -4095,7 +4095,7 @@
 <param name="Кількість гілочок">833 шт.</param>
 </offer>
 <offer id="supplier202642ff595095eccd3740c0247c" available="true">
-<price>6633.66</price>
+<price>7297.03</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,1 м, блакитна, примотування</name>
@@ -4115,7 +4115,7 @@
 <param name="Кількість гілочок">833 шт.</param>
 </offer>
 <offer id="supplier2026e7b9efa0a618d64c5669b330" available="true">
-<price>10264.72</price>
+<price>11291.19</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,1 м, зелена led, парасолька</name>
@@ -4135,7 +4135,7 @@
 <param name="Кількість гілочок">833 шт.</param>
 </offer>
 <offer id="supplier202696a2727034bf720ab0cdf7c1" available="true">
-<price>9496.61</price>
+<price>10446.27</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,1 м, зелена led, примотування</name>
@@ -4155,7 +4155,7 @@
 <param name="Кількість гілочок">833 шт.</param>
 </offer>
 <offer id="supplier20268bd1b1e636c1cd7bf0770e8c" available="true">
-<price>7471.6</price>
+<price>8218.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,1 м, зелена, парасолька</name>
@@ -4175,7 +4175,7 @@
 <param name="Кількість гілочок">833 шт.</param>
 </offer>
 <offer id="supplier2026962dbd9ec5a50d21d3b6666a" available="true">
-<price>6633.66</price>
+<price>7297.03</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,1 м, зелена, примотування</name>
@@ -4195,7 +4195,7 @@
 <param name="Кількість гілочок">833 шт.</param>
 </offer>
 <offer id="supplier202670ff8dcf0f0e33c77283fbfd" available="true">
-<price>9426.78</price>
+<price>10369.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,3 м, блакитна, парасолька</name>
@@ -4215,7 +4215,7 @@
 <param name="Кількість гілочок">1076 шт.</param>
 </offer>
 <offer id="supplier2026d1caf02c91d10e1ef9f30677" available="true">
-<price>8519.02</price>
+<price>9370.92</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,3 м, блакитна, примотування</name>
@@ -4235,7 +4235,7 @@
 <param name="Кількість гілочок">1076 шт.</param>
 </offer>
 <offer id="supplier20267af835e59633c959d58cb4ed" available="true">
-<price>13057.84</price>
+<price>14363.62</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,3 м, зелена led, парасолька</name>
@@ -4255,7 +4255,7 @@
 <param name="Кількість гілочок">1076 шт.</param>
 </offer>
 <offer id="supplier2026fc38a5d0007fb2720395835b" available="true">
-<price>12219.9</price>
+<price>13441.89</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,3 м, зелена led, примотування</name>
@@ -4275,7 +4275,7 @@
 <param name="Кількість гілочок">1076 шт.</param>
 </offer>
 <offer id="supplier2026f72285f963bace763456c641" available="true">
-<price>9426.78</price>
+<price>10369.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,3 м, зелена, парасолька</name>
@@ -4295,7 +4295,7 @@
 <param name="Кількість гілочок">1076 шт.</param>
 </offer>
 <offer id="supplier20266ff0513bb2547be97bd10e7b" available="true">
-<price>8519.02</price>
+<price>9370.92</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,3 м, зелена, примотування</name>
@@ -4315,7 +4315,7 @@
 <param name="Кількість гілочок">1076 шт.</param>
 </offer>
 <offer id="supplier20263dea34d46bef432a6a816446" available="true">
-<price>11661.28</price>
+<price>12827.41</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,5 м, блакитна, парасолька</name>
@@ -4335,7 +4335,7 @@
 <param name="Кількість гілочок">1346 шт.</param>
 </offer>
 <offer id="supplier2026d4e782361581947476245594" available="true">
-<price>10753.51</price>
+<price>11828.86</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,5 м, блакитна, примотування</name>
@@ -4355,7 +4355,7 @@
 <param name="Кількість гілочок">1346 шт.</param>
 </offer>
 <offer id="supplier2026d8ab173318430388b1b66bd4" available="true">
-<price>16339.75</price>
+<price>17973.73</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,5 м, зелена led, парасолька</name>
@@ -4375,7 +4375,7 @@
 <param name="Кількість гілочок">1346 шт.</param>
 </offer>
 <offer id="supplier2026a2aeb85d6724f3b959700d20" available="true">
-<price>15362.16</price>
+<price>16898.38</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,5 м, зелена led, примотування</name>
@@ -4395,7 +4395,7 @@
 <param name="Кількість гілочок">1346 шт.</param>
 </offer>
 <offer id="supplier20263d7bfef5fe7623f9e375a5ec" available="true">
-<price>11661.28</price>
+<price>12827.41</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,5 м, зелена, парасолька</name>
@@ -4415,7 +4415,7 @@
 <param name="Кількість гілочок">1346 шт.</param>
 </offer>
 <offer id="supplier20260ad78f51920e62882fd472d3" available="true">
-<price>10753.51</price>
+<price>11828.86</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 2,5 м, зелена, примотування</name>
@@ -4435,7 +4435,7 @@
 <param name="Кількість гілочок">1346 шт.</param>
 </offer>
 <offer id="supplier2026b7d3b20bc7dfe0cd4fc023ae" available="true">
-<price>17387.17</price>
+<price>19125.89</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 3 м, блакитна, парасолька</name>
@@ -4455,7 +4455,7 @@
 <param name="Кількість гілочок">1805 шт.</param>
 </offer>
 <offer id="supplier2026eba0c24d69bde8ad89887194" available="true">
-<price>16269.92</price>
+<price>17896.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 3 м, блакитна, примотування</name>
@@ -4475,7 +4475,7 @@
 <param name="Кількість гілочок">1805 шт.</param>
 </offer>
 <offer id="supplier2026515c5dd3c9c5759bd065730a" available="true">
-<price>23462.21</price>
+<price>25808.43</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 3 м, зелена led, парасолька</name>
@@ -4495,7 +4495,7 @@
 <param name="Кількість гілочок">1805 шт.</param>
 </offer>
 <offer id="supplier20266a01550178b0c29817eb2b57" available="true">
-<price>22344.96</price>
+<price>24579.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 3 м, зелена led, примотування</name>
@@ -4515,7 +4515,7 @@
 <param name="Кількість гілочок">1805 шт.</param>
 </offer>
 <offer id="supplier2026a6ecaf493080e422d3acfe9e" available="true">
-<price>17387.17</price>
+<price>19125.89</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 3 м, зелена, парасолька</name>
@@ -4535,7 +4535,7 @@
 <param name="Кількість гілочок">1805 шт.</param>
 </offer>
 <offer id="supplier2026447672d56c91afefff1d0c3c" available="true">
-<price>16269.92</price>
+<price>17896.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Лапландська&quot; SIGA GROUP — 3 м, зелена, примотування</name>
@@ -4555,7 +4555,7 @@
 <param name="Кількість гілочок">1805 шт.</param>
 </offer>
 <offer id="supplier202644dcd792478fdb7db1ce62f0" available="true">
-<price>5795.72</price>
+<price>6375.29</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,5 м, зелена led, парасолька</name>
@@ -4575,7 +4575,7 @@
 <param name="Кількість гілочок">571 шт.</param>
 </offer>
 <offer id="supplier20260db72bf3812239b8f03c91e9" available="true">
-<price>5167.27</price>
+<price>5684</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,5 м, зелена led, примотування</name>
@@ -4595,7 +4595,7 @@
 <param name="Кількість гілочок">571 шт.</param>
 </offer>
 <offer id="supplier2026c2dab2b0255e4758e93c236e" available="true">
-<price>4259.51</price>
+<price>4685.46</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,5 м, зелена, парасолька</name>
@@ -4615,7 +4615,7 @@
 <param name="Кількість гілочок">571 шт.</param>
 </offer>
 <offer id="supplier202662d2447de24138309f719599" available="true">
-<price>3631.06</price>
+<price>3994.17</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,5 м, зелена, примотування</name>
@@ -4635,7 +4635,7 @@
 <param name="Кількість гілочок">571 шт.</param>
 </offer>
 <offer id="supplier20262ed4f2fd606293320d5f14a0" available="true">
-<price>8519.02</price>
+<price>9370.92</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,8 м, зелена led, парасолька</name>
@@ -4655,7 +4655,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier2026cf04b7e8b3c6cccf5a941f59" available="true">
-<price>7890.56</price>
+<price>8679.62</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,8 м, зелена led, примотування</name>
@@ -4675,7 +4675,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier20265764ba6498a97d062ea2780b" available="true">
-<price>6214.69</price>
+<price>6836.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,8 м, зелена, парасолька</name>
@@ -4695,7 +4695,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier20260bde5ac293dea9204364a5e7" available="true">
-<price>5446.58</price>
+<price>5991.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 1,8 м, зелена, примотування</name>
@@ -4715,7 +4715,7 @@
 <param name="Кількість гілочок">763 шт.</param>
 </offer>
 <offer id="supplier20267df4adf319fef808be6c77d3" available="true">
-<price>11381.96</price>
+<price>12520.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,1 м, зелена led, парасолька</name>
@@ -4735,7 +4735,7 @@
 <param name="Кількість гілочок">1003 шт.</param>
 </offer>
 <offer id="supplier20261fdaf56650b5ead82ecca615" available="true">
-<price>10613.86</price>
+<price>11675.25</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,1 м, зелена led, примотування</name>
@@ -4755,7 +4755,7 @@
 <param name="Кількість гілочок">1003 шт.</param>
 </offer>
 <offer id="supplier2026823a7845128cce717fed84e5" available="true">
-<price>8169.88</price>
+<price>8986.87</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,1 м, зелена, парасолька</name>
@@ -4775,7 +4775,7 @@
 <param name="Кількість гілочок">1003 шт.</param>
 </offer>
 <offer id="supplier20264a1a8ede1914ce6a242fa28c" available="true">
-<price>7331.94</price>
+<price>8065.13</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,1 м, зелена, примотування</name>
@@ -4795,7 +4795,7 @@
 <param name="Кількість гілочок">1003 шт.</param>
 </offer>
 <offer id="supplier20261ace411978f033cd5a13960c" available="true">
-<price>14384.57</price>
+<price>15823.03</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,3 м, зелена led, парасолька</name>
@@ -4815,7 +4815,7 @@
 <param name="Кількість гілочок">1328 шт.</param>
 </offer>
 <offer id="supplier202642b3a9245c8eb2cd8c678b99" available="true">
-<price>13546.63</price>
+<price>14901.29</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,3 м, зелена led, примотування</name>
@@ -4835,7 +4835,7 @@
 <param name="Кількість гілочок">1328 шт.</param>
 </offer>
 <offer id="supplier2026c65dae68758897c958b6b7e6" available="true">
-<price>10194.89</price>
+<price>11214.38</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,3 м, зелена, парасолька</name>
@@ -4855,7 +4855,7 @@
 <param name="Кількість гілочок">1328 шт.</param>
 </offer>
 <offer id="supplier2026534371deb0100a1d2cc2db73" available="true">
-<price>9356.95</price>
+<price>10292.65</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,3 м, зелена, примотування</name>
@@ -4875,7 +4875,7 @@
 <param name="Кількість гілочок">1328 шт.</param>
 </offer>
 <offer id="supplier20262621df02bce45265855ec7cf" available="true">
-<price>17526.83</price>
+<price>19279.51</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,5 м, зелена led, парасолька</name>
@@ -4895,7 +4895,7 @@
 <param name="Кількість гілочок">1708 шт.</param>
 </offer>
 <offer id="supplier20261bdfac9de7b3720522026b37" available="true">
-<price>16549.24</price>
+<price>18204.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,5 м, зелена led, примотування</name>
@@ -4915,7 +4915,7 @@
 <param name="Кількість гілочок">1708 шт.</param>
 </offer>
 <offer id="supplier2026b9d52c955a1ff0263adb91dd" available="true">
-<price>12848.35</price>
+<price>14133.19</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,5 м, зелена, парасолька</name>
@@ -4935,7 +4935,7 @@
 <param name="Кількість гілочок">1708 шт.</param>
 </offer>
 <offer id="supplier20264609caa3c7533004bbed58e3" available="true">
-<price>11940.59</price>
+<price>13134.65</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 2,5 м, зелена, примотування</name>
@@ -4955,7 +4955,7 @@
 <param name="Кількість гілочок">1708 шт.</param>
 </offer>
 <offer id="supplier2026fcd1c11308ec661c52366e09" available="true">
-<price>25277.74</price>
+<price>27805.51</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 3 м, зелена led, парасолька</name>
@@ -4975,7 +4975,7 @@
 <param name="Кількість гілочок">2588 шт.</param>
 </offer>
 <offer id="supplier2026fba009db1d9c0c0ab054b108" available="true">
-<price>24020.83</price>
+<price>26422.91</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 3 м, зелена led, примотування</name>
@@ -4995,7 +4995,7 @@
 <param name="Кількість гілочок">2588 шт.</param>
 </offer>
 <offer id="supplier2026b92d5604d788359d2c90fc37" available="true">
-<price>18155.28</price>
+<price>19970.81</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 3 м, зелена, парасолька</name>
@@ -5015,7 +5015,7 @@
 <param name="Кількість гілочок">2588 шт.</param>
 </offer>
 <offer id="supplier2026b7000532fd0f78ebe3d77aea" available="true">
-<price>16968.2</price>
+<price>18665.02</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
 <name lang="ua">Ялинка лита &quot;Міланська&quot; SIGA GROUP — 3 м, зелена, примотування</name>

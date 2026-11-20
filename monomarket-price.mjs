@@ -15,27 +15,26 @@ export const DEFAULT_TIERS = [
   { maxMeters: 2.3, price: 1000 },
   { maxMeters: 2.5, price: 1300 },
   { maxMeters: 3, price: 1500 },
+  { category: "wreaths", price: 200 },
 ];
 
 export const offerId = (p) => String(p.id).replace(/[^A-Za-z0-9]/g, "");
 
+// Рядок таблиці без категорії — для ялинок (старі документи). Рядок без maxMeters — фіксована
+// доставка для всієї категорії (напр. вінки +200). Категорії без рядків — без доставки.
 export function deliveryFor(product, tiers = DEFAULT_TIERS) {
-  if (categoryId(product.category) !== "trees") return 0;
-  const size = Number(product.sizeMeters);
-  if (!Number.isFinite(size) || size <= 0) throw new Error("Missing tree size");
-  const sorted = [...tiers].sort((a, b) => a.maxMeters - b.maxMeters);
-  if (
-    sorted.some(
-      (t) =>
-        !Number.isFinite(t.maxMeters) ||
-        t.maxMeters <= 0 ||
-        !Number.isFinite(t.price) ||
-        t.price < 0,
-    )
-  )
+  const cat = categoryId(product.category);
+  const own = tiers.filter((t) => (t.category || "trees") === cat);
+  if (!own.length) return 0;
+  if (own.some((t) => !Number.isFinite(t.price) || t.price < 0 ||
+      (t.maxMeters != null && !(Number.isFinite(t.maxMeters) && t.maxMeters > 0))))
     throw new Error("Invalid delivery tier");
-  const tier = sorted.find((t) => size <= t.maxMeters);
-  if (!tier) throw new Error("No delivery tier for tree size");
+  const flat = own.find((t) => t.maxMeters == null);
+  if (flat) return flat.price;
+  const size = Number(product.sizeMeters);
+  if (!Number.isFinite(size) || size <= 0) throw new Error("Missing size for delivery");
+  const tier = [...own].sort((a, b) => a.maxMeters - b.maxMeters).find((t) => size <= t.maxMeters);
+  if (!tier) throw new Error("No delivery tier for size");
   return tier.price;
 }
 
@@ -140,7 +139,7 @@ export async function monomarketPriceApi(request, env) {
       ),
       sanity(
         env,
-        '*[_type == "deliveryTier" && defined(maxMeters) && defined(price)]{maxMeters, price}',
+        '*[_type == "deliveryTier" && defined(price)]{category, maxMeters, price}',
       ),
     ]);
     const items = products
