@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-22 13:01">
+<yml_catalog date="2026-11-22 13:09">
 <offers>
 <offer id="supplier202637f0ff0172ba6b05f53a0cf9" available="true">
 <price>860.27</price>
@@ -2823,32 +2823,6 @@
 <param name="Підставка">Металева</param>
 <param name="Упаковка">Коробка</param>
 <param name="Параметри пакування (дані постачальника)">70кг.120*45*45</param>
-<param name="Виробник">Slipo</param>
-</offer>
-<offer id="supplier2026aa32075cb83a0f856caa53d2" available="true">
-<price>55255.2</price>
-<category code="11111">Штучні ялинки</category>
-<attribute_set code="11111">Штучні ялинки</attribute_set>
-<name lang="ua">Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 4 м</name>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/fe649cc574d1e0172a8d82c5774b49709b71a1b4-1800x1800.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/c1e48ac95064200a53b4cdab9003f86e2da13ac6-1800x1800.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/80c9b5dec37d250d3f49ad9007e5d54c6bde4e01-1350x1800.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/d7ab7fed905c9701ea9cdc6835223e2a1f4693b6-1350x1800.jpg</picture>
-<picture>https://cdn.sanity.io/images/fcl0yp5j/production/19084a897f503698edd7510f1ce92d5bccc7943a-1350x1800.jpg</picture>
-<description lang="ua">&lt;p&gt;Створіть святковий центр оселі з моделлю Лита Рояль НА КРАБАХ / ШАРНІРАХ заввишки 4 м. Діаметр нижнього ярусу 230см допоможе заздалегідь підібрати місце для ялинки та продумати розташування прикрас.&lt;/p&gt;&lt;p&gt;Конструкція: 4920 гілочок. Діаметр гілки — 4см. Ялинка складається з 7 частин. У комплектації металева підставка.&lt;/p&gt;&lt;p&gt;Вага за даними постачальника — 56+16,8 кг. Пакування — коробка. Оберіть іграшки та гірлянду у своїй улюбленій гамі, щоб надати композиції особистого настрою.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Висота: 4 м&lt;/li&gt;&lt;li&gt;Діаметр нижнього ярусу: 230см&lt;/li&gt;&lt;li&gt;Будова: 4920 гілочок&lt;/li&gt;&lt;li&gt;Діаметр гілки: 4см&lt;/li&gt;&lt;li&gt;Вага за даними постачальника: 56+16,8 кг&lt;/li&gt;&lt;li&gt;Кількість частин: 7&lt;/li&gt;&lt;li&gt;Підставка: Металева&lt;/li&gt;&lt;li&gt;Упаковка: Коробка&lt;/li&gt;&lt;li&gt;Параметри пакування (дані постачальника): 160*50*50+120*35*35&lt;/li&gt;&lt;li&gt;Виробник: Slipo&lt;/li&gt;&lt;/ul&gt;</description>
-<vendor>Slipo</vendor>
-<param name="Міра виміру" paramcode="measure" valuecode="measure_pcs">шт.</param>
-<param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-<param name="Артикул">Рояль-400</param>
-<param name="Висота">4 м</param>
-<param name="Діаметр нижнього ярусу">230см</param>
-<param name="Будова">4920 гілочок</param>
-<param name="Діаметр гілки">4см</param>
-<param name="Вага за даними постачальника">56+16,8 кг</param>
-<param name="Кількість частин">7</param>
-<param name="Підставка">Металева</param>
-<param name="Упаковка">Коробка</param>
-<param name="Параметри пакування (дані постачальника)">160*50*50+120*35*35</param>
 <param name="Виробник">Slipo</param>
 </offer>
 <offer id="supplier2026b73e09a2bdc7eafea44de947" available="true">
