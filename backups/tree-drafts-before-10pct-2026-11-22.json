@@ -1,0 +1,1245 @@
+{
+  "takenAt": "2026-11-22T09:58:50.407Z",
+  "factor": 1.1,
+  "docs": [
+    {
+      "_id": "drafts.supplier-2026-00a437d53c5729bf42177190",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 3 м",
+      "oldPrice": null,
+      "price": 25171.2
+    },
+    {
+      "_id": "drafts.supplier-2026-013606085ae86047a45c96d1",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Елітна,Ковалівська (зелена, голуба) на нитці — 3 м",
+      "oldPrice": null,
+      "price": 18768
+    },
+    {
+      "_id": "drafts.supplier-2026-01d76d06169d19e4f8477550",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Буковельська на нитці — 2,1 м",
+      "oldPrice": null,
+      "price": 8169.6
+    },
+    {
+      "_id": "drafts.supplier-2026-02a608992e0ef45b23c08a1b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,3 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 17177.69
+    },
+    {
+      "_id": "drafts.supplier-2026-0302087f44774c483a47a2c3",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 3 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 31003.63
+    },
+    {
+      "_id": "drafts.supplier-2026-05140a9c598ebe5702c7277f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,1 м, зелена led, примотування",
+      "oldPrice": null,
+      "price": 10055.23
+    },
+    {
+      "_id": "drafts.supplier-2026-076f4a45f39022b00341e8a5",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 2,3 м, зелена+блакитна, парасолька",
+      "oldPrice": null,
+      "price": 11102.65
+    },
+    {
+      "_id": "drafts.supplier-2026-0b9fc031644fc101c622f32b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Елітна на нитці — 2,5 м",
+      "oldPrice": null,
+      "price": 14904
+    },
+    {
+      "_id": "drafts.supplier-2026-0c60147f3d565db9f831fe0f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,1 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 14314.74
+    },
+    {
+      "_id": "drafts.supplier-2026-1291718dd9c6377b58daab5d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Президентська Конусна\" SIGA GROUP — 2,5 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 9426.78
+    },
+    {
+      "_id": "drafts.supplier-2026-1463c191230492bc0ba46e14",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Снігова Королева — 2,2 м",
+      "oldPrice": null,
+      "price": 2649.6
+    },
+    {
+      "_id": "drafts.supplier-2026-14835ad5001e33b1a7ae5249",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Елітна на нитці — 2,3 м",
+      "oldPrice": null,
+      "price": 11371.2
+    },
+    {
+      "_id": "drafts.supplier-2026-14f15c24a08799ee080fe229",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Буковельська на нитці — 1,5 м",
+      "oldPrice": null,
+      "price": 4636.8
+    },
+    {
+      "_id": "drafts.supplier-2026-1509ca86da850534d2936e42",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,5 м, зелена led, парасолька",
+      "oldPrice": null,
+      "price": 17247.52
+    },
+    {
+      "_id": "drafts.supplier-2026-1515b2b1b97cf58c27b72e2b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,5 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 17736.31
+    },
+    {
+      "_id": "drafts.supplier-2026-16ed82458878104c9751357f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Елітна з шишкою — 2 м",
+      "oldPrice": null,
+      "price": 2649.6
+    },
+    {
+      "_id": "drafts.supplier-2026-1ab9320a7edb8aa422b324a3",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 1,5 м, зелена+блакитна, парасолька",
+      "oldPrice": null,
+      "price": 4678.48
+    },
+    {
+      "_id": "drafts.supplier-2026-1ad76c0dd1096f38a9b46d92",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Буковельська (зелена, голуба) на нитці — 2,5 м",
+      "oldPrice": null,
+      "price": 10267.2
+    },
+    {
+      "_id": "drafts.supplier-2026-1c1c13dc71485323f1a681f1",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Віденська\" SIGA GROUP — 2,5 м, блакитна, примотування",
+      "oldPrice": null,
+      "price": 10264.72
+    },
+    {
+      "_id": "drafts.supplier-2026-1f96d71db37cd352c5b8ad4d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 2,1 м, зелена+блакитна, примотування",
+      "oldPrice": null,
+      "price": 8379.36
+    },
+    {
+      "_id": "drafts.supplier-2026-219d023273a60e45901413ce",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 3 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 22694.1
+    },
+    {
+      "_id": "drafts.supplier-2026-2369cf3e88f7b7cf73e6278c",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,3 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 12708.7
+    },
+    {
+      "_id": "drafts.supplier-2026-2381742e1bd16c29c312a7bb",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 3 м, зелена+блакитна, примотування",
+      "oldPrice": null,
+      "price": 18294.94
+    },
+    {
+      "_id": "drafts.supplier-2026-24955985945dd23110893c37",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,5 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 5586.24
+    },
+    {
+      "_id": "drafts.supplier-2026-272d32ca54f77e2cab2bac2d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 2,1 м, зелена+блакитна, парасолька",
+      "oldPrice": null,
+      "price": 9217.3
+    },
+    {
+      "_id": "drafts.supplier-2026-27329239b0176c7128c9d359",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,1 м, зелена, парасолька",
+      "oldPrice": null,
+      "price": 7820.74
+    },
+    {
+      "_id": "drafts.supplier-2026-280a5c18dea6e123cba0805a",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,8 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 10963
+    },
+    {
+      "_id": "drafts.supplier-2026-2b0181eb5182a1465655d541",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 3 м, зелена led, примотування",
+      "oldPrice": null,
+      "price": 24369.97
+    },
+    {
+      "_id": "drafts.supplier-2026-2d3dbddae45de802754b7a45",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,3 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 9217.3
+    },
+    {
+      "_id": "drafts.supplier-2026-31a2aaba5c42e9ca7b7fccb6",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Снігова Королева — 3 м",
+      "oldPrice": null,
+      "price": 6070.9
+    },
+    {
+      "_id": "drafts.supplier-2026-31bc2d36822bcffc7192281d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Кармен (золото, срібло, калина) — 2 м",
+      "oldPrice": null,
+      "price": 2925.6
+    },
+    {
+      "_id": "drafts.supplier-2026-33937b41d445e70b7866fee9",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Преміум (зелена, голуба) на нитці — 2,1 м",
+      "oldPrice": null,
+      "price": 6513.6
+    },
+    {
+      "_id": "drafts.supplier-2026-3401b17fc945c500fb9fca7b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Буковельська (зелена, голуба) на нитці — 1,5 м",
+      "oldPrice": null,
+      "price": 3422.4
+    },
+    {
+      "_id": "drafts.supplier-2026-37da1b63a2d613bee30901f7",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,3 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 12638.87
+    },
+    {
+      "_id": "drafts.supplier-2026-38beea1de06ae382e912d8dc",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Канадська — 2,1 м",
+      "oldPrice": null,
+      "price": 6070.9
+    },
+    {
+      "_id": "drafts.supplier-2026-39fb58e0028b9067be4859a8",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,5 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 21786.34
+    },
+    {
+      "_id": "drafts.supplier-2026-3ab4a39ecc8c5afa9128b8fa",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Елітна,Ковалівська (зелена, голуба) на нитці — 2,5 м",
+      "oldPrice": null,
+      "price": 11590.9
+    },
+    {
+      "_id": "drafts.supplier-2026-3b0bf5bd7dce71666df18a6e",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 1,5 м",
+      "oldPrice": null,
+      "price": 5961.6
+    },
+    {
+      "_id": "drafts.supplier-2026-3c04beda853b0a9324efa6d3",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Тріумф НА КРАБАХ / ШАРНІРАХ — 2,3 м",
+      "oldPrice": null,
+      "price": 13246.9
+    },
+    {
+      "_id": "drafts.supplier-2026-3fc712183936c0fa524ae571",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Віденська\" SIGA GROUP — 2,3 м, блакитна, примотування",
+      "oldPrice": null,
+      "price": 7471.6
+    },
+    {
+      "_id": "drafts.supplier-2026-4005d589c6cdc3a2e5d1d694",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,5 м, зелена led, примотування",
+      "oldPrice": null,
+      "price": 5167.27
+    },
+    {
+      "_id": "drafts.supplier-2026-405daf35ebc3036cadc03184",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Буковельська на нитці — 2,3 м",
+      "oldPrice": null,
+      "price": 10267.2
+    },
+    {
+      "_id": "drafts.supplier-2026-415588e1c7d9f0386557b136",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Елітна на нитці — 2,1 м",
+      "oldPrice": null,
+      "price": 9382.9
+    },
+    {
+      "_id": "drafts.supplier-2026-42feff7be3ed24235d67c124",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,3 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 11731.1
+    },
+    {
+      "_id": "drafts.supplier-2026-4480e95290c332a72a076ebc",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Буковельська (зелена, голуба) на нитці — 2,1 м",
+      "oldPrice": null,
+      "price": 6513.6
+    },
+    {
+      "_id": "drafts.supplier-2026-45f5598810a7bc86db3077cb",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,8 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 7052.63
+    },
+    {
+      "_id": "drafts.supplier-2026-463e41101113ca9bd2b373bd",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 3 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 17875.97
+    },
+    {
+      "_id": "drafts.supplier-2026-46560e5d539827dcc29a3c83",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Елітна з шишкою — 2,2 м",
+      "oldPrice": null,
+      "price": 3091.2
+    },
+    {
+      "_id": "drafts.supplier-2026-4765d30fb278d21102e29ee0",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,1 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 13546.63
+    },
+    {
+      "_id": "drafts.supplier-2026-47c961740531b63d673b055c",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,3 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 15431.99
+    },
+    {
+      "_id": "drafts.supplier-2026-4b9891d7fbbe8a57e33214df",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,1 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 10125.06
+    },
+    {
+      "_id": "drafts.supplier-2026-4ec1e2d37332a2f7f899659d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 1,5 м, зелена+блакитна, примотування",
+      "oldPrice": null,
+      "price": 3980.2
+    },
+    {
+      "_id": "drafts.supplier-2026-4f13adbc2d65c1f0c844fe4e",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Ковалівська\" SIGA GROUP — 3 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 13616.46
+    },
+    {
+      "_id": "drafts.supplier-2026-50b62922d457ec893306ade0",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Елітна,Ковалівська (зелена, голуба) на нитці — 2,3 м",
+      "oldPrice": null,
+      "price": 9052.8
+    },
+    {
+      "_id": "drafts.supplier-2026-52b4eaf364c531737876a22e",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 1,8 м",
+      "oldPrice": null,
+      "price": 8278.9
+    },
+    {
+      "_id": "drafts.supplier-2026-56265708185a31b6cf7a1170",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Снігова Королева — 2 м",
+      "oldPrice": null,
+      "price": 2263.2
+    },
+    {
+      "_id": "drafts.supplier-2026-57225fb3199d7c920439a3cf",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,5 м, зелена, парасолька",
+      "oldPrice": null,
+      "price": 12359.56
+    },
+    {
+      "_id": "drafts.supplier-2026-59791be24de05c1123bdb2c2",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,3 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 16339.75
+    },
+    {
+      "_id": "drafts.supplier-2026-5a5aad2898870268ce68c6e6",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,1 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 12988.01
+    },
+    {
+      "_id": "drafts.supplier-2026-5a7d451921dc4a4679487431",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,8 м, зелена led, примотування",
+      "oldPrice": null,
+      "price": 7681.08
+    },
+    {
+      "_id": "drafts.supplier-2026-5aa81c220056c6b0610ee1b8",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Снігова Королева — 2,5 м",
+      "oldPrice": null,
+      "price": 3862.9
+    },
+    {
+      "_id": "drafts.supplier-2026-5c1a4896ca48accef96a7d6f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,3 м, зелена, парасолька",
+      "oldPrice": null,
+      "price": 10055.23
+    },
+    {
+      "_id": "drafts.supplier-2026-5c69145578b7a54073365dfa",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка \"Карпатська\" — 2,2 м",
+      "oldPrice": null,
+      "price": 2318.4
+    },
+    {
+      "_id": "drafts.supplier-2026-5d04cdd60584449d7ad0c85d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,8 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 7820.74
+    },
+    {
+      "_id": "drafts.supplier-2026-5dece5560459e9136c6bf59a",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Віденська НА КРАБАХ / ШАРНІРАХ — 2,3 м",
+      "oldPrice": null,
+      "price": 13246.9
+    },
+    {
+      "_id": "drafts.supplier-2026-5f3b78e0e77d0517926b35d7",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 1,8 м, зелена+блакитна, примотування",
+      "oldPrice": null,
+      "price": 6284.52
+    },
+    {
+      "_id": "drafts.supplier-2026-5f885dd12e815c8e79733a2a",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,5 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 4957.79
+    },
+    {
+      "_id": "drafts.supplier-2026-604d5b2e31cc5ceac8d73ab1",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 3 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 28769.14
+    },
+    {
+      "_id": "drafts.supplier-2026-62eff0e8a36c628f479a4ae5",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Буковельська на нитці — 1,8 м",
+      "oldPrice": null,
+      "price": 6070.9
+    },
+    {
+      "_id": "drafts.supplier-2026-64547b5e685f122dbd34d2d9",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,3 м, зелена led, примотування",
+      "oldPrice": null,
+      "price": 13127.66
+    },
+    {
+      "_id": "drafts.supplier-2026-64e6777a03fba78b8b4b2ee0",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 2,5 м, зелена+блакитна, парасолька",
+      "oldPrice": null,
+      "price": 14524.22
+    },
+    {
+      "_id": "drafts.supplier-2026-66e9ca0ad7102429e2a8d1aa",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Віденська НА КРАБАХ / ШАРНІРАХ — 1,8 м",
+      "oldPrice": null,
+      "price": 8278.9
+    },
+    {
+      "_id": "drafts.supplier-2026-66f5f1cf8309050f13009cf9",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Президентська Конусна\" SIGA GROUP — 2,1 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 5586.24
+    },
+    {
+      "_id": "drafts.supplier-2026-6a0fc34e83de97d664071e61",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,5 м, зелена led, примотування",
+      "oldPrice": null,
+      "price": 16339.75
+    },
+    {
+      "_id": "drafts.supplier-2026-6c3472995fd8fbbb3178d364",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Елітна з шишкою — 1,8 м",
+      "oldPrice": null,
+      "price": 2263.2
+    },
+    {
+      "_id": "drafts.supplier-2026-6c5180bd3efd08e597f67867",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,5 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 6354.35
+    },
+    {
+      "_id": "drafts.supplier-2026-6d03822ff64e36590783fb79",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,3 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 18085.45
+    },
+    {
+      "_id": "drafts.supplier-2026-733eb04d8b1b35d790364727",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Сосна — 2,1 м",
+      "oldPrice": null,
+      "price": 3310.9
+    },
+    {
+      "_id": "drafts.supplier-2026-74c2bc3bdce38703579a4a50",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,8 м, зелена led, парасолька",
+      "oldPrice": null,
+      "price": 8379.36
+    },
+    {
+      "_id": "drafts.supplier-2026-756d0024219356552a18a2a2",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Елітна на нитці — 1,5 м",
+      "oldPrice": null,
+      "price": 4966.9
+    },
+    {
+      "_id": "drafts.supplier-2026-775c632ab6f12ac575541f41",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Кармен (золото, срібло, калина) — 1,8 м",
+      "oldPrice": null,
+      "price": 2539.2
+    },
+    {
+      "_id": "drafts.supplier-2026-7774113a1633012a71dac3b5",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 2,5 м",
+      "oldPrice": null,
+      "price": 16780.8
+    },
+    {
+      "_id": "drafts.supplier-2026-78020f43a9ab021fcbfb5544",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,8 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 9985.4
+    },
+    {
+      "_id": "drafts.supplier-2026-782142854ddec6cbe1b5309b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,5 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 16479.41
+    },
+    {
+      "_id": "drafts.supplier-2026-7902839ebe1ea4d1931924f5",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Віденська НА КРАБАХ / ШАРНІРАХ — 2,1 м",
+      "oldPrice": null,
+      "price": 10598.4
+    },
+    {
+      "_id": "drafts.supplier-2026-795e5b5d2ef1f165b7c28619",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,1 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 12219.9
+    },
+    {
+      "_id": "drafts.supplier-2026-7a04d2587a0cfbbe16424bc1",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Швейцарська (зелена, голуба) на нитці — 2,5 м",
+      "oldPrice": null,
+      "price": 11038.9
+    },
+    {
+      "_id": "drafts.supplier-2026-7a4b6ec693f21fec1df93186",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Швейцарська (зелена, голуба) на нитці — 2,3 м",
+      "oldPrice": null,
+      "price": 8721.6
+    },
+    {
+      "_id": "drafts.supplier-2026-7a8ddf26fbbed775083783ff",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Президентська Конусна\" SIGA GROUP — 2,3 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 7262.11
+    },
+    {
+      "_id": "drafts.supplier-2026-7cb0cf7b76cc7513987777c5",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Буковельська (зелена, голуба) на нитці — 1,8 м",
+      "oldPrice": null,
+      "price": 4966.9
+    },
+    {
+      "_id": "drafts.supplier-2026-7f5962896daddbed60598b7d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,5 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 16758.72
+    },
+    {
+      "_id": "drafts.supplier-2026-807d6f55c95a8a6df1d32010",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка \"Карпатська\" — 2,5 м",
+      "oldPrice": null,
+      "price": 3532.8
+    },
+    {
+      "_id": "drafts.supplier-2026-810dce64522faf197fd340f7",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Кармен (золото, срібло, калина) — 2,2 м",
+      "oldPrice": null,
+      "price": 3586.9
+    },
+    {
+      "_id": "drafts.supplier-2026-81af783f1510ff11cbadce5a",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Віденська\" SIGA GROUP — 1,8 м, блакитна, примотування",
+      "oldPrice": null,
+      "price": 4259.51
+    },
+    {
+      "_id": "drafts.supplier-2026-81e885feed28ad11e312ace6",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Тріумф НА КРАБАХ / ШАРНІРАХ — 2,1 м",
+      "oldPrice": null,
+      "price": 10598.4
+    },
+    {
+      "_id": "drafts.supplier-2026-81f14a1ec2af34c443ea04a0",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 3 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 23881.18
+    },
+    {
+      "_id": "drafts.supplier-2026-820e6bf2fe5042b7079a40fc",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Канадська — 2,3 м",
+      "oldPrice": null,
+      "price": 7507.2
+    },
+    {
+      "_id": "drafts.supplier-2026-8368f0d414b974b63f0bc9ba",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Швейцарська (зелена, голуба) на нитці — 1,5 м",
+      "oldPrice": null,
+      "price": 3643.2
+    },
+    {
+      "_id": "drafts.supplier-2026-844077fbe44d9e72abeb175f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Ковалівська\" SIGA GROUP — 2,3 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 7750.91
+    },
+    {
+      "_id": "drafts.supplier-2026-84f265684382ac122686e826",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,8 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 9287.12
+    },
+    {
+      "_id": "drafts.supplier-2026-85063e835209e4a72fc1146c",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 3 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 23462.21
+    },
+    {
+      "_id": "drafts.supplier-2026-85e66beb6651e7670bb1803a",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,1 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 10055.23
+    },
+    {
+      "_id": "drafts.supplier-2026-87a7b43e4686834aa503df4e",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 2,5 м, зелена+блакитна, примотування",
+      "oldPrice": null,
+      "price": 13616.46
+    },
+    {
+      "_id": "drafts.supplier-2026-8ab20950646e306de68bbda9",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 1,8 м, зелена+блакитна, парасолька",
+      "oldPrice": null,
+      "price": 6982.8
+    },
+    {
+      "_id": "drafts.supplier-2026-8f151bcceed43dbefff6d5c7",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Елітна,Ковалівська (зелена, голуба) на нитці — 2,1 м",
+      "oldPrice": null,
+      "price": 7286.4
+    },
+    {
+      "_id": "drafts.supplier-2026-8f49de6e48ceb58c8f4db9dc",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 3 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 32120.88
+    },
+    {
+      "_id": "drafts.supplier-2026-8fdc51d0729592bd2b7fe7e6",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,8 м, зелена, парасолька",
+      "oldPrice": null,
+      "price": 6075.04
+    },
+    {
+      "_id": "drafts.supplier-2026-90aeccff8811ff6acf9eecc4",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка \"Карпатська\" — 2 м",
+      "oldPrice": null,
+      "price": 1987.2
+    },
+    {
+      "_id": "drafts.supplier-2026-930b3281b3b4a5d677a50ded",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,5 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 6843.14
+    },
+    {
+      "_id": "drafts.supplier-2026-94b402187c0d7a15848c1f11",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Сосна — 2,3 м",
+      "oldPrice": null,
+      "price": 4138.9
+    },
+    {
+      "_id": "drafts.supplier-2026-97166f80ff49bf58d2cc40ae",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,8 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 8379.36
+    },
+    {
+      "_id": "drafts.supplier-2026-990047368666215ae709bc32",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Преміум (зелена, голуба) на нитці — 1,8 м",
+      "oldPrice": null,
+      "price": 4966.9
+    },
+    {
+      "_id": "drafts.supplier-2026-9a8838201fd0b4d2f2037750",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Преміум (зелена, голуба) на нитці — 2,5 м",
+      "oldPrice": null,
+      "price": 10267.2
+    },
+    {
+      "_id": "drafts.supplier-2026-9a9708363a9379dad43ab388",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Преміум (зелена, голуба) на нитці — 2,3 м",
+      "oldPrice": null,
+      "price": 8169.6
+    },
+    {
+      "_id": "drafts.supplier-2026-9d5a6d6cccd2573a56a66c6f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,1 м, зелена led, парасолька",
+      "oldPrice": null,
+      "price": 10893.17
+    },
+    {
+      "_id": "drafts.supplier-2026-9dfd3cfd4fccbfd30f8f3257",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 2,3 м, зелена+блакитна, примотування",
+      "oldPrice": null,
+      "price": 10194.89
+    },
+    {
+      "_id": "drafts.supplier-2026-a1595431d3bde998dfaea24f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,3 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 13616.46
+    },
+    {
+      "_id": "drafts.supplier-2026-a7931636c82f78a86fc2c9c6",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 1,5 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 6982.8
+    },
+    {
+      "_id": "drafts.supplier-2026-a7a99c19d14baf4a29c12cf8",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Елітна на нитці — 1,8 м",
+      "oldPrice": null,
+      "price": 7065.6
+    },
+    {
+      "_id": "drafts.supplier-2026-a7d06b602215def73c3268e9",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Снігова Королева — 1,8 м",
+      "oldPrice": null,
+      "price": 1930.9
+    },
+    {
+      "_id": "drafts.supplier-2026-a89a9fa436b681d303c3c00e",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Віденська\" SIGA GROUP — 1,5 м, блакитна, примотування",
+      "oldPrice": null,
+      "price": 2932.78
+    },
+    {
+      "_id": "drafts.supplier-2026-a8cafeec2c60eb53fc7ae63b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,8 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 5306.93
+    },
+    {
+      "_id": "drafts.supplier-2026-aa32075cb83a0f856caa53d2",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 4 м",
+      "oldPrice": null,
+      "price": 50232
+    },
+    {
+      "_id": "drafts.supplier-2026-b18665f86a9e6c6c69ff8b6e",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 3 м, зелена led, парасолька",
+      "oldPrice": null,
+      "price": 25557.05
+    },
+    {
+      "_id": "drafts.supplier-2026-b54706bfd5a0ab14472e46a3",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,8 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 7681.08
+    },
+    {
+      "_id": "drafts.supplier-2026-b73e09a2bdc7eafea44de947",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Тріумф НА КРАБАХ / ШАРНІРАХ — 1,8 м",
+      "oldPrice": null,
+      "price": 8278.9
+    },
+    {
+      "_id": "drafts.supplier-2026-b8ba4949dac5bd4858504334",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка \"Карпатська\" — 1,5 м",
+      "oldPrice": null,
+      "price": 1324.8
+    },
+    {
+      "_id": "drafts.supplier-2026-b958cb448ebd5bf7dd376f79",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,5 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 11381.96
+    },
+    {
+      "_id": "drafts.supplier-2026-b9d9d548735142905fdf68a8",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 2,3 м",
+      "oldPrice": null,
+      "price": 13246.9
+    },
+    {
+      "_id": "drafts.supplier-2026-bae35bae7bd5c2e25d97c67d",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 3 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 24649.28
+    },
+    {
+      "_id": "drafts.supplier-2026-bc111af0604124b503348ff7",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Снігова Королева — 1,5 м",
+      "oldPrice": null,
+      "price": 1378.9
+    },
+    {
+      "_id": "drafts.supplier-2026-bc62e8edddbf7e9f704c88d7",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,5 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 7541.42
+    },
+    {
+      "_id": "drafts.supplier-2026-be797a505892cb6871b77dd9",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Елітна,Ковалівська (зелена, голуба) на нитці — 1,5 м",
+      "oldPrice": null,
+      "price": 3862.9
+    },
+    {
+      "_id": "drafts.supplier-2026-be898adbe41d72aa38ef5211",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,1 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 10893.17
+    },
+    {
+      "_id": "drafts.supplier-2026-c298c0dfa16933ba33eef2d7",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,5 м, зелена led, парасолька",
+      "oldPrice": null,
+      "price": 5795.72
+    },
+    {
+      "_id": "drafts.supplier-2026-c336e04dbb9ba8f551425280",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,5 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 20110.46
+    },
+    {
+      "_id": "drafts.supplier-2026-c45e6bc2a5675b880013b21e",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Президентська Конусна\" SIGA GROUP — 1,5 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 3281.92
+    },
+    {
+      "_id": "drafts.supplier-2026-c5cf2f362b889816851785bf",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Президентська Конусна\" SIGA GROUP — 1,8 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 4608.65
+    },
+    {
+      "_id": "drafts.supplier-2026-c654e19c5b7420b7640b4ffa",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Швейцарська (зелена, голуба) на нитці — 2,1 м",
+      "oldPrice": null,
+      "price": 6955.2
+    },
+    {
+      "_id": "drafts.supplier-2026-c97dfc7ebf50db2ef3ffde7b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Елітна з шишкою — 2,5 м",
+      "oldPrice": null,
+      "price": 4305.6
+    },
+    {
+      "_id": "drafts.supplier-2026-cb5e849a2c6191db3397dae2",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка \"Карпатська\" — 1,8 м",
+      "oldPrice": null,
+      "price": 1711.2
+    },
+    {
+      "_id": "drafts.supplier-2026-cd1220810174f66dad624216",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,5 м, зелена, парасолька",
+      "oldPrice": null,
+      "price": 4259.51
+    },
+    {
+      "_id": "drafts.supplier-2026-cfe3bb7597fc5aaaa9b9e941",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Віденська\" SIGA GROUP — 2,1 м, блакитна, примотування",
+      "oldPrice": null,
+      "price": 5725.9
+    },
+    {
+      "_id": "drafts.supplier-2026-d4f7fd667be1c73b85201c73",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Преміум (зелена, голуба) на нитці — 1,5 м",
+      "oldPrice": null,
+      "price": 3422.4
+    },
+    {
+      "_id": "drafts.supplier-2026-d7a8535e33a613e5620f8e85",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,5 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 21088.06
+    },
+    {
+      "_id": "drafts.supplier-2026-d8ba5336ca7a6f4ce9caa954",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Кармен (золото, срібло, калина) — 2,5 м",
+      "oldPrice": null,
+      "price": 4690.9
+    },
+    {
+      "_id": "drafts.supplier-2026-df05465d751026cf3fbbb61f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Елітна з шишкою — 1,5 м",
+      "oldPrice": null,
+      "price": 1654.9
+    },
+    {
+      "_id": "drafts.supplier-2026-df856fb405236005dd59ec93",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,5 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 5237.1
+    },
+    {
+      "_id": "drafts.supplier-2026-e0c5f43f9b38a4e7a7fb9cec",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 1,5 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 3631.06
+    },
+    {
+      "_id": "drafts.supplier-2026-e17240e864fb98f0da1f1466",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,1 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 9356.95
+    },
+    {
+      "_id": "drafts.supplier-2026-e1fa21148f16838a7e49e752",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,5 м, засніжена, парасолька",
+      "oldPrice": null,
+      "price": 5865.55
+    },
+    {
+      "_id": "drafts.supplier-2026-e2a1222d1586acf43f11918c",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Тріумф НА КРАБАХ / ШАРНІРАХ — 2,5 м",
+      "oldPrice": null,
+      "price": 16780.8
+    },
+    {
+      "_id": "drafts.supplier-2026-e5c9c17276d3132de17ff3a8",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Ковалівська\" SIGA GROUP — 2,5 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 9636.26
+    },
+    {
+      "_id": "drafts.supplier-2026-e63c6c45ff75d208c3a236f6",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Кармен (золото, срібло, калина) — 1,5 м",
+      "oldPrice": null,
+      "price": 1930.62
+    },
+    {
+      "_id": "drafts.supplier-2026-e6e60b31c55aae096164d78f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Сосна — 1,8 м",
+      "oldPrice": null,
+      "price": 2758.9
+    },
+    {
+      "_id": "drafts.supplier-2026-e7c9c497ea1718630ca275e1",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Рояль НА КРАБАХ / ШАРНІРАХ — 2,1 м",
+      "oldPrice": null,
+      "price": 10598.4
+    },
+    {
+      "_id": "drafts.supplier-2026-e7e98497a72071ef0c1b413a",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 3 м, зелена, парасолька",
+      "oldPrice": null,
+      "price": 18993.22
+    },
+    {
+      "_id": "drafts.supplier-2026-ecec010c01dcac5dc12153d9",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,3 м, зелена led, парасолька",
+      "oldPrice": null,
+      "price": 14035.43
+    },
+    {
+      "_id": "drafts.supplier-2026-ed1187ced42e8ba25bd62a8c",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Віденська\" SIGA GROUP — 3 м, блакитна, примотування",
+      "oldPrice": null,
+      "price": 14663.88
+    },
+    {
+      "_id": "drafts.supplier-2026-ee38335e0a75d910cdefdf30",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 2,5 м, засніжена, примотування",
+      "oldPrice": null,
+      "price": 15501.82
+    },
+    {
+      "_id": "drafts.supplier-2026-efc8db134f150ff523dc2420",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Ковалівська\" SIGA GROUP — 1,8 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 4748.3
+    },
+    {
+      "_id": "drafts.supplier-2026-f0b185e2fdb3453b859f0b9f",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 1,8 м, засніжена led, примотування",
+      "oldPrice": null,
+      "price": 10194.89
+    },
+    {
+      "_id": "drafts.supplier-2026-f16e79c2c36f59f4d4446fe6",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Швейцарська (зелена, голуба) на нитці — 1,8 м",
+      "oldPrice": null,
+      "price": 5299.2
+    },
+    {
+      "_id": "drafts.supplier-2026-f3a6f69afd0ae3c5f67e6700",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Лапландська\" SIGA GROUP — 3 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 29956.21
+    },
+    {
+      "_id": "drafts.supplier-2026-f52709a3e3ef85b41786f347",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Буковельська (зелена, голуба) на нитці — 2,3 м",
+      "oldPrice": null,
+      "price": 8169.6
+    },
+    {
+      "_id": "drafts.supplier-2026-f5ff3bddf1a32b4ca4979107",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита Елітна,Ковалівська (зелена, голуба) на нитці — 1,8 м",
+      "oldPrice": null,
+      "price": 5518.9
+    },
+    {
+      "_id": "drafts.supplier-2026-fa377d010b0a1e4ce4e71c93",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Міланська\" SIGA GROUP — 2,5 м, засніжена led, парасолька",
+      "oldPrice": null,
+      "price": 22763.93
+    },
+    {
+      "_id": "drafts.supplier-2026-fb8505604f1c2f85d17b8619",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Альпійська\" SIGA GROUP — 2,1 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 6982.8
+    },
+    {
+      "_id": "drafts.supplier-2026-fdaa03701c835701de2ccab4",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Ковалівська\" SIGA GROUP — 1,5 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 3072.43
+    },
+    {
+      "_id": "drafts.supplier-2026-fdbf01d0adc1e8cd693f1744",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Аляска\" SIGA GROUP — 3 м, зелена+блакитна, парасолька",
+      "oldPrice": null,
+      "price": 19482.01
+    },
+    {
+      "_id": "drafts.supplier-2026-ff1aa6ca2300695d78ffb0cf",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка лита \"Ковалівська\" SIGA GROUP — 2,1 м, зелена, примотування",
+      "oldPrice": null,
+      "price": 6214.69
+    },
+    {
+      "_id": "drafts.supplier-2026-fff0d95046f7aa8b2f130473",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка Лита ЗАСНІЖЕНА Буковельська на нитці — 2,5 м",
+      "oldPrice": null,
+      "price": 12696
+    },
+    {
+      "_id": "drafts.zelene-2026-11dd3374cb16",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка «РОЯЛ 16/18» ZELENE DEREVO (засніжена) — 2,1 м",
+      "oldPrice": null,
+      "price": 9273.6
+    },
+    {
+      "_id": "drafts.zelene-2026-3d023834676a",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка «РОЯЛ 16/18» ZELENE DEREVO (засніжена) — 2,3 м",
+      "oldPrice": null,
+      "price": 10795.05
+    },
+    {
+      "_id": "drafts.zelene-2026-5a3571a143f4",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка «РОЯЛ 16/18» ZELENE DEREVO (засніжена) — 1,5 м",
+      "oldPrice": null,
+      "price": 5071.5
+    },
+    {
+      "_id": "drafts.zelene-2026-9105007efd2b",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка «РОЯЛ 16/18» ZELENE DEREVO (засніжена) — 1,8 м",
+      "oldPrice": null,
+      "price": 6568.8
+    },
+    {
+      "_id": "drafts.zelene-2026-ec9f18237660",
+      "_rev": "ycvOVHWviMYg6a2p9xDGbt",
+      "name": "Ялинка «РОЯЛ 16/18» ZELENE DEREVO (засніжена) — 2,5 м",
+      "oldPrice": null,
+      "price": 16518.6
+    }
+  ]
+}

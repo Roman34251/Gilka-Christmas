@@ -220,3 +220,10 @@ test("вінки +200 з таблиці, ялинки за розміром, п�
   const { data } = renderPriceList([{ id: "w", category: "wreaths", sizeMeters: 0.45, price: 558.62, available: true }], tiers);
   assert.equal(data[0].price, 759);
 });
+
+test("товар без доставки (4 м, немає розміру) пропускається, а не валить увесь прайс", () => {
+  const ok = { id: "ok", category: "trees", sizeMeters: 2.1, price: 1000, available: true };
+  const { data, total } = renderPriceList([ok, { ...ok, id: "big", sizeMeters: 4 }, { ...ok, id: "nosize", sizeMeters: null }]);
+  assert.equal(total, 1);
+  assert.deepEqual(data.map((d) => d.code), ["ok"]);
+});

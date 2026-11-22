@@ -51,11 +51,17 @@ export function renderPriceList(
   const cfg = config.monomarket.price;
   // склад відправки в кабінеті Monomarket; блок warehouses передається завжди
   const warehouseId = String(env.MONOMARKET_WAREHOUSE_ID || cfg.warehouseId || "10002");
+  // Товар, для якого не можна визначити доставку (немає розміру або вищий за таблицю), не потрапляє
+  // в прайс — Monomarket вимкне лише його. Раніше така помилка валила весь прайс (503).
+  const priced = [];
+  for (const p of items) {
+    try { priced.push([p, deliveryFor(p, tiers)]); }
+    catch (e) { console.error("Monomarket price: пропущено", p.id, e.message); }
+  }
   return {
     updatedAt: now.toISOString().replace(/\.\d{3}Z$/, "Z"),
-    total: items.length,
-    data: items.map((p) => {
-      const delivery = deliveryFor(p, tiers);
+    total: priced.length,
+    data: priced.map(([p, delivery]) => {
       const stock = p.available ? config.stockQuantity : 0;
       return {
         code: offerId(p),
