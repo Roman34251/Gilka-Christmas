@@ -63,11 +63,17 @@ export function renderPriceList(
     total: priced.length,
     data: priced.map(([p, delivery]) => {
       const stock = p.available ? config.stockQuantity : 0;
+      // Знижка лише для ялинок і лише в Monomarket: нова ціна = ціна з доставкою мінус відсоток,
+      // old_price = колишня ціна (або вища стара ціна з бази, якщо вона є).
+      const base = withDelivery(p.price, delivery);
+      const own = p.oldPrice > p.price ? withDelivery(p.oldPrice, delivery) : null;
+      const pct = categoryId(p.category) === "trees" ? Number(cfg.treeDiscountPercent) || 0 : 0;
+      const price = pct > 0 ? Math.round(base * (1 - pct / 100)) : base;
+      const oldPrice = pct > 0 ? Math.max(own ?? 0, base) : own;
       return {
         code: offerId(p),
-        price: withDelivery(p.price, delivery),
-        old_price:
-          p.oldPrice > p.price ? withDelivery(p.oldPrice, delivery) : null,
+        price,
+        old_price: oldPrice > price ? oldPrice : null,
         availability: !!p.available,
         stock,
         warehouses: [{ id: warehouseId, stock }],
