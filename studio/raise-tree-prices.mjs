@@ -6,22 +6,25 @@ const pvcModelCodes = new Set([
   "drop-b8e7bd6c5a4b", // Карпатська
   "drop-95e4e8a0d96d", // Елітна з шишкою
   "drop-61782601a4dc", // Кармен
-  "drop-bcf0d106938b", // Снігова Королева
 ]);
+const pvcModel = /(?:^|[^\p{L}])(?:казка|софія)(?=$|[^\p{L}])/iu;
+const removedModel = /(?:^|[^\p{L}])снігова\s+королева(?=$|[^\p{L}])/iu;
 
 export function priceIncrease(product) {
   if (product.category !== "trees") return 0;
+  const name = [product.name, product.modelName].join(" ");
+  if (removedModel.test(name)) return 0;
+  if (pvcModelCodes.has(product.modelCode) || pvcModel.test(name)) return 300;
   const type = (product.specifications ?? [])
     .filter(({ label }) => /^(тип|вид|матеріал)(\s+(ялинки|дерева|хвої|гілок))?$/iu.test(label?.trim()))
     .map(({ value }) => value)
     .join(" ");
-  const text = [type, product.name, product.modelName].join(" ");
+  const text = [type, name].join(" ");
   const moulded = /(?:^|[^\p{L}])(?:лит[аеиі]|поліетилен\p{L}*|PE)(?=$|[^\p{L}])/iu.test(text);
   const pvc = /(?:^|[^\p{L}])(?:ПВХ|PVC)(?=$|[^\p{L}])/iu.test(text);
   if (moulded && pvc) return null;
   if (moulded) return 600;
-  if (pvc || pvcModelCodes.has(product.modelCode)) return 300;
-  return null;
+  return 0;
 }
 
 export async function run(apply) {
@@ -45,7 +48,8 @@ export async function run(apply) {
       continue;
     }
     const increase = priceIncrease(product);
-    if (!increase || !Number.isFinite(product.price) || product.price <= 0) {
+    if (increase === 0) continue;
+    if (increase === null || !Number.isFinite(product.price) || product.price <= 0) {
       unknown.push({ id: product._id, name: product.name });
       continue;
     }
