@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-22 13:09">
+<yml_catalog date="2026-11-28 13:05">
 <offers>
 <offer id="supplier202637f0ff0172ba6b05f53a0cf9" available="true">
 <price>860.27</price>
@@ -523,7 +523,7 @@
 <param name="Ширина">0,35 м</param>
 <param name="Кількість гілочок">132 шт.</param>
 </offer>
-<offer id="supplier2026b8ba4949dac5bd4858504334" available="true">
+<offer id="supplier2026b8ba4949dac5bd4858504334" available="false">
 <price>1457.28</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -550,7 +550,7 @@
 <param name="Параметри пакування (дані постачальника)">10кг    93*20*20см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026cb5e849a2c6191db3397dae2" available="true">
+<offer id="supplier2026cb5e849a2c6191db3397dae2" available="false">
 <price>1882.32</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -577,7 +577,7 @@
 <param name="Параметри пакування (дані постачальника)">10кг    93*20*20см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202690aeccff8811ff6acf9eecc4" available="true">
+<offer id="supplier202690aeccff8811ff6acf9eecc4" available="false">
 <price>2185.92</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -604,7 +604,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20265c69145578b7a54073365dfa" available="true">
+<offer id="supplier20265c69145578b7a54073365dfa" available="false">
 <price>2550.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -631,7 +631,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026807d6f55c95a8a6df1d32010" available="true">
+<offer id="supplier2026807d6f55c95a8a6df1d32010" available="false">
 <price>3886.08</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1671,7 +1671,7 @@
 <param name="Колір / виконання">червоні шишки, червона калина</param>
 <param name="Матеріал">ПВХ</param>
 </offer>
-<offer id="supplier2026df05465d751026cf3fbbb61f" available="true">
+<offer id="supplier2026df05465d751026cf3fbbb61f" available="false">
 <price>1820.39</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1698,7 +1698,7 @@
 <param name="Параметри пакування (дані постачальника)">10кг.   92*21*20см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20266c3472995fd8fbbb3178d364" available="true">
+<offer id="supplier20266c3472995fd8fbbb3178d364" available="false">
 <price>2489.52</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1725,7 +1725,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202616ed82458878104c9751357f" available="true">
+<offer id="supplier202616ed82458878104c9751357f" available="false">
 <price>2914.56</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1752,7 +1752,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202646560e5d539827dcc29a3c83" available="true">
+<offer id="supplier202646560e5d539827dcc29a3c83" available="false">
 <price>3400.32</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1779,7 +1779,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.   120*33*30см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026c97dfc7ebf50db2ef3ffde7b" available="true">
+<offer id="supplier2026c97dfc7ebf50db2ef3ffde7b" available="false">
 <price>4736.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1806,7 +1806,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.   120*33*30см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026e63c6c45ff75d208c3a236f6" available="true">
+<offer id="supplier2026e63c6c45ff75d208c3a236f6" available="false">
 <price>2123.68</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1833,7 +1833,7 @@
 <param name="Параметри пакування (дані постачальника)">12кг.   94*23*23см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026775c632ab6f12ac575541f41" available="true">
+<offer id="supplier2026775c632ab6f12ac575541f41" available="false">
 <price>2793.12</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1860,7 +1860,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202631bc2d36822bcffc7192281d" available="true">
+<offer id="supplier202631bc2d36822bcffc7192281d" available="false">
 <price>3218.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1887,7 +1887,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026810dce64522faf197fd340f7" available="true">
+<offer id="supplier2026810dce64522faf197fd340f7" available="false">
 <price>3945.59</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1914,7 +1914,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.   120*33*30см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026d8ba5336ca7a6f4ce9caa954" available="true">
+<offer id="supplier2026d8ba5336ca7a6f4ce9caa954" available="false">
 <price>5159.99</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1941,7 +1941,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.   120*33*30см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20263401b17fc945c500fb9fca7b" available="true">
+<offer id="supplier20263401b17fc945c500fb9fca7b" available="false">
 <price>3764.64</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1967,7 +1967,7 @@
 <param name="Параметри пакування (дані постачальника)">25кг.100*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20267cb0cf7b76cc7513987777c5" available="true">
+<offer id="supplier20267cb0cf7b76cc7513987777c5" available="false">
 <price>5463.59</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -1993,7 +1993,7 @@
 <param name="Параметри пакування (дані постачальника)">25кг.100*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20264480e95290c332a72a076ebc" available="true">
+<offer id="supplier20264480e95290c332a72a076ebc" available="false">
 <price>7164.96</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2071,7 +2071,7 @@
 <param name="Параметри пакування (дані постачальника)">48кг.120*40*40</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026be797a505892cb6871b77dd9" available="true">
+<offer id="supplier2026be797a505892cb6871b77dd9" available="false">
 <price>4249.19</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2097,7 +2097,7 @@
 <param name="Параметри пакування (дані постачальника)">25кг.100*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026f5ff3bddf1a32b4ca4979107" available="true">
+<offer id="supplier2026f5ff3bddf1a32b4ca4979107" available="false">
 <price>6070.79</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2123,7 +2123,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20268f151bcceed43dbefff6d5c7" available="true">
+<offer id="supplier20268f151bcceed43dbefff6d5c7" available="false">
 <price>8015.04</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2149,7 +2149,7 @@
 <param name="Параметри пакування (дані постачальника)">40кг.120*40*33</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202650b62922d457ec893306ade0" available="true">
+<offer id="supplier202650b62922d457ec893306ade0" available="false">
 <price>9958.08</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2175,7 +2175,7 @@
 <param name="Параметри пакування (дані постачальника)">48кг.120*40*40</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20263ab4a39ecc8c5afa9128b8fa" available="true">
+<offer id="supplier20263ab4a39ecc8c5afa9128b8fa" available="false">
 <price>12749.99</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2201,7 +2201,7 @@
 <param name="Параметри пакування (дані постачальника)">75кг.120*50*50</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026013606085ae86047a45c96d1" available="true">
+<offer id="supplier2026013606085ae86047a45c96d1" available="false">
 <price>20644.8</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2227,7 +2227,7 @@
 <param name="Параметри пакування (дані постачальника)">2місця 120*50*50</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202614f15c24a08799ee080fe229" available="true">
+<offer id="supplier202614f15c24a08799ee080fe229" available="false">
 <price>5100.48</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2305,7 +2305,7 @@
 <param name="Параметри пакування (дані постачальника)">40кг.120*40*33</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026405daf35ebc3036cadc03184" available="true">
+<offer id="supplier2026405daf35ebc3036cadc03184" available="false">
 <price>11293.92</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2331,7 +2331,7 @@
 <param name="Параметри пакування (дані постачальника)">48кг.120*40*40</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026fff0d95046f7aa8b2f130473" available="true">
+<offer id="supplier2026fff0d95046f7aa8b2f130473" available="false">
 <price>13965.6</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2357,7 +2357,7 @@
 <param name="Параметри пакування (дані постачальника)">75кг.120*50*50</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026756d0024219356552a18a2a2" available="true">
+<offer id="supplier2026756d0024219356552a18a2a2" available="false">
 <price>5463.59</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2383,7 +2383,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026a7a99c19d14baf4a29c12cf8" available="true">
+<offer id="supplier2026a7a99c19d14baf4a29c12cf8" available="false">
 <price>7772.16</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2409,7 +2409,7 @@
 <param name="Параметри пакування (дані постачальника)">40кг.120*40*33</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026415588e1c7d9f0386557b136" available="true">
+<offer id="supplier2026415588e1c7d9f0386557b136" available="false">
 <price>10321.19</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2435,7 +2435,7 @@
 <param name="Параметри пакування (дані постачальника)">48кг.120*40*40</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202614835ad5001e33b1a7ae5249" available="true">
+<offer id="supplier202614835ad5001e33b1a7ae5249" available="false">
 <price>12508.32</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2461,7 +2461,7 @@
 <param name="Параметри пакування (дані постачальника)">75кг.120*50*50</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20260b9fc031644fc101c622f32b" available="true">
+<offer id="supplier20260b9fc031644fc101c622f32b" available="false">
 <price>16394.4</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2539,7 +2539,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026d4f7fd667be1c73b85201c73" available="true">
+<offer id="supplier2026d4f7fd667be1c73b85201c73" available="false">
 <price>3764.64</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2565,7 +2565,7 @@
 <param name="Параметри пакування (дані постачальника)">25кг.100*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026990047368666215ae709bc32" available="true">
+<offer id="supplier2026990047368666215ae709bc32" available="false">
 <price>5463.59</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2591,7 +2591,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202633937b41d445e70b7866fee9" available="true">
+<offer id="supplier202633937b41d445e70b7866fee9" available="false">
 <price>7164.96</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2617,7 +2617,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20269a9708363a9379dad43ab388" available="true">
+<offer id="supplier20269a9708363a9379dad43ab388" available="false">
 <price>8986.56</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2643,7 +2643,7 @@
 <param name="Параметри пакування (дані постачальника)">40кг.120*40*33</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20269a8838201fd0b4d2f2037750" available="true">
+<offer id="supplier20269a8838201fd0b4d2f2037750" available="false">
 <price>11293.92</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2669,7 +2669,7 @@
 <param name="Параметри пакування (дані постачальника)">48кг.120*40*40</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20263b0bf5bd7dce71666df18a6e" available="true">
+<offer id="supplier20263b0bf5bd7dce71666df18a6e" available="false">
 <price>6557.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2695,7 +2695,7 @@
 <param name="Параметри пакування (дані постачальника)">20кг.120*26*26</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202652b4eaf364c531737876a22e" available="true">
+<offer id="supplier202652b4eaf364c531737876a22e" available="false">
 <price>9106.79</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2721,7 +2721,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*32*31</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026e7c9c497ea1718630ca275e1" available="true">
+<offer id="supplier2026e7c9c497ea1718630ca275e1" available="false">
 <price>11658.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2747,7 +2747,7 @@
 <param name="Параметри пакування (дані постачальника)">40кг.120*37*36</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026b9d9d548735142905fdf68a8" available="true">
+<offer id="supplier2026b9d9d548735142905fdf68a8" available="false">
 <price>14571.59</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2773,7 +2773,7 @@
 <param name="Параметри пакування (дані постачальника)">50кг.120*41*41</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20267774113a1633012a71dac3b5" available="true">
+<offer id="supplier20267774113a1633012a71dac3b5" available="false">
 <price>18458.88</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2799,7 +2799,7 @@
 <param name="Параметри пакування (дані постачальника)">56кг.127*43*41</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202600a437d53c5729bf42177190" available="true">
+<offer id="supplier202600a437d53c5729bf42177190" available="false">
 <price>27688.32</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2825,7 +2825,7 @@
 <param name="Параметри пакування (дані постачальника)">70кг.120*45*45</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026b73e09a2bdc7eafea44de947" available="true">
+<offer id="supplier2026b73e09a2bdc7eafea44de947" available="false">
 <price>9106.79</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2851,7 +2851,7 @@
 <param name="Параметри пакування (дані постачальника)">40кг.120*37*36</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202681e885feed28ad11e312ace6" available="true">
+<offer id="supplier202681e885feed28ad11e312ace6" available="false">
 <price>11658.24</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2877,7 +2877,7 @@
 <param name="Параметри пакування (дані постачальника)">50кг.120*41*41</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20263c04beda853b0a9324efa6d3" available="true">
+<offer id="supplier20263c04beda853b0a9324efa6d3" available="false">
 <price>14571.59</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2929,7 +2929,7 @@
 <param name="Параметри пакування (дані постачальника)">56кг.127*43*41</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20268368f0d414b974b63f0bc9ba" available="true">
+<offer id="supplier20268368f0d414b974b63f0bc9ba" available="false">
 <price>4007.52</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2955,7 +2955,7 @@
 <param name="Параметри пакування (дані постачальника)">15кг.100*25*24</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026f16e79c2c36f59f4d4446fe6" available="true">
+<offer id="supplier2026f16e79c2c36f59f4d4446fe6" available="false">
 <price>5829.12</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -2981,7 +2981,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026c654e19c5b7420b7640b4ffa" available="true">
+<offer id="supplier2026c654e19c5b7420b7640b4ffa" available="false">
 <price>7650.72</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3007,7 +3007,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг.120*33*30</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20267a4b6ec693f21fec1df93186" available="true">
+<offer id="supplier20267a4b6ec693f21fec1df93186" available="false">
 <price>9593.76</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3033,7 +3033,7 @@
 <param name="Параметри пакування (дані постачальника)">40кг.120*40*33</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20267a04d2587a0cfbbe16424bc1" available="true">
+<offer id="supplier20267a04d2587a0cfbbe16424bc1" available="false">
 <price>12142.79</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3059,7 +3059,7 @@
 <param name="Параметри пакування (дані постачальника)">48кг.120*40*40</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026bc111af0604124b503348ff7" available="true">
+<offer id="supplier2026bc111af0604124b503348ff7" available="false">
 <price>1516.79</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3086,7 +3086,7 @@
 <param name="Параметри пакування (дані постачальника)">12кг.   94*23*23см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier2026a7d06b602215def73c3268e9" available="true">
+<offer id="supplier2026a7d06b602215def73c3268e9" available="false">
 <price>2123.99</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3113,7 +3113,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202656265708185a31b6cf7a1170" available="true">
+<offer id="supplier202656265708185a31b6cf7a1170" available="false">
 <price>2489.52</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3140,7 +3140,7 @@
 <param name="Параметри пакування (дані постачальника)">18кг.  106*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20261463c191230492bc0ba46e14" available="true">
+<offer id="supplier20261463c191230492bc0ba46e14" available="false">
 <price>2914.56</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3167,7 +3167,7 @@
 <param name="Параметри пакування (дані постачальника)">20кг.  112*26*26см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier20265aa81c220056c6b0610ee1b8" available="true">
+<offer id="supplier20265aa81c220056c6b0610ee1b8" available="false">
 <price>4249.19</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>
@@ -3194,7 +3194,7 @@
 <param name="Параметри пакування (дані постачальника)">30кг  120*33*30см</param>
 <param name="Виробник">Slipo</param>
 </offer>
-<offer id="supplier202631a2aaba5c42e9ca7b7fccb6" available="true">
+<offer id="supplier202631a2aaba5c42e9ca7b7fccb6" available="false">
 <price>6677.99</price>
 <category code="11111">Штучні ялинки</category>
 <attribute_set code="11111">Штучні ялинки</attribute_set>

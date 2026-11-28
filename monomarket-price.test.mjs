@@ -74,10 +74,11 @@ test("загальний прайс не підставляє демо при н
 });
 
 test("доставка ялинок за розміром", () => {
-  const got = [0.7, 1.5, 1.8, 2, 2.1, 2.2, 2.3, 2.5, 3].map((s) =>
+  const got = [1.5, 1.8, 2, 2.1, 2.2, 2.3, 2.5, 3].map((s) =>
     deliveryFor(tree(s)),
   );
-  assert.deepEqual(got, [300, 300, 500, 600, 700, 700, 1000, 1300, 1500]);
+  assert.deepEqual(got, [300, 500, 600, 700, 700, 1000, 1300, 1500]);
+  assert.throws(() => deliveryFor(tree(1.9)), /No delivery tier/);
 });
 test("вінки +200, прикраси без доставки; невідомий розмір ялинки потребує уточнення", () => {
   assert.equal(deliveryFor({ category: "wreaths", sizeMeters: 0.45 }), 200);

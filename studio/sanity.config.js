@@ -76,6 +76,12 @@ const product = defineType({
       readOnly: true,
     }),
     defineField({
+      name: "treePriceAdjustment",
+      type: "string",
+      hidden: true,
+      readOnly: true,
+    }),
+    defineField({
       name: "available",
       title: "Є в наявності",
       type: "boolean",
@@ -153,7 +159,7 @@ const deliveryTier = defineType({
     }),
     defineField({
       name: "maxMeters",
-      title: "Розмір до (м, включно)",
+      title: "Точний розмір (м)",
       description: "Порожньо — одна ціна доставки для всієї категорії.",
       type: "number",
       validation: (r) => r.positive(),
@@ -175,7 +181,7 @@ const deliveryTier = defineType({
   preview: {
     select: { title: "maxMeters", subtitle: "price", category: "category" },
     prepare: ({ title, subtitle, category }) => ({
-      title: ({ wreaths: "Вінки", decor: "Прикраси" }[category] || "Ялинки") + (title ? " до " + title + " м" : " — усі розміри"),
+      title: ({ wreaths: "Вінки", decor: "Прикраси" }[category] || "Ялинки") + (title ? " · " + title.toLocaleString("uk-UA") + " м" : " — усі розміри"),
       subtitle: subtitle + " грн",
     }),
   },

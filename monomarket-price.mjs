@@ -4,7 +4,7 @@
 import config from "./feeds/config.json" with { type: "json" };
 import { categoryId } from "./catalog.mjs";
 
-// Таблиця доставки за замовчуванням: перший рядок, у якого maxMeters >= розмір ялинки.
+// Кожен тариф на ялинку відповідає одному точному розміру.
 // Її можна змінити без деплою — документи «Доставка для Monomarket» (deliveryTier) у Sanity Studio.
 export const DEFAULT_TIERS = [
   { maxMeters: 1.5, price: 300 },
@@ -33,7 +33,7 @@ export function deliveryFor(product, tiers = DEFAULT_TIERS) {
   if (flat) return flat.price;
   const size = Number(product.sizeMeters);
   if (!Number.isFinite(size) || size <= 0) throw new Error("Missing size for delivery");
-  const tier = [...own].sort((a, b) => a.maxMeters - b.maxMeters).find((t) => size <= t.maxMeters);
+  const tier = own.find((t) => size === t.maxMeters);
   if (!tier) throw new Error("No delivery tier for size");
   return tier.price;
 }
