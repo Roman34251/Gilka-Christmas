@@ -98,7 +98,7 @@ test("прайс: ціна + доставка, old_price, code як у фіді"
     { MONOMARKET_WAREHOUSE_ID: "9" },
   );
   assert.equal(data[0].code, offerId(p));
-  assert.equal(data[0].price, 1900); // (1000 + 1000 доставка) −5%
+  assert.equal(data[0].price, 2000);
   assert.equal(data[0].old_price, 2500);
   assert.equal(data[1].availability, false);
   assert.equal(data[1].stock, 0);
@@ -133,7 +133,7 @@ test("офіційні сервери Monomarket мають доступ; сто
 test("ціни Monomarket — цілі гривні, доставка врахована, значення бази не змінюються", () => {
   const product = tree(1.8, { price: 1150.75, oldPrice: 1400.25 });
   const row = renderPriceList([product]).data[0];
-  assert.equal(row.price, 1568); // 1651 з доставкою −5%
+  assert.equal(row.price, 1651);
   assert.equal(row.old_price, 1900);
   assert.equal(product.price, 1150.75);
 });
@@ -175,8 +175,8 @@ test("endpoint читає поточні ціни й доставку з баз�
   assert.equal(response.headers.get("cache-control"), "no-store");
   let json = await response.json();
   assert.equal(json.total, 2);
-  assert.equal(json.data[0].price, 1615); // 1700 −5%
-  assert.equal(json.data[0].old_price, 1700);
+  assert.equal(json.data[0].price, 1700);
+  assert.equal(json.data[0].old_price, null);
   assert.equal(json.data[0].code, offerId(tree(1.8)));
   assert.equal(json.data[1].price, 345);
   assert.equal(json.data[1].stock, 0);
@@ -184,7 +184,7 @@ test("endpoint читає поточні ціни й доставку з баз�
   basePrice = 1200.25;
   shipping = 600;
   json = await (await monomarketPriceApi(request(), env)).json();
-  assert.equal(json.data[0].price, 1710); // 1800 −5%
+  assert.equal(json.data[0].price, 1800);
   response = await monomarketPriceApi(request("HEAD"), env);
   assert.equal(response.status, 200);
   assert.equal(await response.text(), "");
@@ -230,12 +230,12 @@ test("товар без доставки (4 м, немає розміру) пр�
   assert.deepEqual(data.map((d) => d.code), ["ok"]);
 });
 
-test("знижка 5% на ялинки в Monomarket: old_price = ціна без знижки; вінки без знижки", () => {
-  const t = tree(1.8, { price: 1000 }); // доставка 500 → 1500
+test("прайс додає доставку й залишає old_price порожнім за відсутності старої ціни", () => {
+  const t = tree(1.8, { price: 1000 });
   const w = { id: "w1", category: "wreaths", sizeMeters: 0.45, price: 500, available: true };
   const { data } = renderPriceList([t, w]);
-  assert.equal(data[0].price, 1425);
-  assert.equal(data[0].old_price, 1500);
+  assert.equal(data[0].price, 1500);
+  assert.equal(data[0].old_price, null);
   assert.equal(data[1].price, 700);
   assert.equal(data[1].old_price, null);
   assert.equal(t.price, 1000);

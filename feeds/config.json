@@ -54,8 +54,7 @@
       "warrantyType": "merchant",
       "warrantyMonths": 12,
       "maxPayInParts": 6,
-      "daysToDispatch": 14,
-      "treeDiscountPercent": 5
+      "daysToDispatch": 14
     }
   }
 }
